@@ -18,8 +18,6 @@
 
 |REPLACE1|
 
-\ |LINK1|\ 
-
 ”金屬從它被製造出來的當下就開始鏽蝕“ ... Matthew R. Simmons,國際知名能源基金創辦人 
 
 過去的防鏽理論除了先要求把鏽除乾淨或塗上防堵型止鏽漆之外，更要求使用非常厚實的塗料包裹金屬，避免外來因素造成金屬鏽蝕。
@@ -58,8 +56,3 @@ SGS檢驗完全不含重金屬，無VOCs，符合美國FDA食品容器塗層標�
 .. |REPLACE1| raw:: html
 
     <iframe width="100%" height="480" src="https://www.youtube.com/embed/74AgCrS-xtU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-.. |LINK1| raw:: html
-
-    <a href="https://youtu.be/74AgCrS-xtU" target="_blank">https://youtu.be/74AgCrS-xtU</a>
-
