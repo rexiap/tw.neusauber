@@ -73,7 +73,7 @@
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-size:14px"><span  style="font-size:14px"><span style="font-weight:bold">ARPrimer底塗型透明防鏽劑 </span>噴霧罐</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">容量：220mL</span></p><p style="font-size:14px"><span  style="font-size:14px">使用面積：4 m<sup>2</sup>  max</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>          <img src="_images/Products_4.png" style="width:36px;height:102px;vertical-align: baseline;"></p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-size:14px"><span  style="font-size:14px"><span style="font-weight:bold">ARPrimer底塗型透明防鏽劑 </span>噴霧罐</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">容量：220mL</span></p><p style="font-size:14px"><span  style="font-size:14px">使用面積：4 m<sup>2</sup>  max</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>          <img src="_images/Products_4.png" style="width:130px;height:369px;vertical-align: baseline;"></p></td></tr>
     </tbody></table>
 
 .. |REPLACE5| raw:: html
@@ -97,5 +97,5 @@
    :width: 261 px
 
 .. |IMG4| image:: static/Products_4.png
-   :height: 102 px
-   :width: 36 px
+   :height: 369 px
+   :width: 130 px
