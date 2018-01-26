@@ -15,7 +15,8 @@
     Products
     Veri-test
 
-介紹影片
+
+|REPLACE1|
 
 \ |LINK1|\ 
 
@@ -53,6 +54,10 @@ SGS檢驗完全不含重金屬，無VOCs，符合美國FDA食品容器塗層標�
 
 .. bottom of content
 
+
+.. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="480" src="https://www.youtube.com/embed/74AgCrS-xtU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 .. |LINK1| raw:: html
 
