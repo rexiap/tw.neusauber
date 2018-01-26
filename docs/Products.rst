@@ -79,7 +79,7 @@
 .. |REPLACE5| raw:: html
 
     <style>
-    td {
+    td , th{
        border: none !important;
        text-align:left !important;
     }
