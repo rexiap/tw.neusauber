@@ -69,7 +69,7 @@ ARPrimer底塗型透明防鏽劑 噴霧罐
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><th style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:14px"><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">容量：220mL</span></p><p style="font-size:14px"><span  style="font-size:14px">使用面積：4 m<sup>2</sup>  max</span></p></th><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>          <img src="_images/Products_2.png" style="width:129px;height:316px;vertical-align: baseline;"> </p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:14px"><span  style="font-size:14px">容量：220mL</span></p><p style="font-size:14px"><span  style="font-size:14px">使用面積：4 m<sup>2</sup>  max</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>          <img src="_images/Products_2.png" style="width:129px;height:316px;vertical-align: baseline;"> </p></td></tr>
     </tbody></table>
 
 .. |REPLACE3| raw:: html
@@ -92,7 +92,7 @@ ARPrimer底塗型透明防鏽劑 噴霧罐
     td,th{
       border: none !important;
       text-align:left !important;
-      font-size:14px;
+      font-size:1.2em !important;
     }
     td:first-child,th:first-child{
       width:50%;
