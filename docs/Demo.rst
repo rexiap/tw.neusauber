@@ -4,23 +4,29 @@
 使用建議
 ########
 
-使用示範
+.. _h174fb648377959437b5c1f697c1c40:
 
-\ |LINK1|\ 
+使用示範
+========
+
+
+|REPLACE1|
+
+.. _h68017771fa7c85ef23567fe7b5a:
 
 分盛材質與儲存
+==============
 
-\ |LINK2|\ 
+
+|REPLACE2|
 
 
 .. bottom of content
 
 
-.. |LINK1| raw:: html
+.. |REPLACE1| raw:: html
 
-    <a href="https://youtu.be/XulGPWDqp_M" target="_blank">https://youtu.be/XulGPWDqp_M</a>
+    <iframe width="100%" height="480" src="https://www.youtube.com/embed/XulGPWDqp_M" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+.. |REPLACE2| raw:: html
 
-.. |LINK2| raw:: html
-
-    <a href="https://youtu.be/I0A66Z2vZrI" target="_blank">https://youtu.be/I0A66Z2vZrI</a>
-
+    <iframe width="100%" height="480" src="https://www.youtube.com/embed/I0A66Z2vZrI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
