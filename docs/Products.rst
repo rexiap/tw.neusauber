@@ -89,12 +89,12 @@ ARPrimer底塗型透明防鏽劑 噴霧罐
 .. |REPLACE5| raw:: html
 
     <style>
-    td,th{
-      border: none !important;
-      text-align:left !important;
+    td p, th p{
       font-size:1.2em !important;
     }
     td:first-child,th:first-child{
+      border: none !important;
+      text-align:left !important;
       width:50%;
     }
     td:nth-child(2) {
