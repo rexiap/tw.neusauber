@@ -91,7 +91,7 @@ ARPrimer底塗型透明防鏽劑 噴霧罐
     <style>
     td,th{
       border: none !important;
-      text-align:left !important;
+      text-align:left;
     }
     td:first-child,th:first-child{
       width:50%;
