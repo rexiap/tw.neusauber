@@ -7,4 +7,20 @@
 意杰國際主要業務為專業特用化學品開發、代理、生產、及銷售，產品著重新創、節能、與環保，結合台灣數個研究單位之顧問團隊，提供合適資訊、創新工法、與先進產品，為客戶解決問題瓶頸，提升技術品質，創造最優價值。
 
 
+|REPLACE1|
+
+
 .. bottom of content
+
+
+.. |REPLACE1| raw:: html
+
+    <style>
+    div.wy-grid-for-nav li.wy-breadcrumbs-aside {
+      display:none;
+    }
+    div.rtd-pro.wy-menu, div.rst-pro.wy-menu{
+      margin-top:100%;
+      opacity: 0.5;
+    }
+    </style>
