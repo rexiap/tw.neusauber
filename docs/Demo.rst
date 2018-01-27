@@ -21,6 +21,9 @@
 |REPLACE2|
 
 
+|REPLACE3|
+
+
 .. bottom of content
 
 
@@ -30,3 +33,14 @@
 .. |REPLACE2| raw:: html
 
     <iframe width="100%" height="480" src="https://www.youtube.com/embed/I0A66Z2vZrI" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+.. |REPLACE3| raw:: html
+
+    <style>
+    div.wy-grid-for-nav li.wy-breadcrumbs-aside {
+      display:none;
+    }
+    div.rtd-pro.wy-menu, div.rst-pro.wy-menu{
+      margin-top:100%;
+      opacity: 0.5;
+    }
+    </style>
