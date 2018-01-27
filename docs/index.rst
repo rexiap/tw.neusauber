@@ -50,9 +50,20 @@ SGS檢驗完全不含重金屬，無VOCs，符合美國FDA食品容器塗層標�
 
 特點：免除鏽、免等固化可直接上漆，取代傳統各式底漆、增加油漆與金屬間附著。施作快速、簡單。
 
+
+|REPLACE2|
+
+
 .. bottom of content
 
 
 .. |REPLACE1| raw:: html
 
     <iframe width="100%" height="480" src="https://www.youtube.com/embed/74AgCrS-xtU" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+.. |REPLACE2| raw:: html
+
+    <style>
+    div.wy-grid-for-nav li.wy-breadcrumbs-aside {
+      display:none;
+    }
+    </style>
