@@ -66,4 +66,8 @@ SGS檢驗完全不含重金屬，無VOCs，符合美國FDA食品容器塗層標�
     div.wy-grid-for-nav li.wy-breadcrumbs-aside {
       display:none;
     }
+    div.rtd-pro.wy-menu, div.rst-pro.wy-menu{
+      margin-top:100%;
+      opacity: 0.5;
+    }
     </style>
