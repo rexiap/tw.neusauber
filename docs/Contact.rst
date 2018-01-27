@@ -20,8 +20,24 @@
 
 電話：03-3358365
 
+
+|REPLACE1|
+
+
 .. bottom of content
 
+
+.. |REPLACE1| raw:: html
+
+    <style>
+    div.wy-grid-for-nav li.wy-breadcrumbs-aside {
+      display:none;
+    }
+    div.rtd-pro.wy-menu, div.rst-pro.wy-menu{
+      margin-top:100%;
+      opacity: 0.5;
+    }
+    </style>
 
 .. |LINK1| raw:: html
 
