@@ -109,8 +109,8 @@ SGS檢驗符合RoHS，完全不含重金屬，無VOCs，符合美國FDA食品容
     }
     </style>
 .. |IMG1| image:: static/index_1.jpeg
-   :height: 508 px
-   :width: 684 px
+   :height: 349 px
+   :width: 470 px
 
 .. |IMG2| image:: static/index_2.png
    :height: 465 px
