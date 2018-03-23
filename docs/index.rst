@@ -25,19 +25,7 @@ Neusauber AR透明防鏽劑
 
   免除鏽之ARPrimer底塗凍鏽＋面漆保護工法，通過中興工程、高公局嚴格審驗，效果遠優於先除鏽並使用鋅粉底漆傳統工法，決定全線施作
 
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-.. _h761ab401543201137a78553757464:
-
-\ |IMG1|\ ----------
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
+\ |IMG1|\ 
 
 .. _h79c6077c41304c4a7849a4f396c53:
 
@@ -121,8 +109,8 @@ SGS檢驗符合RoHS，完全不含重金屬，無VOCs，符合美國FDA食品容
     }
     </style>
 .. |IMG1| image:: static/index_1.jpeg
-   :height: 518 px
-   :width: 697 px
+   :height: 420 px
+   :width: 566 px
 
 .. |IMG2| image:: static/index_2.png
    :height: 465 px
