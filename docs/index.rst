@@ -105,9 +105,9 @@ SGS檢驗符合RoHS，完全不含重金屬，無VOCs，符合美國FDA食品容
       opacity: 0.5;
     }
     </style>
-.. |IMG1| image:: static/index_1.jpeg
-   :height: 482 px
-   :width: 649 px
+.. |IMG1| image:: static/index_1.png
+   :height: 486 px
+   :width: 650 px
 
 .. |IMG2| image:: static/index_2.png
    :height: 465 px
