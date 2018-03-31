@@ -46,5 +46,5 @@
 
 
 .. |IMG1| image:: static/Contact_1.jpeg
-   :height: 278 px
-   :width: 332 px
+   :height: 244 px
+   :width: 329 px
