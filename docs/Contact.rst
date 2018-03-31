@@ -23,6 +23,7 @@
 
 |REPLACE1|
 
+\ |IMG1|\ 
 
 .. bottom of content
 
@@ -43,3 +44,7 @@
 
     <a href="mailto:service@neusauber.com">service@neusauber.com</a>
 
+
+.. |IMG1| image:: static/Contact_1.jpeg
+   :height: 278 px
+   :width: 332 px
