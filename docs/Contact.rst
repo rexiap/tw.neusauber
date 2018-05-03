@@ -41,5 +41,5 @@
 
 .. |LINK1| raw:: html
 
-    <a href="mailto:service@neusauber.com">service@neusauber.com</a>
+    <a href="mailto:esailtw01@gmail.com">esailtw01@gmail.com</a>
 
