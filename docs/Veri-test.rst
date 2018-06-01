@@ -20,15 +20,24 @@ SGS 三大驗證保障
 
 
 
++--------------+-----------+----------+
+|\ |IMG1|\     |\ |IMG2|\  |\ |IMG3|\ |
+|              |           |          |
+|RoHS Complaint|VOCs Free  |US FDA    |
+|              |           |          |
++--------------+-----------+----------+
+
+.. _h621a43fb1c1a26452669741c642e:
+
+SGS 防鏽能力檢測
+================
+
+膜層厚度小於1μm，依ASTM B117 標準進行 500小時鹽水噴霧試驗，500小時通過
+
+\ |IMG4|\ 
+
+
 |REPLACE2|
-
-.. _h2c1d74277104e41780968148427e:
-
-
-
-
-
-|REPLACE3|
 
 .. _h6759752a2a4c4d7c582067552015e37:
 
@@ -40,28 +49,37 @@ SGS 三大驗證保障
 提高低階表面處理產品防鏽能力  (ASTM B117 NSS 432hrs)
 ----------------------------------------------------
 
-\ |IMG4|\ 
+\ |IMG5|\ 
 
 .. _h7d4f3554605d4928465e353e62762066:
 
 面漆封孔延長壽命不受鹽分濕氣侵蝕    (95%RH RT High Salt Contain Exposed 1,440hrs)
 ---------------------------------------------------------------------------------
 
-\ |IMG5|\ 
+\ |IMG6|\ 
+
+.. _h371b32363655104e7f63456412d40c:
+
+海邊316不鏽鋼管AR防鏽長期效果顯著，焊接處也無鏽
+-----------------------------------------------
+
+.. _h756a352c74f366066557d5675585624:
+
+\ |IMG7|\ ----------
 
 .. _h4893794c3f47f6f6c2280104a417e:
 
 海邊鏽蝕法蘭凍鏽一年後不長新鏽    (觀音工業區, 台灣)
 ----------------------------------------------------
 
-\ |IMG6|\ 
+\ |IMG8|\ 
 
 .. _h4893794c3f47f6f6c2280104a417e:
 
 海邊鏽蝕熱水管凍鏽一年仍無新鏽    (觀音工業區, 台灣)
 ----------------------------------------------------
 
-\ |IMG7|\ 
+\ |IMG9|\ 
 
 .. _h545f2d3c3794f561669591ee42462b:
 
@@ -73,28 +91,28 @@ SGS 三大驗證保障
 凍鏽後鹽霧360小時漆面完整不起泡    (ASTM B117 NSS 360hrs)
 ---------------------------------------------------------
 
-\ |IMG8|\ 
+\ |IMG10|\ 
 
 .. _h07e6a5b7e3267223b193679c5b643b:
 
 免除鏽取代鋅粉底漆增加防鏽能力    (ASTM B117 NSS 72hrs)
 -------------------------------------------------------
 
-\ |IMG9|\ 
+\ |IMG11|\ 
 
 .. _h39637d948521e7b7421411770577f7c:
 
 提高漆料附著鹽霧432小時不流鏽水    (ASTM B117 NSS 432hrs)
 ---------------------------------------------------------
 
-\ |IMG10|\ 
+\ |IMG12|\ 
 
 .. _hf7f746347312486fa67f437c7f69:
 
 增加漆料附著彎折金屬底板不開裂    (ASTM D522 ∅2mm 45 degree)
 ------------------------------------------------------------
 
-\ |IMG11|\ 
+\ |IMG13|\ 
 
 .. bottom of content
 
@@ -107,13 +125,6 @@ SGS 三大驗證保障
     }
     </style>
 .. |REPLACE2| raw:: html
-
-    <table cellspacing="0" cellpadding="0" style="width:100%">
-    <tbody>
-    <tr><td style="text-align:center;width:31%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:10px"><img src="_images/Veri-test_1.png" style="width:172px;height:242px;vertical-align: baseline;"></p><p style="font-size:16px"><p style="font-size:16px"><span  style="font-size:16px">RoHS Complaint</span></p><p style="font-size:10px"></td><td style="text-align:center;width:34%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/Veri-test_2.png" style="width:177px;height:225px;vertical-align: baseline;"> </p><p>VOCs Free</p></td><td style="text-align:center;width:34%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/Veri-test_3.png" style="width:176px;height:224px;vertical-align: baseline;"></p><p>US FDA</p></td></tr>
-    </tbody></table>
-
-.. |REPLACE3| raw:: html
 
     <style>
     div.wy-grid-for-nav li.wy-breadcrumbs-aside {
@@ -137,8 +148,8 @@ SGS 三大驗證保障
    :width: 176 px
 
 .. |IMG4| image:: static/Veri-test_4.png
-   :height: 341 px
-   :width: 601 px
+   :height: 250 px
+   :width: 180 px
 
 .. |IMG5| image:: static/Veri-test_5.png
    :height: 341 px
@@ -165,5 +176,13 @@ SGS 三大驗證保障
    :width: 601 px
 
 .. |IMG11| image:: static/Veri-test_11.png
+   :height: 341 px
+   :width: 601 px
+
+.. |IMG12| image:: static/Veri-test_12.png
+   :height: 341 px
+   :width: 601 px
+
+.. |IMG13| image:: static/Veri-test_13.png
    :height: 341 px
    :width: 601 px
