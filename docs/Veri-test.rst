@@ -20,12 +20,7 @@ SGS 三大驗證保障
 
 
 
-+--------------+-----------+----------+
-|\ |IMG1|\     |\ |IMG2|\  |\ |IMG3|\ |
-|              |           |          |
-|RoHS Complaint|VOCs Free  |US FDA    |
-|              |           |          |
-+--------------+-----------+----------+
+|REPLACE2|
 
 .. _h621a43fb1c1a26452669741c642e:
 
@@ -37,7 +32,7 @@ SGS 防鏽能力檢測
 \ |IMG4|\ 
 
 
-|REPLACE2|
+|REPLACE3|
 
 .. _h6759752a2a4c4d7c582067552015e37:
 
@@ -125,6 +120,13 @@ SGS 防鏽能力檢測
     }
     </style>
 .. |REPLACE2| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="text-align:center;width:31%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:10px"><img src="_images/Veri-test_1.png" style="width:172px;height:242px;vertical-align: baseline;"></p><p style="font-size:16px"><p style="font-size:16px"><span  style="font-size:16px">RoHS Complaint</span></p><p style="font-size:10px"></td><td style="text-align:center;width:34%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/Veri-test_2.png" style="width:177px;height:225px;vertical-align: baseline;"> </p><p>VOCs Free</p></td><td style="text-align:center;width:34%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/Veri-test_3.png" style="width:176px;height:224px;vertical-align: baseline;"></p><p>US FDA</p></td></tr>
+    </tbody></table>
+
+.. |REPLACE3| raw:: html
 
     <style>
     div.wy-grid-for-nav li.wy-breadcrumbs-aside {
