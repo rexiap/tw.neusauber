@@ -4,13 +4,13 @@
 聯絡我們
 ########
 
-➤聯絡電話：03-3659119
+➤意杰國際有限公司
+
+聯絡電話：03-3659119
 
 電子郵件： \ |LINK1|\ 
 
 洽購1加侖桶以上包裝，請與上述資訊聯絡
-
-歡迎各大工程行、工程公司來電洽詢
 
 ➤噴霧罐代銷處：
 
@@ -41,5 +41,5 @@
 
 .. |LINK1| raw:: html
 
-    <a href="mailto:neusauber01@gmail.com">neusauber01@gmail.com</a>
+    <a href="mailto:service@neusauber.com">service@neusauber.com</a>
 
