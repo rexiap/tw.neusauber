@@ -23,6 +23,19 @@
 
 |REPLACE3|
 
+.. _h174fb648377959437b5c1f697c1c40:
+
+施作流程
+========
+
+\ |IMG1|\ 
+
+.. _h1457022d1e64591f62c6562de5b:
+
+鏽蝕環境與塗料系統選擇(參照ISO 12944)
+=====================================
+
+\ |IMG2|\ 
 
 .. bottom of content
 
@@ -44,3 +57,10 @@
       opacity: 0.5;
     }
     </style>
+.. |IMG1| image:: static/Demo_1.png
+   :height: 309 px
+   :width: 601 px
+
+.. |IMG2| image:: static/Demo_2.png
+   :height: 249 px
+   :width: 601 px
