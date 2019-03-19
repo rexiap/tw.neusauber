@@ -20,6 +20,16 @@
 
 (參照ISO 12944)
 
+.. _ha552d4339442b4514686d7839564:
+
+\ |LINK1|\ 
+===========
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _h174fb648377959437b5c1f697c1c40:
 
 使用示範
@@ -60,6 +70,12 @@
       opacity: 0.5;
     }
     </style>
+
+.. |LINK1| raw:: html
+
+    <a href="https://drive.google.com/open?id=1hZ0Ueiw9F3qTpYJUXtP_uvDOk4b8yhdx" target="_blank">使用手冊下載</a>
+
+
 .. |IMG1| image:: static/Demo_1.png
    :height: 309 px
    :width: 601 px
