@@ -140,12 +140,12 @@ SGS 防鏽能力檢測
    :width: 170 px
 
 .. |IMG2| image:: static/Veri-test_2.png
-   :height: 226 px
-   :width: 160 px
+   :height: 240 px
+   :width: 169 px
 
 .. |IMG3| image:: static/Veri-test_3.png
-   :height: 230 px
-   :width: 164 px
+   :height: 245 px
+   :width: 173 px
 
 .. |IMG4| image:: static/Veri-test_4.png
    :height: 250 px
