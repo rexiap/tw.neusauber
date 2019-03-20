@@ -75,14 +75,14 @@ AR透明防鏽劑 噴霧罐
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><th style="width:50%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-size:14px"><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">是採用源自歐洲Neusauber技術的透明防鏽劑，施工前免刨除鏽斑，超薄透明保護層不脫落，具有立即止鏽、防鏽功能，新品或已鏽物品皆可使用。使用簡易，讓您輕鬆維護各種資產。加強防鏽最高可達18年。</span></p><p style="font-size:14px"><span  style="font-size:14px">可應用於各類金屬材質、烤漆表面之部件，食品業器械、機械設備、構件、螺栓、建物、造景、藝術品等。海邊、溫泉區等嚴苛腐蝕環境皆可使用。</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">適用溫度區間：+250 ~ -190℃</span></p><p style="font-size:14px"><span  style="font-size:14px">平均用量：200 m<sup>2</sup> /加侖</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">包裝種類：1、5、20加侖桶</span></p><p style="font-size:10px"></th><td style="width:50%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>  <img src="_images/Products_3.png" style="width:288px;height:368px;vertical-align: baseline;"> </p></td></tr>
+    <tr><th style="width:50%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p style="font-size:14px"><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">是採用源自歐洲Neusauber技術的透明防鏽劑，施工前免刨除鏽斑，超薄透明保護層不脫落，具有立即止鏽、防鏽功能，新品或已鏽物品皆可使用。使用簡易，讓您輕鬆維護各種資產。加強防鏽最高可達18年。</span></p><p style="font-size:14px"><span  style="font-size:14px">可應用於各類金屬材質、烤漆表面之部件，食品業器械、機械設備、構件、螺栓、建物、造景、藝術品等。海邊、溫泉區等嚴苛腐蝕環境皆可使用。</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">適用溫度區間：+250 ~ -190℃</span></p><p style="font-size:14px"><span  style="font-size:14px">平均用量：200 m<sup>2</sup> /加侖</span></p><p style="font-size:14px"><p style="font-size:14px"><span  style="font-size:14px">包裝種類：1、5、20加侖桶</span></p><p style="font-size:10px"></th><td style="width:50%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px"><p>  <img src="_images/Products_3.png" style="width:124px;height:158px;vertical-align: baseline;"> </p></td></tr>
     </tbody></table>
 
 .. |REPLACE4| raw:: html
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:14px"><span  style="font-size:14px">容量：220mL</span></p><p style="font-size:14px"><span  style="font-size:14px">使用面積：4 m<sup>2</sup>  max</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>          <img src="_images/Products_4.png" style="width:129px;height:316px;vertical-align: baseline;"> </p></td></tr>
+    <tr><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:14px"><span  style="font-size:14px">容量：220mL</span></p><p style="font-size:14px"><span  style="font-size:14px">使用面積：4 m<sup>2</sup>  max</span></p></td><td style="vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p>          <img src="_images/Products_4.png" style="width:60px;height:149px;vertical-align: baseline;"> </p></td></tr>
     </tbody></table>
 
 .. |REPLACE5| raw:: html
@@ -119,9 +119,9 @@ AR透明防鏽劑 噴霧罐
    :width: 53 px
 
 .. |IMG3| image:: static/Products_3.png
-   :height: 368 px
-   :width: 288 px
+   :height: 158 px
+   :width: 124 px
 
 .. |IMG4| image:: static/Products_4.png
-   :height: 316 px
-   :width: 129 px
+   :height: 149 px
+   :width: 60 px
