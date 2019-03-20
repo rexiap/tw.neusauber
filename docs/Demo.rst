@@ -73,7 +73,7 @@
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/open?id=1hZ0Ueiw9F3qTpYJUXtP_uvDOk4b8yhdx" target="_blank">使用手冊下載</a>
+    <a href="https://drive.google.com/open?id=1Vw6xsi8q1RKEY8BDrIpcjDn9Ssp4Kd0G" target="_blank">使用手冊下載</a>
 
 
 .. |IMG1| image:: static/Demo_1.png
@@ -81,5 +81,5 @@
    :width: 601 px
 
 .. |IMG2| image:: static/Demo_2.png
-   :height: 250 px
+   :height: 249 px
    :width: 601 px
