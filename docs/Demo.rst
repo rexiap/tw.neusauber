@@ -75,7 +75,7 @@
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/open?id=1Vw6xsi8q1RKEY8BDrIpcjDn9Ssp4Kd0G" target="_blank">使用手冊下載</a>
+    <a href="https://drive.google.com/open?id=1Vw6xsi8q1RKEY8BDrIpcjDn9Ssp4Kd0G" target="_blank">使用手冊下載(請點我)</a>
 
 
 .. |IMG1| image:: static/Demo_1.png
