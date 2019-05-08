@@ -232,13 +232,13 @@ AR透明防鏽劑工法
    :width: 697 px
 
 .. |IMG3| image:: static/index_3.png
-   :height: 393 px
-   :width: 421 px
+   :height: 340 px
+   :width: 366 px
 
 .. |IMG4| image:: static/index_4.png
    :height: 465 px
    :width: 681 px
 
 .. |IMG5| image:: static/index_5.png
-   :height: 397 px
-   :width: 426 px
+   :height: 324 px
+   :width: 346 px
