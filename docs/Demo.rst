@@ -11,6 +11,8 @@
 
 \ |IMG1|\ 
 
+\*ARPrimer與ARSealing無須直接搭配，亦即使用ARSealing前不需先使用ARPrimer
+
 .. _h106d6a60386b4471802c17574203f54:
 
 腐蝕環境與塗料系統選擇
