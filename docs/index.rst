@@ -15,10 +15,10 @@ Neusauber AR透明防鏽劑
     Contact
     About
 
-.. _h4d6f3477351cc1b2f2b27444e246a59:
+.. _h5f137a231a6961376a45317677d592d:
 
-AR透明防鏽劑是什麽？
-====================
+\ |LINK1|\ 是什麽？
+===================
 
 AR透明防鏽劑系列產品，免除鏽即可快速凍結鏽蝕反應的化學處理劑，即使無鏽蝕或漆面亦可使用。
 
@@ -58,7 +58,7 @@ AR透明防鏽劑有兩種
 AR透明防鏽劑防鏽可以多久？
 ==========================
 
-根據I\ |LINK1|\ 測試於海邊環境，使用ARSealing在已鏽蝕金屬，下一次修補時間可達2-5年。使用ARPrimer+Epoxy面漆在已鏽蝕金屬，下一次修補時間可達5-15年。
+根據I\ |LINK2|\ 測試於海邊環境，使用ARSealing在已鏽蝕金屬，下一次修補時間可達2-5年。使用ARPrimer+Epoxy面漆在已鏽蝕金屬，下一次修補時間可達5-15年。
 
 ＊實際年限以各地區環境為準。
 
@@ -219,6 +219,10 @@ AR透明防鏽劑工法
     </style>
 
 .. |LINK1| raw:: html
+
+    <a href="https://drive.google.com/open?id=11XB9iynAc05nZlHgVhnIticO-p1XYjow" target="_blank">AR透明防鏽劑</a>
+
+.. |LINK2| raw:: html
 
     <a href="http://tw.neusauber.com/zh_TW/latest/_images/Demo_2.png" target="_blank">SO12944標準</a>
 
