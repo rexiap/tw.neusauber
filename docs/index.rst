@@ -9,6 +9,7 @@ Neusauber AR透明防鏽劑
     :maxdepth: 2
     :hidden:
 
+    index
     Products
     Demo
     Veri-test
