@@ -194,6 +194,11 @@ AR透明防鏽劑工法
 
 \ |IMG5|\ 
 
+.. _h5e6d61421a7146385259747a2661225:
+
+\ |LINK3|\ 
+===========
+
 
 |REPLACE1|
 
@@ -225,6 +230,10 @@ AR透明防鏽劑工法
 .. |LINK2| raw:: html
 
     <a href="http://tw.neusauber.com/zh_TW/latest/_images/Demo_2.png" target="_blank">SO12944標準</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://drive.google.com/open?id=11XB9iynAc05nZlHgVhnIticO-p1XYjow" target="_blank">AR透明防鏽劑簡報下載</a>
 
 
 .. |IMG1| image:: static/index_1.png
