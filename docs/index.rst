@@ -9,6 +9,7 @@
     :maxdepth: 2
     :hidden:
 
+    Home
     Products
     Demo
     Veri-test
