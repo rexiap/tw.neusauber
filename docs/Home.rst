@@ -4,6 +4,15 @@
 首頁
 ####
 
-this is home
+
+|REPLACE1|
+
 
 .. bottom of content
+
+
+.. |REPLACE1| raw:: html
+
+    <script language="javascript">
+    location.href = 'http://tw.neusauber.com/zh_TW/latest/index.html'
+    </script>
