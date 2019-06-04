@@ -21,7 +21,7 @@
 \ |STYLE1|\ 
 
 
-.. admonition:: 具有
+.. admonition:: 
 
     \ |STYLE2|\ 
     
@@ -46,7 +46,7 @@ AR透明防鏽劑有兩種
 第二種，ARSealing密封型透明防鏽劑，同時具有凍鏽及防鏽功能，只要施作一道，不必搭配ARPrimer底塗使用，即可保留鏽蝕外觀又兼具防鏽效果。
 
 
-..  seealso:: 
+.. admonition:: 
 
     \ |IMG1|\ 
 
@@ -59,7 +59,7 @@ AR透明防鏽劑防鏽可以多久？
 
 ＊實際年限以各地區環境為準。
 
-..  seealso:: 
+.. admonition:: 
 
     \ |IMG2|\ 
 
