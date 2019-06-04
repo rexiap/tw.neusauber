@@ -21,7 +21,7 @@
 \ |STYLE1|\ 
 
 
-..  Note:: 
+..  Attention:: 
 
     \ |STYLE2|\ 
     \ |STYLE3|\ 
