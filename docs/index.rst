@@ -20,11 +20,12 @@
 
 \ |STYLE1|\ 
 
-\ |STYLE2|\ 
 
-\ |STYLE3|\ 
+..  Note:: 
 
-\ |STYLE4|\ 
+    \ |STYLE2|\ 
+    \ |STYLE3|\ 
+    \ |STYLE4|\ 
 
 .. _h4d6f3477351cc1b2f2b27444e246a59:
 
