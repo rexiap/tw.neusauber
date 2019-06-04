@@ -21,7 +21,7 @@
 \ |STYLE1|\ 
 
 
-..  seealso:: 
+.. admonition:: 具有
 
     三大特點：免除鏽、施作快、不返鏽
     
