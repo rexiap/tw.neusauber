@@ -16,11 +16,6 @@
     Contact
     About
 
-.. _h6b417c78253075e44347e587a5f7f:
-
-AR透明防鏽劑
-============
-
 \ |STYLE0|\ 
 
 \ |STYLE1|\ 
