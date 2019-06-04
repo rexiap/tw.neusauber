@@ -192,8 +192,8 @@ AR透明防鏽劑工法
    :height: 742 px
    :width: 682 px
 
-.. |IMG2| image:: static/index_2.jpeg
-   :height: 512 px
+.. |IMG2| image:: static/index_2.png
+   :height: 490 px
    :width: 682 px
 
 .. |IMG3| image:: static/index_3.png
