@@ -63,7 +63,7 @@ AR透明防鏽劑防鏽效果可以多長？
 
 ＊實際年限以各地區環境為準。
 
-..  seealso:: 
+.. admonition:: ISO 12944 塗料系統選擇表
 
     \ |IMG2|\ 
 
@@ -96,12 +96,11 @@ AR透明防鏽劑防鏽效果可以多長？
 .. admonition:: 聯絡資訊
 
     加侖桶以上銷售、使用技術諮詢、大量用戶到府簡報
-    
+    請聯絡
     意杰國際 03-3659119 葉先生
     
     
-    噴罐指定代銷處
-    
+    噴罐指定代銷處：
     邦聖螺絲行 03-3358365  桃園市永安路277號
 
 .. _h5e6d61421a7146385259747a2661225:
@@ -109,7 +108,7 @@ AR透明防鏽劑防鏽效果可以多長？
 \ |LINK3|\ 
 ===========
 
-聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標
+權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標
 
 
 |REPLACE1|
@@ -161,11 +160,11 @@ AR透明防鏽劑防鏽效果可以多長？
 
 
 .. |IMG1| image:: static/index_1.png
-   :height: 742 px
-   :width: 682 px
+   :height: 633 px
+   :width: 672 px
 
 .. |IMG2| image:: static/index_2.png
-   :height: 490 px
+   :height: 402 px
    :width: 682 px
 
 .. |IMG3| image:: static/index_3.png
