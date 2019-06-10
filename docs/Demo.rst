@@ -22,10 +22,10 @@
 
 (參照ISO 12944)
 
-.. _h7e71242b193c315f1a6f38582575c4e:
+.. _ha552d4339442b4514686d7839564:
 
-施工\ |LINK1|\ 
-===============
+\ |LINK1|\ 
+===========
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -75,7 +75,7 @@
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/open?id=1Vw6xsi8q1RKEY8BDrIpcjDn9Ssp4Kd0G" target="_blank">手冊下載(請點我)</a>
+    <a href="https://drive.google.com/open?id=1Vw6xsi8q1RKEY8BDrIpcjDn9Ssp4Kd0G" target="_blank">施工手冊下載(請點我)</a>
 
 
 .. |IMG1| image:: static/Demo_1.png
