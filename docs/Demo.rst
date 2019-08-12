@@ -40,6 +40,8 @@
 
 |REPLACE1|
 
+\*AR(舊型號) = ARSealing
+
 .. _h68017771fa7c85ef23567fe7b5a:
 
 分盛材質與儲存
@@ -47,6 +49,8 @@
 
 
 |REPLACE2|
+
+\*AR(舊型號) = ARSealing
 
 
 |REPLACE3|
