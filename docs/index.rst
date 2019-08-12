@@ -22,14 +22,16 @@
 
 \ |STYLE2|\ 
 
+\ |STYLE3|\ 
+
 
 .. admonition:: 獨家特色
 
-    \ |STYLE3|\ 
-    
     \ |STYLE4|\ 
     
     \ |STYLE5|\ 
+    
+    \ |STYLE6|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -41,11 +43,11 @@
 系列產品
 ========
 
-\ |STYLE6|\ 
+\ |STYLE7|\ 
 
 具有凍鏽、密著底漆功能之透明防鏽劑，可取代傳統所有底漆，如紅丹、合金底漆、鋅粉底漆、鏽轉化劑等，及提高面漆附著的功能。使用ARPrimer後不必等待固化，可直接施作所有種類面漆，達到凍鏽與防鏽功能。
 
-\ |STYLE7|\ 
+\ |STYLE8|\ 
 
 同時具有凍鏽及防鏽雙效功能，只要施作一道，不必搭配ARPrimer底塗使用，即可保留鏽蝕外觀又兼具防鏽效果。
 
@@ -100,7 +102,7 @@
     意杰國際 03-3659119 葉先生
     service@neusauber.com
     
-    AR透明防鏽劑噴罐指定代銷處：
+    噴罐指定代銷處：
     
     邦聖螺絲行 03-3358365  桃園市永安路277號
 
@@ -124,15 +126,17 @@
 
 .. |STYLE2| replace:: **經凍鏽後原鏽層即為附著極佳與覆蓋完整之最理想無機保護層，防護金屬避免再度氧化。施作簡單、快速，防鏽效果佳、壽命長。同時符合CNS4908、CNS4160標準。**
 
-.. |STYLE3| replace:: **三大特點：免除鏽、施作快、不返鏽**
+.. |STYLE3| replace:: **橋樑、建築、動力車輛、機械設備、太陽能、風力發電、化學管線/槽/架、室內物品、食品設備、自行車等，所有室內室外金屬設施或設備皆適用。**
 
-.. |STYLE4| replace:: **五種適用面：金屬面、鏽蝕面、油漆面、高熱面、低溫面**
+.. |STYLE4| replace:: **三大特點：免除鏽、施作快、不返鏽**
 
-.. |STYLE5| replace:: **七項優勢：用量省、免技巧、不挑漆、無膜厚、全透明、超環保、效果長**
+.. |STYLE5| replace:: **五種適用面：金屬面、鏽蝕面、油漆面、高熱面、低溫面**
 
-.. |STYLE6| replace:: **ARPrimer底塗型透明防鏽劑**
+.. |STYLE6| replace:: **七項優勢：用量省、免技巧、不挑漆、無膜厚、全透明、超環保、效果長**
 
-.. |STYLE7| replace:: **ARSealing密封型透明防鏽劑**
+.. |STYLE7| replace:: **ARPrimer底塗型透明防鏽劑**
+
+.. |STYLE8| replace:: **ARSealing密封型透明防鏽劑**
 
 
 .. |REPLACE1| raw:: html
@@ -149,7 +153,7 @@
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/open?id=1nHSIBiyQrueS9QiOmFhxDkDCfI8NeGzX" target="_blank">AR透明防鏽劑</a>
+    <a href="https://drive.google.com/open?id=1Cr6253lLGZclX4rIs_YcsgkD2WM2heWc" target="_blank">AR透明防鏽劑</a>
 
 .. |LINK2| raw:: html
 
@@ -157,7 +161,7 @@
 
 .. |LINK3| raw:: html
 
-    <a href="https://drive.google.com/open?id=1nHSIBiyQrueS9QiOmFhxDkDCfI8NeGzX" target="_blank">AR透明防鏽劑簡報下載</a>
+    <a href="https://drive.google.com/open?id=1Cr6253lLGZclX4rIs_YcsgkD2WM2heWc" target="_blank">AR透明防鏽劑簡報下載</a>
 
 
 .. |IMG1| image:: static/index_1.png
