@@ -1,8 +1,8 @@
 
-.. _h27704380294f3b4e735065784278911:
+.. _h664c7d4343d7ac1557d6d5732404c:
 
-\ |LINK1|\  - 意杰國際研發∙生產∙銷售
-####################################
+\ |LINK1|\  - 徹底解決生鏽問題
+##############################
 
 
 .. toctree:: 
@@ -94,6 +94,10 @@
 
 \ |IMG4|\ 
 
+.. admonition:: AR透明防鏽劑防鏽中
+
+    \ |IMG5|\ 
+
 
 .. admonition:: 購買聯絡資訊
 
@@ -179,3 +183,7 @@
 .. |IMG4| image:: static/index_4.png
    :height: 296 px
    :width: 697 px
+
+.. |IMG5| image:: static/index_5.png
+   :height: 529 px
+   :width: 682 px
