@@ -6,21 +6,23 @@
 
 .. _h174fb648377959437b5c1f697c1c40:
 
-施作流程
+使用方式
 ========
 
-\ |IMG1|\ 
 
-\*ARPrimer與ARSealing無須直接搭配，亦即使用ARSealing前不需先使用ARPrimer
+.. admonition:: 施作流程
 
-.. _h106d6a60386b4471802c17574203f54:
+    \ |IMG1|\ 
 
-腐蝕環境與塗料系統選擇
-======================
 
-\ |IMG2|\ 
+.. admonition:: 使用量
 
-(參照ISO 12944)
+    \ |IMG2|\ 
+
+
+.. admonition:: 防鏽工法與能力
+
+    \ |IMG3|\ 
 
 .. _ha552d4339442b4514686d7839564:
 
@@ -83,9 +85,13 @@
 
 
 .. |IMG1| image:: static/Demo_1.png
-   :height: 309 px
-   :width: 601 px
+   :height: 301 px
+   :width: 586 px
 
 .. |IMG2| image:: static/Demo_2.png
-   :height: 249 px
-   :width: 601 px
+   :height: 366 px
+   :width: 586 px
+
+.. |IMG3| image:: static/Demo_3.png
+   :height: 366 px
+   :width: 586 px
