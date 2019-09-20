@@ -28,7 +28,6 @@
 .. admonition:: 什麼是凍鏽？
 
     \ |IMG1|\ \ |IMG2|\ 
-    
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -159,12 +158,12 @@
     <a href="https://drive.google.com/open?id=1Cr6253lLGZclX4rIs_YcsgkD2WM2heWc" target="_blank">AR透明防鏽劑簡報下載</a>
 
 
-.. |IMG1| image:: static/index_1.jpeg
-   :height: 512 px
+.. |IMG1| image:: static/index_1.png
+   :height: 426 px
    :width: 682 px
 
-.. |IMG2| image:: static/index_2.jpeg
-   :height: 512 px
+.. |IMG2| image:: static/index_2.png
+   :height: 426 px
    :width: 682 px
 
 .. |IMG3| image:: static/index_3.png
