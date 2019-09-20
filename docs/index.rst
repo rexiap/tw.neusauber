@@ -1,8 +1,8 @@
 
-.. _h664c7d4343d7ac1557d6d5732404c:
+.. _h6d226b6080575179171220c73657b3e:
 
-\ |LINK1|\  - 徹底解決生鏽問題
-##############################
+\ |LINK1|\  - 鏽蝕終結者
+########################
 
 
 .. toctree:: 
@@ -25,9 +25,7 @@
 \ |STYLE3|\ 
 
 
-.. admonition:: 什麼是凍鏽？
-
-    \ |IMG1|\ \ |IMG2|\ 
+|REPLACE1|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -39,18 +37,36 @@
 系列產品
 ========
 
+
+|REPLACE2|
+
 \ |STYLE4|\ 
 
 具有凍鏽、密著底漆功能之透明防鏽劑，可取代傳統所有底漆，如紅丹、合金底漆、鋅粉底漆、鏽轉化劑等，及提高面漆附著的功能。使用ARPrimer後不必等待固化，可直接施作所有種類面漆，達到凍鏽與防鏽功能。
 
+|REPLACE3|
+
 \ |STYLE5|\ 
 
-同時具有凍鏽及防鏽雙效功能，只要施作一道，不必搭配ARPrimer底塗使用，即可保留鏽蝕外觀又兼具防鏽效果。
+同時具有凍鏽又防鏽雙效功能，只要施作一道，不必搭配ARPrimer底塗使用，即可保留鏽蝕外觀又兼具防鏽效果。
+
+|REPLACE4|
+
+.. _h174fb648377959437b5c1f697c1c40:
+
+使用方式
+========
 
 
-.. admonition:: 產品說明表
+|REPLACE5|
 
-    \ |IMG3|\ 
+.. _h174fb648377959437b5c1f697c1c40:
+
+案例分析
+========
+
+
+|REPLACE6|
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -61,38 +77,15 @@
 
 ＊實際年限以各地區環境為準。
 
-.. admonition:: ISO 12944 塗料系統選擇表
+|REPLACE7|
 
-    \ |IMG4|\ 
+.. _h365425373c54557813239715c73338:
 
-.. _h174fb648377959437b5c1f697c1c40:
+AR透明防鏽劑防護中
+==================
 
-防護實例
-========
 
-.. _h1a304817295e107f71e7c225e3765e:
-
-台灣高速公路遠通電收ETC電子收費設備門架防鏽改善工程
----------------------------------------------------
-
-免除鏽之ARPrimer底塗凍鏽＋面漆保護工法，通過主管機關長期嚴格檢驗，效果遠優於先除鏽再使用鋅粉底漆的傳統方式，決定全線施作使用。
-
-相較傳統工法，使用ARPrimer工法，在工時、人力、搭配設備上僅需原有的1/4，且無須交圍影響交通，除費用大幅減少、工期縮短、降低工安風險等，更延長維護週期，達到成本、施作效率及高品質三贏。
-
-\ |IMG5|\ 
-
-.. _h7517156d5a5676551327477832132226:
-
-電廠發電機隔相匯流排導管(IPBD)防鏽
-----------------------------------
-
-高等級安全要求、長時不停機、海蝕環境，使得負載 550 MVA、表面溫度約200℃之大電流的電力傳輸設備，隔相匯流排導管(IPBD)深陷鏽蝕危機之中。工研院團隊評估除鏽後使用ARSealing來凍鏽與防鏽。ARSealing不影響表面導電性、凍結鏽蝕、停止鍍層鏽蝕剝落並全面防鏽，安全度過18個月歲修週期惡劣環境的挑戰，持續穩定輸出電力中。
-
-\ |IMG6|\ 
-
-.. admonition:: AR透明防鏽劑防護中
-
-    \ |IMG7|\ 
+|REPLACE8|
 
 
 .. admonition:: 購買聯絡資訊
@@ -101,10 +94,9 @@
     
     意杰國際 03-3659119 葉先生
     service@neusauber.com
-    
-    噴漆罐包裝全台指定代銷處：
-    
-    邦聖螺絲行 03-3358365  桃園市永安路277號（外縣市可代安排寄送）
+
+
+|REPLACE9|
 
 .. _h5e6d61421a7146385259747a2661225:
 
@@ -114,7 +106,7 @@
 (權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
 
 
-|REPLACE1|
+|REPLACE10|
 
 
 .. bottom of content
@@ -135,6 +127,78 @@
 
 .. |REPLACE1| raw:: html
 
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_1.png" style="width:682px;height:426px;vertical-align: baseline;"></p><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_2.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
+    </tbody></table>
+
+.. |REPLACE2| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_3.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
+    </tbody></table>
+
+.. |REPLACE3| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_4.png" style="width:682px;height:426px;vertical-align: baseline;"><img src="_images/index_5.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
+    </tbody></table>
+
+.. |REPLACE4| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_6.png" style="width:682px;height:426px;vertical-align: baseline;"><img src="_images/index_7.png" style="width:682px;height:426px;vertical-align: baseline;"><img src="_images/index_8.png" style="width:682px;height:426px;vertical-align: baseline;"><img src="_images/index_9.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
+    </tbody></table>
+
+.. |REPLACE5| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_10.png" style="width:682px;height:426px;vertical-align: baseline;"><img src="_images/index_11.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
+    </tbody></table>
+
+.. |REPLACE6| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_12.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
+    </tbody></table>
+
+.. |REPLACE7| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_13.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
+    </tbody></table>
+
+.. |REPLACE8| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_14.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
+    </tbody></table>
+
+.. |REPLACE9| raw:: html
+
+    <table cellspacing="0" cellpadding="0" style="width:100%">
+    <tbody>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="color:#ffffff;font-family:Courier New"><span  style="color:#ffffff;font-family:Courier New">噴漆罐包裝全台指定代銷處：</span></p></td></tr>
+    <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="font-family:Courier New"><span  style="font-family:Courier New">只有在這裡才有賣噴罐喔！！</span></p><p style="font-family:Courier New"><p>邦聖螺絲行 03-3358365  桃園市永安路277號（外縣市可代安排寄送）</p></td></tr>
+    </tbody></table>
+
+.. |REPLACE10| raw:: html
+
     <style>
     div.wy-grid-for-nav li.wy-breadcrumbs-aside {
       display:none;
@@ -147,7 +211,7 @@
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/open?id=1Cr6253lLGZclX4rIs_YcsgkD2WM2heWc" target="_blank">AR透明防鏽劑</a>
+    <a href="https://drive.google.com/open?id=1oOYYwZ4sqMwhEh_PqbidLkCqcfSurEDB" target="_blank">AR透明防鏽劑</a>
 
 .. |LINK2| raw:: html
 
@@ -155,7 +219,7 @@
 
 .. |LINK3| raw:: html
 
-    <a href="https://drive.google.com/open?id=1Cr6253lLGZclX4rIs_YcsgkD2WM2heWc" target="_blank">AR透明防鏽劑簡報下載</a>
+    <a href="https://drive.google.com/open?id=1oOYYwZ4sqMwhEh_PqbidLkCqcfSurEDB" target="_blank">AR透明防鏽劑簡報下載</a>
 
 
 .. |IMG1| image:: static/index_1.png
@@ -167,21 +231,49 @@
    :width: 682 px
 
 .. |IMG3| image:: static/index_3.png
-   :height: 633 px
-   :width: 672 px
+   :height: 426 px
+   :width: 682 px
 
 .. |IMG4| image:: static/index_4.png
-   :height: 402 px
+   :height: 426 px
    :width: 682 px
 
 .. |IMG5| image:: static/index_5.png
-   :height: 486 px
-   :width: 650 px
+   :height: 426 px
+   :width: 682 px
 
 .. |IMG6| image:: static/index_6.png
-   :height: 296 px
-   :width: 697 px
+   :height: 426 px
+   :width: 682 px
 
 .. |IMG7| image:: static/index_7.png
-   :height: 482 px
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG8| image:: static/index_8.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG9| image:: static/index_9.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG10| image:: static/index_10.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG11| image:: static/index_11.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG12| image:: static/index_12.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG13| image:: static/index_13.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG14| image:: static/index_14.png
+   :height: 426 px
    :width: 682 px
