@@ -20,7 +20,7 @@
     \ |IMG2|\ 
 
 
-.. admonition:: 防鏽工法與能力
+.. admonition:: 防鏽工法選擇與防鏽能力
 
     \ |IMG3|\ 
 
@@ -85,7 +85,7 @@
 
 
 .. |IMG1| image:: static/Demo_1.png
-   :height: 301 px
+   :height: 366 px
    :width: 586 px
 
 .. |IMG2| image:: static/Demo_2.png
