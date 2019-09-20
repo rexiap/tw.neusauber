@@ -193,7 +193,7 @@ AR透明防鏽劑防護中
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="color:#ffffff;font-family:Courier New"><span  style="color:#ffffff;font-family:Courier New">噴漆罐包裝全台指定代銷處：</span></p></td></tr>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="color:#ffffff;font-family:Courier New"><span  style="color:#ffffff;font-family:Courier New">噴漆罐包裝全台指定代銷處</span></p></td></tr>
     <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="font-family:Courier New"><span  style="font-family:Courier New">只有在這裡才有賣噴罐喔！！</span></p><p style="font-family:Courier New"><p>邦聖螺絲行 03-3358365  桃園市永安路277號（外縣市可代安排寄送）</p></td></tr>
     </tbody></table>
 
