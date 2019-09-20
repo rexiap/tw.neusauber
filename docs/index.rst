@@ -62,14 +62,6 @@
 
 .. _h174fb648377959437b5c1f697c1c40:
 
-案例分析
-========
-
-
-|REPLACE6|
-
-.. _h174fb648377959437b5c1f697c1c40:
-
 防鏽能力
 ========
 
@@ -77,7 +69,7 @@
 
 ＊實際年限以各地區環境為準。
 
-|REPLACE7|
+|REPLACE6|
 
 .. _h365425373c54557813239715c73338:
 
@@ -85,7 +77,7 @@ AR透明防鏽劑防護中
 ==================
 
 
-|REPLACE8|
+|REPLACE7|
 
 
 .. admonition:: 購買聯絡資訊
@@ -96,7 +88,7 @@ AR透明防鏽劑防護中
     service@neusauber.com
 
 
-|REPLACE9|
+|REPLACE8|
 
 .. _h5e6d61421a7146385259747a2661225:
 
@@ -106,7 +98,7 @@ AR透明防鏽劑防護中
 (權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
 
 
-|REPLACE10|
+|REPLACE9|
 
 
 .. bottom of content
@@ -129,7 +121,7 @@ AR透明防鏽劑防護中
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"><span  style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"> </span></p></td></tr>
     <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_1.png" style="width:682px;height:426px;vertical-align: baseline;"></p><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_2.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
     </tbody></table>
 
@@ -137,7 +129,7 @@ AR透明防鏽劑防護中
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"><span  style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"> </span></p></td></tr>
     <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_3.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
     </tbody></table>
 
@@ -145,7 +137,7 @@ AR透明防鏽劑防護中
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"><span  style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"> </span></p></td></tr>
     <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_4.png" style="width:682px;height:426px;vertical-align: baseline;"><img src="_images/index_5.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
     </tbody></table>
 
@@ -153,7 +145,7 @@ AR透明防鏽劑防護中
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"><span  style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"> </span></p></td></tr>
     <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_6.png" style="width:682px;height:426px;vertical-align: baseline;"><img src="_images/index_7.png" style="width:682px;height:426px;vertical-align: baseline;"><img src="_images/index_8.png" style="width:682px;height:426px;vertical-align: baseline;"><img src="_images/index_9.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
     </tbody></table>
 
@@ -161,7 +153,7 @@ AR透明防鏽劑防護中
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"><span  style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"> </span></p></td></tr>
     <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_10.png" style="width:682px;height:426px;vertical-align: baseline;"><img src="_images/index_11.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
     </tbody></table>
 
@@ -169,7 +161,7 @@ AR透明防鏽劑防護中
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"><span  style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"> </span></p></td></tr>
     <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_12.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
     </tbody></table>
 
@@ -177,7 +169,7 @@ AR透明防鏽劑防護中
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
+    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"><span  style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"> </span></p></td></tr>
     <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_13.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
     </tbody></table>
 
@@ -185,19 +177,11 @@ AR透明防鏽劑防護中
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#6ab0de;color:#ffffff;font-family:Courier New"></td></tr>
-    <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="background-color:#e7f2fa;font-family:Courier New"><img src="_images/index_14.png" style="width:682px;height:426px;vertical-align: baseline;"></p></td></tr>
-    </tbody></table>
-
-.. |REPLACE9| raw:: html
-
-    <table cellspacing="0" cellpadding="0" style="width:100%">
-    <tbody>
     <tr><td style="background-color:#6ab0de;color:#ffffff;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="color:#ffffff;font-family:Courier New"><span  style="color:#ffffff;font-family:Courier New">噴漆罐包裝全台指定代銷處</span></p></td></tr>
     <tr><td style="background-color:#e7f2fa;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 0.25px #000000"><p style="font-family:Courier New"><span  style="font-family:Courier New">只有在這裡才有賣噴罐喔！！</span></p><p style="font-family:Courier New"><p>邦聖螺絲行 03-3358365  桃園市永安路277號（外縣市可代安排寄送）</p></td></tr>
     </tbody></table>
 
-.. |REPLACE10| raw:: html
+.. |REPLACE9| raw:: html
 
     <style>
     div.wy-grid-for-nav li.wy-breadcrumbs-aside {
@@ -271,9 +255,5 @@ AR透明防鏽劑防護中
    :width: 682 px
 
 .. |IMG13| image:: static/index_13.png
-   :height: 426 px
-   :width: 682 px
-
-.. |IMG14| image:: static/index_14.png
    :height: 426 px
    :width: 682 px
