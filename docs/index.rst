@@ -25,13 +25,9 @@
 \ |STYLE3|\ 
 
 
-.. admonition:: 獨家特色
+.. admonition:: 什麼是凍鏽？
 
-    \ |STYLE4|\ 
-    
-    \ |STYLE5|\ 
-    
-    \ |STYLE6|\ 
+    \ |IMG1|\ \ |IMG2|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -43,18 +39,18 @@
 系列產品
 ========
 
-\ |STYLE7|\ 
+\ |STYLE4|\ 
 
 具有凍鏽、密著底漆功能之透明防鏽劑，可取代傳統所有底漆，如紅丹、合金底漆、鋅粉底漆、鏽轉化劑等，及提高面漆附著的功能。使用ARPrimer後不必等待固化，可直接施作所有種類面漆，達到凍鏽與防鏽功能。
 
-\ |STYLE8|\ 
+\ |STYLE5|\ 
 
 同時具有凍鏽及防鏽雙效功能，只要施作一道，不必搭配ARPrimer底塗使用，即可保留鏽蝕外觀又兼具防鏽效果。
 
 
 .. admonition:: 產品說明表
 
-    \ |IMG1|\ 
+    \ |IMG3|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -67,7 +63,7 @@
 
 .. admonition:: ISO 12944 塗料系統選擇表
 
-    \ |IMG2|\ 
+    \ |IMG4|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -83,7 +79,7 @@
 
 相較傳統工法，使用ARPrimer工法，在工時、人力、搭配設備上僅需原有的1/4，且無須交圍影響交通，除費用大幅減少、工期縮短、降低工安風險等，更延長維護週期，達到成本、施作效率及高品質三贏。
 
-\ |IMG3|\ 
+\ |IMG5|\ 
 
 .. _h7517156d5a5676551327477832132226:
 
@@ -92,11 +88,11 @@
 
 高等級安全要求、長時不停機、海蝕環境，使得負載 550 MVA、表面溫度約200℃之大電流的電力傳輸設備，隔相匯流排導管(IPBD)深陷鏽蝕危機之中。工研院團隊評估除鏽後使用ARSealing來凍鏽與防鏽。ARSealing不影響表面導電性、凍結鏽蝕、停止鍍層鏽蝕剝落並全面防鏽，安全度過18個月歲修週期惡劣環境的挑戰，持續穩定輸出電力中。
 
-\ |IMG4|\ 
+\ |IMG6|\ 
 
 .. admonition:: AR透明防鏽劑防護中
 
-    \ |IMG5|\ 
+    \ |IMG7|\ 
 
 
 .. admonition:: 購買聯絡資訊
@@ -126,21 +122,15 @@
 
 .. |STYLE0| replace:: **AR透明防鏽劑為淡黃色無黏度透明化學溶液，具有免除鏽、長效防鏽、增加各式塗層密著及壽命之功能，非一般油漆、油脂或鏽轉化劑系統。**
 
-.. |STYLE1| replace:: **以獨家合成之強反應多官能基小分子化合物(PFRP, Polyfunctional Reactive Polymer)，滲入鏽蝕最底部搶先還原具反應性的被氧化金屬離子，凍結鏽蝕反應進行，該處將不再返鏽達到極佳防 鏽效果，例如黑鐵不再產生片狀鏽蝕。**
+.. |STYLE1| replace:: **以獨家凍鏽技術，滲入鏽蝕最底部搶先還原具反應性的被氧化金屬離子，凍結鏽蝕反應進行，該處將不再返鏽達到極佳防鏽效果，例如黑鐵不再產生片狀鏽蝕。**
 
 .. |STYLE2| replace:: **經凍鏽後原鏽層即為附著極佳與覆蓋完整之最理想無機保護層，防護金屬避免再度氧化。施作簡單、快速，防鏽效果佳、壽命長。同時符合CNS4908、CNS4160標準，更具有美國FDA食品級塗層認證。**
 
 .. |STYLE3| replace:: **橋樑、建築、動力車輛/底盤、機械設備、太陽能、風力發電、化學管線/槽/架、室內物品、食品設備、自行車等，所有室內室外金屬設施或設備皆適用。**
 
-.. |STYLE4| replace:: **三大特點：免除鏽、施作快、不返鏽**
+.. |STYLE4| replace:: **ARPrimer底塗型透明防鏽劑**
 
-.. |STYLE5| replace:: **五種適用面：金屬面、鏽蝕面、油漆面、高熱面、低溫面**
-
-.. |STYLE6| replace:: **七項優勢：用量省、免技巧、不挑漆、無膜厚、全透明、超環保、效果長**
-
-.. |STYLE7| replace:: **ARPrimer底塗型透明防鏽劑**
-
-.. |STYLE8| replace:: **ARSealing密封型透明防鏽劑**
+.. |STYLE5| replace:: **ARSealing密封型透明防鏽劑**
 
 
 .. |REPLACE1| raw:: html
@@ -168,22 +158,30 @@
     <a href="https://drive.google.com/open?id=1Cr6253lLGZclX4rIs_YcsgkD2WM2heWc" target="_blank">AR透明防鏽劑簡報下載</a>
 
 
-.. |IMG1| image:: static/index_1.png
-   :height: 633 px
-   :width: 672 px
+.. |IMG1| image:: static/index_1.jpeg
+   :height: 512 px
+   :width: 682 px
 
-.. |IMG2| image:: static/index_2.png
-   :height: 402 px
+.. |IMG2| image:: static/index_2.jpeg
+   :height: 512 px
    :width: 682 px
 
 .. |IMG3| image:: static/index_3.png
+   :height: 633 px
+   :width: 672 px
+
+.. |IMG4| image:: static/index_4.png
+   :height: 402 px
+   :width: 682 px
+
+.. |IMG5| image:: static/index_5.png
    :height: 486 px
    :width: 650 px
 
-.. |IMG4| image:: static/index_4.png
+.. |IMG6| image:: static/index_6.png
    :height: 296 px
    :width: 697 px
 
-.. |IMG5| image:: static/index_5.png
+.. |IMG7| image:: static/index_7.png
    :height: 482 px
    :width: 682 px
