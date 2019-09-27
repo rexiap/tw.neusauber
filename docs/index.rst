@@ -67,7 +67,7 @@
 
 .. admonition:: 使用方式
 
-    \ |IMG10|\ \ |IMG11|\ 
+    \ |IMG11|\ \ |IMG12|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -78,7 +78,7 @@
 
 .. admonition:: 可依環境與需求選擇對應防鏽工法
 
-    \ |IMG12|\ 
+    \ |IMG13|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -90,7 +90,7 @@
 
 .. admonition:: 高速公路工程案例
 
-    \ |IMG13|\ 
+    \ |IMG14|\ 
 
 .. _h365425373c54557813239715c73338:
 
@@ -100,7 +100,7 @@ AR透明防鏽劑防護中
 
 .. admonition:: 知名案例
 
-    \ |IMG14|\ 
+    \ |IMG15|\ 
 
 
 .. admonition:: 購買聯絡資訊
@@ -201,26 +201,30 @@ AR透明防鏽劑防護中
    :height: 426 px
    :width: 682 px
 
-.. |IMG9| image:: static/index_9.png
+.. |IMG9| image:: static/index_7.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG10| image:: static/index_10.png
+.. |IMG10| image:: static/index_9.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG11| image:: static/index_11.png
+.. |IMG11| image:: static/index_10.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG12| image:: static/index_12.png
+.. |IMG12| image:: static/index_11.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG13| image:: static/index_13.png
+.. |IMG13| image:: static/index_12.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG14| image:: static/index_14.png
+.. |IMG14| image:: static/index_13.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG15| image:: static/index_14.png
    :height: 426 px
    :width: 682 px
