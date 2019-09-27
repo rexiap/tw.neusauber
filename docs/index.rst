@@ -59,6 +59,11 @@
 
     \ |IMG6|\ \ |IMG7|\ 
 
+
+.. admonition:: ARSealing
+
+    \ |IMG9|\ \ |IMG10|\ 
+
 .. _h174fb648377959437b5c1f697c1c40:
 
 使用方式
@@ -197,11 +202,11 @@ AR透明防鏽劑防護中
    :height: 426 px
    :width: 682 px
 
-.. |IMG8| image:: static/index_8.png
+.. |IMG8| image:: static/index_7.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG9| image:: static/index_7.png
+.. |IMG9| image:: static/index_8.png
    :height: 426 px
    :width: 682 px
 
