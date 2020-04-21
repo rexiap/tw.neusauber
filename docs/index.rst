@@ -110,10 +110,11 @@ AR透明防鏽劑防護中
 
 .. admonition:: 購買聯絡資訊
 
-    AR透明防鏽劑加侖桶包裝銷售、使用技術諮詢，請聯絡
+    AR透明防鏽劑加侖桶包裝銷售、使用諮詢，請聯絡
     
     意杰國際 03-3659119 葉先生
-    service@neusauber.com
+    \ |LINK3|\ 
+    Line ID:@345rxpyp\ |IMG16|\ 
 
 
 .. admonition:: 噴漆罐包裝全台指定代銷處
@@ -123,9 +124,9 @@ AR透明防鏽劑防護中
     
     邦聖螺絲行 03-3358365  桃園市永安路277號（外縣市可代安排寄送）
 
-.. _h5e6d61421a7146385259747a2661225:
+.. _h6f15a413cb3d267b3e4f1c74347521:
 
-\ |LINK3|\ 
+\ |LINK4|\ 
 ===========
 
 (權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
@@ -171,6 +172,10 @@ AR透明防鏽劑防護中
     <a href="http://tw.neusauber.com/zh_TW/latest/_images/Demo_2.png" target="_blank">SO12944標準</a>
 
 .. |LINK3| raw:: html
+
+    <a href="mailto:service@neusauber.com">service@neusauber.com</a>
+
+.. |LINK4| raw:: html
 
     <a href="https://drive.google.com/open?id=1F410wi4gnTfVIw6YCc0d4rDWfMktspei" target="_blank">AR透明防鏽劑簡報下載</a>
 
@@ -234,3 +239,7 @@ AR透明防鏽劑防護中
 .. |IMG15| image:: static/index_14.png
    :height: 426 px
    :width: 682 px
+
+.. |IMG16| image:: static/index_15.png
+   :height: 197 px
+   :width: 197 px
