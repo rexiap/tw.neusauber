@@ -7,10 +7,11 @@
 
 .. admonition:: 購買聯絡資訊
 
-    AR透明防鏽劑加侖桶包裝銷售、使用技術諮詢，請聯絡
+    AR透明防鏽劑加侖桶包裝銷售、使用諮詢，請聯絡
     
     意杰國際 03-3659119 葉先生
-    service@neusauber.com
+    \ |LINK1|\ 
+    Line ID:@345rxpyp\ |IMG1|\ 
 
 
 .. admonition:: 噴漆罐包裝全台指定代銷處
@@ -38,3 +39,12 @@
       opacity: 0.5;
     }
     </style>
+
+.. |LINK1| raw:: html
+
+    <a href="mailto:service@neusauber.com">service@neusauber.com</a>
+
+
+.. |IMG1| image:: static/Contact_1.png
+   :height: 202 px
+   :width: 202 px
