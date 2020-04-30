@@ -220,8 +220,8 @@ AR透明防鏽劑防護中
    :height: 426 px
    :width: 682 px
 
-.. |IMG11| image:: static/index_10.jpeg
-   :height: 512 px
+.. |IMG11| image:: static/index_10.png
+   :height: 426 px
    :width: 682 px
 
 .. |IMG12| image:: static/index_11.png
