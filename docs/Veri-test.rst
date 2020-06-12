@@ -36,8 +36,16 @@ SGS 防鏽能力檢測
 
  \ |IMG4|\ 
 
+.. _h44272b321b7648e4344803c5f193a40:
+
+Q&A
+===
+
 
 |REPLACE2|
+
+
+|REPLACE3|
 
 
 .. bottom of content
@@ -51,6 +59,9 @@ SGS 防鏽能力檢測
     }
     </style>
 .. |REPLACE2| raw:: html
+
+    <input name="Submit" type="button" id="Submit" onClick="javascript:history.back(1)" value="回一上頁" />
+.. |REPLACE3| raw:: html
 
     <style>
     div.wy-grid-for-nav li.wy-breadcrumbs-aside {
