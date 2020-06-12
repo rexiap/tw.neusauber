@@ -45,9 +45,6 @@ Q&A
 |REPLACE2|
 
 
-|REPLACE3|
-
-
 .. bottom of content
 
 
@@ -59,9 +56,6 @@ Q&A
     }
     </style>
 .. |REPLACE2| raw:: html
-
-    <input name="Submit" type="button" id="Submit" onClick="javascript:history.back(1)" value="回一上頁" />
-.. |REPLACE3| raw:: html
 
     <style>
     div.wy-grid-for-nav li.wy-breadcrumbs-aside {
