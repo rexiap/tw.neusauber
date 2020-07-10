@@ -32,7 +32,7 @@
 
 .. admonition:: ”凍鏽“是什麼？
 
-    \ |IMG1|\ \ |IMG2|\ 
+    \ |IMG1|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -47,7 +47,7 @@
 
 .. admonition:: 產品列表
 
-    \ |IMG3|\ 
+    \ |IMG2|\ 
 
 \ |STYLE7|\ 
 
@@ -55,7 +55,7 @@
 
 .. admonition:: ARPrimer
 
-    \ |IMG4|\ \ |IMG5|\ 
+    \ |IMG3|\ \ |IMG4|\ 
 
 \ |STYLE8|\ 
 
@@ -63,12 +63,7 @@
 
 .. admonition:: ARSealing
 
-    \ |IMG6|\ \ |IMG7|\ 
-
-
-.. admonition:: ARSealing
-
-    \ |IMG9|\ \ |IMG10|\ 
+    \ |IMG5|\ \ |IMG6|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -78,7 +73,7 @@
 
 .. admonition:: 使用方式
 
-    \ |IMG11|\ \ |IMG12|\ 
+    \ |IMG7|\ \ |IMG8|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -89,7 +84,7 @@
 
 .. admonition:: 可依環境與需求選擇對應防鏽工法
 
-    \ |IMG13|\ 
+    \ |IMG9|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -101,7 +96,7 @@
 
 .. admonition:: 高速公路工程案例
 
-    \ |IMG14|\ 
+    \ |IMG10|\ 
 
 .. _h365425373c54557813239715c73338:
 
@@ -111,7 +106,7 @@ AR透明防鏽劑防護中
 
 .. admonition:: 知名案例
 
-    \ |IMG15|\ 
+    \ |IMG11|\ 
 
 
 .. admonition:: 購買聯絡資訊
@@ -120,7 +115,7 @@ AR透明防鏽劑防護中
     
     意杰國際 03-3659119 葉先生
     \ |LINK3|\ 
-    Line ID:@345rxpyp\ |IMG16|\ 
+    Line ID:@345rxpyp\ |IMG12|\ 
 
 
 .. admonition:: 噴漆罐包裝全台指定代銷處
@@ -177,7 +172,7 @@ AR透明防鏽劑防護中
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/open?id=1NGR23kZc2nXIEf4w2qOWp3Ixw_H1vtQ5" target="_blank">AR透明防鏽劑</a>
+    <a href="https://drive.google.com/file/d/1adyVc2g4U2l5Ed1Vgx4rSlCHIgkNhV0H/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
 
 .. |LINK2| raw:: html
 
@@ -189,11 +184,11 @@ AR透明防鏽劑防護中
 
 .. |LINK4| raw:: html
 
-    <a href="https://drive.google.com/open?id=1NGR23kZc2nXIEf4w2qOWp3Ixw_H1vtQ5" target="_blank">AR透明防鏽劑簡報下載</a>
+    <a href="https://drive.google.com/file/d/1adyVc2g4U2l5Ed1Vgx4rSlCHIgkNhV0H/view?usp=sharing" target="_blank">AR透明防鏽劑簡報下載</a>
 
 
 .. |IMG1| image:: static/index_1.png
-   :height: 426 px
+   :height: 598 px
    :width: 682 px
 
 .. |IMG2| image:: static/index_2.png
@@ -220,38 +215,22 @@ AR透明防鏽劑防護中
    :height: 426 px
    :width: 682 px
 
-.. |IMG8| image:: static/index_7.png
+.. |IMG8| image:: static/index_8.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG9| image:: static/index_8.png
+.. |IMG9| image:: static/index_9.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG10| image:: static/index_9.png
+.. |IMG10| image:: static/index_10.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG11| image:: static/index_10.png
+.. |IMG11| image:: static/index_11.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG12| image:: static/index_11.png
-   :height: 426 px
-   :width: 682 px
-
-.. |IMG13| image:: static/index_12.png
-   :height: 426 px
-   :width: 682 px
-
-.. |IMG14| image:: static/index_13.png
-   :height: 426 px
-   :width: 682 px
-
-.. |IMG15| image:: static/index_14.png
-   :height: 426 px
-   :width: 682 px
-
-.. |IMG16| image:: static/index_15.png
+.. |IMG12| image:: static/index_12.png
    :height: 197 px
    :width: 197 px
