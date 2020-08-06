@@ -51,7 +51,7 @@ AR反應單元可將游離鐵離子與鏽蝕活性鎖住，固定於鏽結構內
 
 .. admonition:: 產品列表
 
-    \ |IMG2|\ 
+    \ |IMG2|\ \ |IMG3|\ 
 
 \ |STYLE8|\ 
 
@@ -59,7 +59,7 @@ AR反應單元可將游離鐵離子與鏽蝕活性鎖住，固定於鏽結構內
 
 .. admonition:: ARPrimer
 
-    \ |IMG3|\ \ |IMG4|\ 
+    \ |IMG4|\ \ |IMG5|\ 
 
 \ |STYLE9|\ 
 
@@ -67,7 +67,7 @@ AR反應單元可將游離鐵離子與鏽蝕活性鎖住，固定於鏽結構內
 
 .. admonition:: ARSealing
 
-    \ |IMG5|\ \ |IMG6|\ 
+    \ |IMG6|\ \ |IMG7|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -77,7 +77,7 @@ AR反應單元可將游離鐵離子與鏽蝕活性鎖住，固定於鏽結構內
 
 .. admonition:: 使用方式
 
-    \ |IMG7|\ \ |IMG8|\ 
+    \ |IMG8|\ \ |IMG9|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -88,7 +88,7 @@ AR反應單元可將游離鐵離子與鏽蝕活性鎖住，固定於鏽結構內
 
 .. admonition:: 可依環境與需求選擇對應防鏽工法
 
-    \ |IMG9|\ 
+    \ |IMG10|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -100,7 +100,7 @@ AR反應單元可將游離鐵離子與鏽蝕活性鎖住，固定於鏽結構內
 
 .. admonition:: 高速公路工程案例
 
-    \ |IMG10|\ 
+    \ |IMG11|\ 
 
 .. _h365425373c54557813239715c73338:
 
@@ -110,7 +110,7 @@ AR透明防鏽劑防護中
 
 .. admonition:: 知名案例
 
-    \ |IMG11|\ 
+    \ |IMG12|\ 
 
 
 .. admonition:: 購買聯絡資訊
@@ -119,7 +119,7 @@ AR透明防鏽劑防護中
     
     意杰國際 03-3659119 葉先生
     \ |LINK3|\ 
-    Line ID:@345rxpyp\ |IMG12|\ 
+    Line ID:@345rxpyp\ |IMG13|\ 
 
 
 .. admonition:: 噴漆罐包裝全台指定代銷處
@@ -178,7 +178,7 @@ AR透明防鏽劑防護中
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/file/d/1adyVc2g4U2l5Ed1Vgx4rSlCHIgkNhV0H/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
+    <a href="https://drive.google.com/file/d/1ocfUE6Yhh_YeEIP5Cyjsw_V99Pr_wBr_/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
 
 .. |LINK2| raw:: html
 
@@ -190,7 +190,7 @@ AR透明防鏽劑防護中
 
 .. |LINK4| raw:: html
 
-    <a href="https://drive.google.com/file/d/1adyVc2g4U2l5Ed1Vgx4rSlCHIgkNhV0H/view?usp=sharing" target="_blank">AR透明防鏽劑簡報下載</a>
+    <a href="https://drive.google.com/file/d/1ocfUE6Yhh_YeEIP5Cyjsw_V99Pr_wBr_/view?usp=sharing" target="_blank">AR透明防鏽劑簡報下載</a>
 
 
 .. |IMG1| image:: static/index_1.png
@@ -201,8 +201,8 @@ AR透明防鏽劑防護中
    :height: 426 px
    :width: 682 px
 
-.. |IMG3| image:: static/index_3.png
-   :height: 426 px
+.. |IMG3| image:: static/index_3.jpeg
+   :height: 229 px
    :width: 682 px
 
 .. |IMG4| image:: static/index_4.png
@@ -238,5 +238,9 @@ AR透明防鏽劑防護中
    :width: 682 px
 
 .. |IMG12| image:: static/index_12.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG13| image:: static/index_13.png
    :height: 197 px
    :width: 197 px
