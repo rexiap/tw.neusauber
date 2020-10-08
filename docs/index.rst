@@ -178,8 +178,7 @@ AR透明防鏽劑防護中
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="480" src="https://www.youtube.com/watch?v=sc14Tkinfxg
-    " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+    <iframe width="100%" height="480" src="https://youtu.be/sc14Tkinfxg" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 .. |REPLACE2| raw:: html
 
     <style>
