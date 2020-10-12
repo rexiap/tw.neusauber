@@ -21,15 +21,18 @@
 最新消息 
 =========
 
-.. _h237d929461b351b50522d52576c131e:
+.. _hd3c6c7f515d3d4f774e3813191f1b66:
 
-年代電視 點亮新台灣 節目專訪 AR透明防鏽劑
-=========================================
+年代電視"點亮新台灣"節目專訪
+============================
 
-.. _h603a522333a124c784c5e64106bb32:
 
-將於2020年10月11日11點撥出敬請按時收看
-======================================
+|REPLACE1|
+
+.. _h21a7236a1f401463264a3a7d337816:
+
+(2020年10月11日11點撥出)
+========================
 
 \ |STYLE0|\ 
 
@@ -152,7 +155,7 @@ AR透明防鏽劑防護中
 (權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
 
 
-|REPLACE1|
+|REPLACE2|
 
 
 .. bottom of content
@@ -180,6 +183,10 @@ AR透明防鏽劑防護中
 
 
 .. |REPLACE1| raw:: html
+
+    <iframe width="100%" height="480" src="https://www.youtube.com/embed/VNFpcaYFtCU
+    " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+.. |REPLACE2| raw:: html
 
     <style>
     div.wy-grid-for-nav li.wy-breadcrumbs-aside {
