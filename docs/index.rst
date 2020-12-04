@@ -138,14 +138,6 @@ AR透明防鏽劑防護中
     \ |LINK3|\ 
     Line ID:@345rxpyp\ |IMG13|\ 
 
-
-.. admonition:: 噴漆罐包裝全台指定代銷處
-
-    抱歉！噴罐缺貨中......
-    
-    
-    邦聖螺絲行 03-3358365  桃園市永安路277號（外縣市可代安排寄送）
-
 .. _h6f15a413cb3d267b3e4f1c74347521:
 
 \ |LINK4|\ 
@@ -168,7 +160,7 @@ AR透明防鏽劑防護中
 
 .. |STYLE3| replace:: **經凍鏽後原鏽層即為高硬度、附著極佳與覆蓋完整之最理想無機保護層，防護金屬避免再度氧化。**
 
-.. |STYLE4| replace:: **施作簡單、快速，防鏽效果佳、壽命長。工研院與SGS檢測，材料安全環保，同時符合CNS4908、與CNS4160標準，更通過美國FDA食品級塗層認證。**
+.. |STYLE4| replace:: **施作簡單、快速，防鏽效果佳、壽命長。工研院與SGS檢測，材料安全環保，同時符合 CNS4908 、與 CNS4160 標準，膜層具美國FDA食品級塗層認證，更通過國際 ASTM B117 及 Norsok M501 防鏽能力測試。**
 
 .. |STYLE5| replace:: **AR透明防鏽劑有可於塗裝前、塗裝間使用的ARPrimer 底塗型透明防鏽劑。塗裝前使用提供凍鏽及增加塗料密著功能，塗裝間使用提供塗料密著功能。建議ARPrimer與塗料噴塗一前一後雙工同時施作，可發揮最大防鏽或塗料密著功效。**
 
@@ -201,7 +193,7 @@ AR透明防鏽劑防護中
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/file/d/1_BVTi-WxZNXYYSdbak78oWfUtUS1YCPF/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
+    <a href="https://drive.google.com/file/d/1coUftMdMeSQzrqqtFDNID4MvLiWsBYsP/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
 
 .. |LINK2| raw:: html
 
@@ -213,7 +205,7 @@ AR透明防鏽劑防護中
 
 .. |LINK4| raw:: html
 
-    <a href="https://drive.google.com/file/d/1_BVTi-WxZNXYYSdbak78oWfUtUS1YCPF/view?usp=sharing" target="_blank">AR透明防鏽劑簡報下載</a>
+    <a href="https://drive.google.com/file/d/1coUftMdMeSQzrqqtFDNID4MvLiWsBYsP/view?usp=sharing" target="_blank">AR透明防鏽劑DM下載</a>
 
 
 .. |IMG1| image:: static/index_1.png
