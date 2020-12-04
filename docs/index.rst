@@ -101,9 +101,9 @@ AR反應單元可將游離鐵離子與鏽蝕活性鎖住，固定於鏽結構內
 防鏽能力
 ========
 
-根據I\ |LINK2|\ 測試於海邊環境，使用ARSealing在已鏽蝕金屬，下一次修補時間可達2-5年。使用ARPrimer+Epoxy面漆在已鏽蝕金屬，下一次修補時間可達5-15年。
+通過國際鑽油平台防蝕標準 Norsok M501，適用 C5M 或 Im2 腐蝕環境。
 
-.. admonition:: 可依環境與需求選擇對應防鏽工法
+.. admonition:: 可依需求選擇對應防鏽工法
 
     \ |IMG10|\ 
 
@@ -135,12 +135,12 @@ AR透明防鏽劑防護中
     AR透明防鏽劑加侖桶包裝銷售、使用諮詢，請聯絡
     
     意杰國際 03-3659119 葉先生
-    \ |LINK3|\ 
+    \ |LINK2|\ 
     Line ID:@345rxpyp\ |IMG13|\ 
 
-.. _h6f15a413cb3d267b3e4f1c74347521:
+.. _h5e6d61421a7146385259747a2661225:
 
-\ |LINK4|\ 
+\ |LINK3|\ 
 ===========
 
 (權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
@@ -197,13 +197,9 @@ AR透明防鏽劑防護中
 
 .. |LINK2| raw:: html
 
-    <a href="http://tw.neusauber.com/zh_TW/latest/_images/Demo_2.png" target="_blank">SO12944標準</a>
-
-.. |LINK3| raw:: html
-
     <a href="mailto:service@neusauber.com">service@neusauber.com</a>
 
-.. |LINK4| raw:: html
+.. |LINK3| raw:: html
 
     <a href="https://drive.google.com/file/d/1coUftMdMeSQzrqqtFDNID4MvLiWsBYsP/view?usp=sharing" target="_blank">AR透明防鏽劑DM下載</a>
 
@@ -245,7 +241,7 @@ AR透明防鏽劑防護中
    :width: 682 px
 
 .. |IMG10| image:: static/index_10.png
-   :height: 426 px
+   :height: 514 px
    :width: 682 px
 
 .. |IMG11| image:: static/index_11.png
