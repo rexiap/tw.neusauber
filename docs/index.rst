@@ -21,6 +21,17 @@
 最新消息 
 =========
 
+.. _h336b1944742633ab758797e7d2b2:
+
+2021年3月5日出刊 技師報1264期文章
+=================================
+
+\ |LINK2|\ 
+
+(海上或濱海嚴苛C5以上環境使用AR透明防鏽劑之ARPrimer，即使表面塗裝因故失效後仍可保護金屬層不會快速鏽蝕與擴散，不但強化防鏽效果更延長保護時間，減少損壞與後續維護產生之高額損失)
+
+2020年10月11日11點撥出
+
 .. _hd3c6c7f515d3d4f774e3813191f1b66:
 
 年代電視"點亮新台灣"節目專訪
@@ -29,7 +40,7 @@
 
 |REPLACE1|
 
-(2020年10月11日11點撥出)
+()
 
 \ |STYLE0|\ 
 
@@ -135,12 +146,12 @@ AR透明防鏽劑防護中
     AR透明防鏽劑加侖桶包裝銷售、使用諮詢，請聯絡
     
     意杰國際 03-3659119 葉先生
-    \ |LINK2|\ 
+    \ |LINK3|\ 
     Line ID:@345rxpyp\ |IMG13|\ 
 
-.. _h5e6d61421a7146385259747a2661225:
+.. _h6f15a413cb3d267b3e4f1c74347521:
 
-\ |LINK3|\ 
+\ |LINK4|\ 
 ===========
 
 (權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
@@ -197,9 +208,13 @@ AR透明防鏽劑防護中
 
 .. |LINK2| raw:: html
 
-    <a href="mailto:service@neusauber.com">service@neusauber.com</a>
+    <a href="http://etimes.twce.org.tw/%E6%96%BD%E5%B7%A5%E6%8A%80%E8%A1%93/3197-%E4%BB%A5%E8%A1%A8%E9%9D%A2%E8%99%95%E7%90%86%E6%94%B9%E5%96%84%E7%86%B1%E6%B5%B8%E9%8D%8D%E9%8B%85%E5%A1%97%E8%A3%9D%E9%98%B2%E9%8F%BD%E8%83%BD%E5%8A%9B%E4%B9%8B%E6%8E%A2%E8%A8%8E.html" target="_blank">以表面處理改善熱浸鍍鋅塗裝防鏽能力之探討</a>
 
 .. |LINK3| raw:: html
+
+    <a href="mailto:service@neusauber.com">service@neusauber.com</a>
+
+.. |LINK4| raw:: html
 
     <a href="https://drive.google.com/file/d/1coUftMdMeSQzrqqtFDNID4MvLiWsBYsP/view?usp=sharing" target="_blank">AR透明防鏽劑DM下載</a>
 
