@@ -54,11 +54,14 @@
 
 \ |STYLE7|\ 
 
-.. admonition:: ”凍鏽“是什麼？
+.. admonition:: “凍鏽”能做什麼？
 
-    \ |IMG1|\ 
+    \ |IMG1|\ \ |IMG2|\ 
 
-AR反應單元可將游離鐵離子與鏽蝕活性鎖住，固定於鏽結構內的空孔，原本孔內的鏽蝕因子－水，則被會擠出。
+
+.. admonition:: “凍鏽”效果
+
+    \ |IMG3|\ \ |IMG4|\ 
 
 \ |STYLE8|\ 。
 
@@ -75,7 +78,7 @@ AR反應單元可將游離鐵離子與鏽蝕活性鎖住，固定於鏽結構內
 
 .. admonition:: 產品列表
 
-    \ |IMG2|\ \ |IMG3|\ 
+    \ |IMG5|\ \ |IMG6|\ 
 
 \ |STYLE9|\ 
 
@@ -83,7 +86,7 @@ AR反應單元可將游離鐵離子與鏽蝕活性鎖住，固定於鏽結構內
 
 .. admonition:: ARPrimer
 
-    \ |IMG4|\ \ |IMG5|\ 
+    \ |IMG7|\ \ |IMG8|\ 
 
 \ |STYLE10|\ 
 
@@ -91,7 +94,7 @@ AR反應單元可將游離鐵離子與鏽蝕活性鎖住，固定於鏽結構內
 
 .. admonition:: ARSealing
 
-    \ |IMG6|\ \ |IMG7|\ 
+    \ |IMG9|\ \ |IMG10|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -101,7 +104,7 @@ AR反應單元可將游離鐵離子與鏽蝕活性鎖住，固定於鏽結構內
 
 .. admonition:: 使用方式
 
-    \ |IMG8|\ \ |IMG9|\ 
+    \ |IMG11|\ \ |IMG12|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -112,7 +115,7 @@ AR反應單元可將游離鐵離子與鏽蝕活性鎖住，固定於鏽結構內
 
 .. admonition:: 可依需求選擇對應防鏽工法
 
-    \ |IMG10|\ 
+    \ |IMG13|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -124,7 +127,7 @@ AR反應單元可將游離鐵離子與鏽蝕活性鎖住，固定於鏽結構內
 
 .. admonition:: 高速公路工程案例
 
-    \ |IMG11|\ 
+    \ |IMG14|\ 
 
 .. _h365425373c54557813239715c73338:
 
@@ -134,20 +137,22 @@ AR透明防鏽劑防護中
 
 .. admonition:: 知名案例
 
-    \ |IMG12|\ 
+    \ |IMG15|\ 
 
 
 .. admonition:: 諮詢聯絡資訊
 
-    AR透明防鏽劑使用諮詢，請聯絡
+    AR透明防鏽劑
+    使用諮詢，工作日週一～週五 09:00~17:30
     
+    請聯絡
     意杰國際 03-3659119 葉先生
     
     \ |LINK3|\ 
     
     Line ID:@345rxpyp
     
-    \ |IMG13|\ 
+    \ |IMG16|\ 
     
     (Line ID QR code)
     
@@ -198,6 +203,11 @@ AR透明防鏽劑防護中
 \ |LINK4|\ 
 ===========
 
+.. _h506384e4438e4c26493b8112d2617:
+
+\ |LINK5|\ 
+===========
+
 (權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
 
 
@@ -217,7 +227,7 @@ AR透明防鏽劑防護中
 
 .. |STYLE4| replace:: **施作簡單、快速，防鏽效果佳、壽命長。工研院與SGS檢測，材料安全環保，同時符合 CNS4908 、與 CNS4160 標準，膜層具美國FDA食品級塗層認證，更通過國際 ASTM B117 及 Norsok M501 防鏽能力測試。**
 
-.. |STYLE5| replace:: **AR透明防鏽劑有可於塗裝前、塗裝間使用的ARPrimer 底塗型透明防鏽劑。塗裝前使用提供凍鏽及增加塗料密著功能，塗裝間使用提供塗料密著功能。建議ARPrimer與塗料噴塗一前一後雙工同時施作，可發揮最大防鏽或塗料密著功效。**
+.. |STYLE5| replace:: **AR透明防鏽劑有可於塗裝前、塗裝間使用的ARPrimer 底塗型透明防鏽劑。塗裝前使用提供凍鏽及增加金屬與塗料密著功能，塗裝間使用提供塗料與塗料密著功能。建議ARPrimer與塗料噴塗一前一後雙工同時施作，可發揮最大防鏽或塗料密著功效。**
 
 .. |STYLE6| replace:: **AR透明防鏽劑也有不需後塗裝或塗裝後使用的ARSealing 密封型透明防鏽劑。直接使用不需後塗裝，即可同時提供凍鏽、防鏽雙效功能。塗裝後使用可提供塗層耐UV抗粉化、提高防鏽壽命等功能。.**
 
@@ -262,29 +272,33 @@ AR透明防鏽劑防護中
 
     <a href="https://drive.google.com/file/d/1coUftMdMeSQzrqqtFDNID4MvLiWsBYsP/view?usp=sharing" target="_blank">AR透明防鏽劑DM下載</a>
 
+.. |LINK5| raw:: html
 
-.. |IMG1| image:: static/index_1.png
-   :height: 598 px
+    <a href="https://drive.google.com/file/d/17b1v2S6ZBy7BIJ1ijb25DQSpF2hZA0Xh/view?usp=sharing" target="_blank">AR透明防鏽劑簡報資料下載</a>
+
+
+.. |IMG1| image:: static/index_1.jpeg
+   :height: 512 px
    :width: 682 px
 
-.. |IMG2| image:: static/index_2.png
-   :height: 426 px
+.. |IMG2| image:: static/index_2.jpeg
+   :height: 512 px
    :width: 682 px
 
-.. |IMG3| image:: static/index_3.png
-   :height: 229 px
+.. |IMG3| image:: static/index_3.jpeg
+   :height: 512 px
    :width: 682 px
 
-.. |IMG4| image:: static/index_4.png
-   :height: 426 px
+.. |IMG4| image:: static/index_4.jpeg
+   :height: 512 px
    :width: 682 px
 
 .. |IMG5| image:: static/index_5.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG6| image:: static/index_6.png
-   :height: 426 px
+.. |IMG6| image:: static/index_6.jpeg
+   :height: 512 px
    :width: 682 px
 
 .. |IMG7| image:: static/index_7.png
@@ -300,7 +314,7 @@ AR透明防鏽劑防護中
    :width: 682 px
 
 .. |IMG10| image:: static/index_10.png
-   :height: 514 px
+   :height: 426 px
    :width: 682 px
 
 .. |IMG11| image:: static/index_11.png
@@ -312,5 +326,17 @@ AR透明防鏽劑防護中
    :width: 682 px
 
 .. |IMG13| image:: static/index_13.png
+   :height: 514 px
+   :width: 682 px
+
+.. |IMG14| image:: static/index_14.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG15| image:: static/index_15.jpeg
+   :height: 512 px
+   :width: 682 px
+
+.. |IMG16| image:: static/index_16.png
    :height: 197 px
    :width: 197 px
