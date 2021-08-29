@@ -61,12 +61,7 @@
 
 .. admonition:: “凍鏽”效果
 
-    \ |IMG3|\ 
-
-
-.. admonition:: “凍鏽”效果
-
-    \ |IMG4|\ 
+    \ |IMG3|\ \ |IMG4|\ 
 
 \ |STYLE8|\ 。
 
@@ -83,12 +78,7 @@
 
 .. admonition:: 產品列表
 
-    \ |IMG5|\ 
-
-
-..  Note:: 
-
-    \ |IMG6|\ 
+    \ |IMG5|\ \ |IMG6|\ 
 
 \ |STYLE9|\ 
 
