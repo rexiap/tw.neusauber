@@ -56,12 +56,22 @@
 
 .. admonition:: “凍鏽”能做什麼？
 
-    \ |IMG1|\ \ |IMG2|\ 
+    \ |IMG1|\ 
+
+
++----------+
+|\ |IMG2|\ |
++----------+
 
 
 .. admonition:: “凍鏽”效果
 
-    \ |IMG3|\ \ |IMG4|\ 
+    \ |IMG3|\ 
+
+
+.. admonition:: “凍鏽”效果
+
+    \ |IMG4|\ 
 
 \ |STYLE8|\ 。
 
@@ -78,7 +88,12 @@
 
 .. admonition:: 產品列表
 
-    \ |IMG5|\ \ |IMG6|\ 
+    \ |IMG5|\ 
+
+
+..  Note:: 
+
+    \ |IMG6|\ 
 
 \ |STYLE9|\ 
 
@@ -143,9 +158,11 @@ AR透明防鏽劑防護中
 .. admonition:: 諮詢聯絡資訊
 
     AR透明防鏽劑
+    
     使用諮詢，工作日週一～週五 09:00~17:30
     
     請聯絡
+    
     意杰國際 03-3659119 葉先生
     
     \ |LINK3|\ 
@@ -274,32 +291,32 @@ AR透明防鏽劑防護中
 
 .. |LINK5| raw:: html
 
-    <a href="https://drive.google.com/file/d/17b1v2S6ZBy7BIJ1ijb25DQSpF2hZA0Xh/view?usp=sharing" target="_blank">AR透明防鏽劑簡報資料下載</a>
+    <a href="https://drive.google.com/file/d/17b1v2S6ZBy7BIJ1ijb25DQSpF2hZA0Xh/view?usp=sharing" target="_blank">AR透明防鏽劑簡報下載</a>
 
 
-.. |IMG1| image:: static/index_1.jpeg
-   :height: 509 px
-   :width: 682 px
+.. |IMG1| image:: static/index_1.png
+   :height: 480 px
+   :width: 640 px
 
-.. |IMG2| image:: static/index_2.jpeg
-   :height: 509 px
-   :width: 682 px
+.. |IMG2| image:: static/index_2.png
+   :height: 480 px
+   :width: 640 px
 
-.. |IMG3| image:: static/index_3.jpeg
-   :height: 509 px
-   :width: 682 px
+.. |IMG3| image:: static/index_3.png
+   :height: 480 px
+   :width: 640 px
 
-.. |IMG4| image:: static/index_4.jpeg
-   :height: 512 px
-   :width: 682 px
+.. |IMG4| image:: static/index_4.png
+   :height: 480 px
+   :width: 640 px
 
 .. |IMG5| image:: static/index_5.png
-   :height: 426 px
-   :width: 682 px
+   :height: 425 px
+   :width: 681 px
 
-.. |IMG6| image:: static/index_6.jpeg
-   :height: 509 px
-   :width: 682 px
+.. |IMG6| image:: static/index_6.png
+   :height: 480 px
+   :width: 640 px
 
 .. |IMG7| image:: static/index_7.png
    :height: 426 px
@@ -333,9 +350,9 @@ AR透明防鏽劑防護中
    :height: 426 px
    :width: 682 px
 
-.. |IMG15| image:: static/index_15.jpeg
-   :height: 509 px
-   :width: 682 px
+.. |IMG15| image:: static/index_15.png
+   :height: 480 px
+   :width: 640 px
 
 .. |IMG16| image:: static/index_16.png
    :height: 197 px
