@@ -52,18 +52,16 @@
 
 \ |STYLE6|\ 
 
-\ |STYLE7|\ 
-
-.. admonition:: “凍鏽”能做什麼？
+.. admonition:: 獨家IDS技術解決現行防鏽難題
 
     \ |IMG1|\ \ |IMG2|\ 
 
 
-.. admonition:: “凍鏽”效果
+.. admonition:: “凍鏽”與強化“塗料密著”效果
 
     \ |IMG3|\ \ |IMG4|\ 
 
-\ |STYLE8|\ 。
+\ |STYLE7|\ 。
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -80,7 +78,7 @@
 
     \ |IMG5|\ \ |IMG6|\ 
 
-\ |STYLE9|\ 
+\ |STYLE8|\ 
 
 具有凍鏽、密著底漆功能之透明防鏽劑，可取代傳統所有底漆，如紅丹、合金底漆、鋅粉底漆、鏽轉化劑等，及提高面漆附著的功能。使用ARPrimer後不必等待固化，可直接施作所有種類面漆，達到凍鏽與防鏽功能。
 
@@ -88,7 +86,7 @@
 
     \ |IMG7|\ \ |IMG8|\ 
 
-\ |STYLE10|\ 
+\ |STYLE9|\ 
 
 同時具有凍鏽又防鏽雙效功能，只要施作一道，不必搭配ARPrimer底塗使用，即可保留鏽蝕外觀又兼具防鏽效果。
 
@@ -223,23 +221,21 @@ AR透明防鏽劑防護中
 
 .. |STYLE1| replace:: **為溶劑型淡黃色無黏度透明化學溶液，滲透性、擴展性極佳，專門針對室內外既有金屬設施之前處理或表面處理劑。不需要除鏽即可終止鏽蝕活性、或提供長效防鏽、增加各式塗層密著與其壽命之功能。非油漆、油脂或鏽轉化劑系統。**
 
-.. |STYLE2| replace:: **以獨家凍鏽技術，滲入鏽蝕最底部主動結合具反應活性的金屬離子，隨即終結與凍結鏽蝕反應，該處將不再持續鏽蝕，達到極佳防鏽效果。**
+.. |STYLE2| replace:: **以獨家IDS技術，滲入鏽蝕最底部主動凍結鏽蝕(Inhibition)反應，建構阻水阻氧層(Defense)，進化原鏽層為保護性絕佳的鈍化表面，達到優秀自我防鏽效果。經IDS技術處理過後金屬，鏽不再惡化至大面積孔蝕、片鏽等嚴重影響結構強度之鏽蝕重症。也可先除鏽再使用AR透明防鏽劑後上漆，一但漆料受損或劣化，暴露之金屬自動形成優秀自我防鏽之鈍化表面，作為防鏽二次防禦的保護機制，或可視為金屬的防鏽疫苗，避免鏽蝕重症發生。**
 
-.. |STYLE3| replace:: **經凍鏽後原鏽層即為高硬度、附著極佳與覆蓋完整之最理想無機保護層，防護金屬避免再度氧化。**
+.. |STYLE3| replace:: **施作簡單、快速，防鏽效果佳、壽命長。工研院與SGS檢測，材料安全環保，同時符合 CNS4908 、與 CNS4160 標準，膜層具美國FDA食品級塗層認證，更通過國際 ASTM B117 及 Norsok M501 防鏽能力測試。**
 
-.. |STYLE4| replace:: **施作簡單、快速，防鏽效果佳、壽命長。工研院與SGS檢測，材料安全環保，同時符合 CNS4908 、與 CNS4160 標準，膜層具美國FDA食品級塗層認證，更通過國際 ASTM B117 及 Norsok M501 防鏽能力測試。**
+.. |STYLE4| replace:: **AR透明防鏽劑有可於塗裝前、塗裝間使用的ARPrimer 底塗型透明防鏽劑。塗裝前使用提供凍鏽及增加金屬與塗料密著功能，塗裝間使用提供塗料與塗料密著功能。建議ARPrimer與塗料噴塗一前一後雙工同時施作，可發揮最大防鏽或塗料密著功效。**
 
-.. |STYLE5| replace:: **AR透明防鏽劑有可於塗裝前、塗裝間使用的ARPrimer 底塗型透明防鏽劑。塗裝前使用提供凍鏽及增加金屬與塗料密著功能，塗裝間使用提供塗料與塗料密著功能。建議ARPrimer與塗料噴塗一前一後雙工同時施作，可發揮最大防鏽或塗料密著功效。**
+.. |STYLE5| replace:: **AR透明防鏽劑也有不需後塗裝或塗裝後使用的ARSealing 密封型透明防鏽劑。直接使用不需後塗裝，即可同時提供凍鏽、防鏽雙效功能。塗裝後使用可提供塗層耐UV抗粉化、提高防鏽壽命等功能。.**
 
-.. |STYLE6| replace:: **AR透明防鏽劑也有不需後塗裝或塗裝後使用的ARSealing 密封型透明防鏽劑。直接使用不需後塗裝，即可同時提供凍鏽、防鏽雙效功能。塗裝後使用可提供塗層耐UV抗粉化、提高防鏽壽命等功能。.**
+.. |STYLE6| replace:: **橋樑、建築、動力車輛/底盤、機械設備、太陽能、風力發電、化學管線/槽/架、室內物品、食品設備、自行車等防鏽，所有室內、室外、高鹽害、高磺害之金屬設施或設備都適用，無法除鏽、除鏽困難區域更合適。鐵材、鋼材、鋼纜、銅製、鋁製、鎳鍍層、鋅鍍層、油漆層皆可用。**
 
-.. |STYLE7| replace:: **橋樑、建築、動力車輛/底盤、機械設備、太陽能、風力發電、化學管線/槽/架、室內物品、食品設備、自行車等防鏽，所有室內、室外、高鹽害、高磺害之金屬設施或設備都適用，無法除鏽、除鏽困難區域更合適。鐵材、鋼材、鋼纜、銅製、鋁製、鎳鍍層、鋅鍍層、油漆層皆可用。**
+.. |STYLE7| replace:: **經AR之IDS技術處理後不僅無需除鏽，且防鏽能力至少提高兩倍以上**
 
-.. |STYLE8| replace:: **經AR凍鏽後不僅無需除鏽，且防鏽能力至少提高兩倍以上**
+.. |STYLE8| replace:: **ARPrimer底塗型透明防鏽劑**
 
-.. |STYLE9| replace:: **ARPrimer底塗型透明防鏽劑**
-
-.. |STYLE10| replace:: **ARSealing密封型透明防鏽劑**
+.. |STYLE9| replace:: **ARSealing密封型透明防鏽劑**
 
 
 .. |REPLACE1| raw:: html
@@ -260,7 +256,7 @@ AR透明防鏽劑防護中
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/file/d/1coUftMdMeSQzrqqtFDNID4MvLiWsBYsP/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
+    <a href="https://drive.google.com/file/d/1NqFcuHfcpmsMYJUP2suj6VKX-zW2Cmah/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
 
 .. |LINK2| raw:: html
 
@@ -276,16 +272,16 @@ AR透明防鏽劑防護中
 
 .. |LINK5| raw:: html
 
-    <a href="https://drive.google.com/file/d/17b1v2S6ZBy7BIJ1ijb25DQSpF2hZA0Xh/view?usp=sharing" target="_blank">AR透明防鏽劑簡報下載</a>
+    <a href="https://drive.google.com/file/d/1NqFcuHfcpmsMYJUP2suj6VKX-zW2Cmah/view?usp=sharing" target="_blank">AR透明防鏽劑簡報下載</a>
 
 
-.. |IMG1| image:: static/index_1.png
-   :height: 480 px
-   :width: 640 px
+.. |IMG1| image:: static/index_1.jpeg
+   :height: 512 px
+   :width: 682 px
 
-.. |IMG2| image:: static/index_2.png
-   :height: 480 px
-   :width: 640 px
+.. |IMG2| image:: static/index_2.jpeg
+   :height: 512 px
+   :width: 682 px
 
 .. |IMG3| image:: static/index_3.png
    :height: 480 px
