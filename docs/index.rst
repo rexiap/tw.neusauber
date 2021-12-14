@@ -275,11 +275,11 @@ AR透明防鏽劑防護中
     <a href="https://drive.google.com/file/d/1NqFcuHfcpmsMYJUP2suj6VKX-zW2Cmah/view?usp=sharing" target="_blank">AR透明防鏽劑簡報下載</a>
 
 
-.. |IMG1| image:: static/index_1.jpeg
-   :height: 482 px
+.. |IMG1| image:: static/index_1.png
+   :height: 480 px
    :width: 641 px
 
-.. |IMG2| image:: static/index_2.jpeg
+.. |IMG2| image:: static/index_2.png
    :height: 480 px
    :width: 641 px
 
