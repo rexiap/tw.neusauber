@@ -276,12 +276,12 @@ AR透明防鏽劑防護中
 
 
 .. |IMG1| image:: static/index_1.jpeg
-   :height: 516 px
-   :width: 682 px
+   :height: 482 px
+   :width: 641 px
 
 .. |IMG2| image:: static/index_2.jpeg
-   :height: 512 px
-   :width: 682 px
+   :height: 480 px
+   :width: 641 px
 
 .. |IMG3| image:: static/index_3.png
    :height: 480 px
@@ -292,48 +292,48 @@ AR透明防鏽劑防護中
    :width: 640 px
 
 .. |IMG5| image:: static/index_5.png
-   :height: 425 px
-   :width: 681 px
+   :height: 400 px
+   :width: 638 px
 
 .. |IMG6| image:: static/index_6.png
    :height: 480 px
    :width: 640 px
 
 .. |IMG7| image:: static/index_7.png
-   :height: 426 px
-   :width: 682 px
+   :height: 401 px
+   :width: 641 px
 
 .. |IMG8| image:: static/index_8.png
-   :height: 426 px
-   :width: 682 px
+   :height: 401 px
+   :width: 641 px
 
 .. |IMG9| image:: static/index_9.png
-   :height: 426 px
-   :width: 682 px
+   :height: 401 px
+   :width: 641 px
 
 .. |IMG10| image:: static/index_10.png
-   :height: 426 px
-   :width: 682 px
+   :height: 401 px
+   :width: 641 px
 
 .. |IMG11| image:: static/index_11.png
-   :height: 426 px
-   :width: 682 px
+   :height: 400 px
+   :width: 641 px
 
 .. |IMG12| image:: static/index_12.png
-   :height: 426 px
-   :width: 682 px
+   :height: 400 px
+   :width: 641 px
 
 .. |IMG13| image:: static/index_13.png
-   :height: 514 px
-   :width: 682 px
+   :height: 482 px
+   :width: 641 px
 
 .. |IMG14| image:: static/index_14.png
-   :height: 426 px
-   :width: 682 px
+   :height: 400 px
+   :width: 641 px
 
 .. |IMG15| image:: static/index_15.png
-   :height: 480 px
-   :width: 640 px
+   :height: 478 px
+   :width: 638 px
 
 .. |IMG16| image:: static/index_16.png
    :height: 197 px
