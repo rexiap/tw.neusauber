@@ -14,6 +14,9 @@
 |REPLACE1|
 
 
+|REPLACE2|
+
+
 .. bottom of content
 
 
@@ -28,6 +31,24 @@
       opacity: 0.5;
     }
     </style>
+.. |REPLACE2| raw:: html
+
+    <script>
+    document.title = "意杰 Neusauber"
+    const a = ()=>{
+      const n = '.ethi' + 'cal' + '-sid' + 'ebar';
+      const ad = document.querySelector(n);
+      if (!ad) return setTimeout(a,100);
+      ad.style.position='absolute';
+      const t = document.querySelector('.rst-current-version')
+      const h = document.querySelector('.wy-nav-content')
+       let bottom = -200
+       if (h && t) bottom = t.getBoundingClientRect().top - h.getBoundingClientRect().height;
+      ad.style.bottom = `${bottom}px`;
+      ad.style.transform='scale(0.75)';
+    }
+    setTimeout(a,100)
+    </script>
 .. |IMG1| image:: static/About_1.png
    :height: 93 px
    :width: 272 px
