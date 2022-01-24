@@ -212,6 +212,9 @@ ARPrimer具有凍鏽與增加塗料密著的功能，可鈍化鏽蝕活性，並
 |REPLACE3|
 
 
+|REPLACE4|
+
+
 .. bottom of content
 
 
@@ -226,7 +229,7 @@ ARPrimer具有凍鏽與增加塗料密著的功能，可鈍化鏽蝕活性，並
 
     <table cellspacing="0" cellpadding="0" style="width:100%">
     <tbody>
-    <tr><td style="text-align:center;width:31%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:10px"><p style="font-size:16px"><img src="_images/Veri-test_1.png" style="width:172px;height:244px;vertical-align: baseline;"></p><p style="font-size:16px"><span  style="font-size:16px">RoHS Complaint</span></p><p style="font-size:10px"></td><td style="text-align:center;width:34%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/Veri-test_2.png" style="width:192px;height:272px;vertical-align: baseline;"></p><p>VOCs Free</p></td><td style="text-align:center;width:34%;vertical-align:Top;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/Veri-test_3.png" style="width:192px;height:273px;vertical-align: baseline;"></p><p>US FDA</p></td></tr>
+    <tr><td style="text-align:center;width:31%;vertical-align:TOP;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p style="font-size:10px"><p style="font-size:16px"><img src="_images/Veri-test_1.png" style="width:172px;height:244px;vertical-align: baseline;"></p><p style="font-size:16px"><span  style="font-size:16px">RoHS Complaint</span></p><p style="font-size:10px"></td><td style="text-align:center;width:34%;vertical-align:TOP;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/Veri-test_2.png" style="width:192px;height:272px;vertical-align: baseline;"></p><p>VOCs Free</p></td><td style="text-align:center;width:34%;vertical-align:TOP;padding-top:5px;padding-bottom:5px;padding-left:5px;padding-right:5px;border:solid 1px #000000"><p><img src="_images/Veri-test_3.png" style="width:192px;height:273px;vertical-align: baseline;"></p><p>US FDA</p></td></tr>
     </tbody></table>
 
 .. |REPLACE3| raw:: html
@@ -240,6 +243,24 @@ ARPrimer具有凍鏽與增加塗料密著的功能，可鈍化鏽蝕活性，並
       opacity: 0.5;
     }
     </style>
+.. |REPLACE4| raw:: html
+
+    <script>
+    document.title = "Neusauber"
+    const a = ()=>{
+      const n = '.ethi' + 'cal' + '-sid' + 'ebar';
+      const ad = document.querySelector(n);
+      if (!ad) return setTimeout(a,100);
+      ad.style.position='absolute';
+      const t = document.querySelector('.rst-current-version')
+      const h = document.querySelector('.wy-nav-content')
+       let bottom = -200
+       if (h && t) bottom = t.getBoundingClientRect().top - h.getBoundingClientRect().height;
+      ad.style.bottom =  `${Math.min(0,bottom)}px`;
+      ad.style.transform='scale(0.75)';
+    }
+    setTimeout(a,100)
+    </script>
 .. |IMG1| image:: static/Veri-test_1.png
    :height: 244 px
    :width: 172 px
