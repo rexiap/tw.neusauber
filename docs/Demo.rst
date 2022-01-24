@@ -58,6 +58,9 @@
 |REPLACE3|
 
 
+|REPLACE4|
+
+
 .. bottom of content
 
 
@@ -78,6 +81,24 @@
       opacity: 0.5;
     }
     </style>
+.. |REPLACE4| raw:: html
+
+    <script>
+    document.title = "Neusauber"
+    const a = ()=>{
+      const n = '.ethi' + 'cal' + '-sid' + 'ebar';
+      const ad = document.querySelector(n);
+      if (!ad) return setTimeout(a,100);
+      ad.style.position='absolute';
+      const t = document.querySelector('.rst-current-version')
+      const h = document.querySelector('.wy-nav-content')
+       let bottom = -200
+       if (h && t) bottom = t.getBoundingClientRect().top - h.getBoundingClientRect().height;
+      ad.style.bottom =  `${Math.min(0,bottom)}px`;
+      ad.style.transform='scale(0.75)';
+    }
+    setTimeout(a,100)
+    </script>
 
 .. |LINK1| raw:: html
 
