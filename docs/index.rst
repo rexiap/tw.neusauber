@@ -57,13 +57,13 @@ AR透明防鏽劑
 
 .. admonition:: 獨家IDS技術控制腐蝕
 
-    \ |IMG1|\ \ |IMG2|\ 
+    \ |IMG1|\ 
 
 \ |STYLE6|\ 。
 
 .. admonition:: 整新、新建需求
 
-    \ |IMG3|\ 
+    \ |IMG2|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -78,7 +78,7 @@ AR透明防鏽劑
 
 .. admonition:: 產品列表
 
-    \ |IMG4|\ \ |IMG5|\ 
+    \ |IMG3|\ \ |IMG4|\ 
 
 \ |STYLE7|\ 
 
@@ -86,7 +86,7 @@ AR透明防鏽劑
 
 .. admonition:: ARPrimer
 
-    \ |IMG6|\ \ |IMG7|\ 
+    \ |IMG5|\ \ |IMG6|\ 
 
 \ |STYLE8|\ 
 
@@ -94,7 +94,7 @@ AR透明防鏽劑
 
 .. admonition:: ARSealing
 
-    \ |IMG8|\ \ |IMG9|\ 
+    \ |IMG7|\ \ |IMG8|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -104,7 +104,7 @@ AR透明防鏽劑
 
 .. admonition:: 使用方式
 
-    \ |IMG10|\ \ |IMG11|\ 
+    \ |IMG9|\ \ |IMG10|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -115,7 +115,7 @@ AR透明防鏽劑
 
 .. admonition:: 可依需求選擇對應防鏽工法
 
-    \ |IMG12|\ 
+    \ |IMG11|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -127,7 +127,7 @@ AR透明防鏽劑
 
 .. admonition:: 高速公路工程案例
 
-    \ |IMG13|\ 
+    \ |IMG12|\ 
 
 .. _h365425373c54557813239715c73338:
 
@@ -137,7 +137,7 @@ AR透明防鏽劑防護中
 
 .. admonition:: 實績摘要
 
-    \ |IMG14|\ 
+    \ |IMG13|\ 
 
 
 .. admonition:: 諮詢聯絡資訊
@@ -154,7 +154,7 @@ AR透明防鏽劑防護中
     
     Line ID:@345rxpyp
     
-    \ |IMG15|\ 
+    \ |IMG14|\ 
     
     (Line ID QR code)
     
@@ -300,21 +300,21 @@ AR透明防鏽劑防護中
    :height: 426 px
    :width: 682 px
 
-.. |IMG2| image:: static/index_2.png
-   :height: 426 px
-   :width: 682 px
-
-.. |IMG3| image:: static/index_3.jpeg
+.. |IMG2| image:: static/index_2.jpeg
    :height: 509 px
    :width: 682 px
 
-.. |IMG4| image:: static/index_4.png
+.. |IMG3| image:: static/index_3.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG5| image:: static/index_5.png
+.. |IMG4| image:: static/index_4.png
    :height: 480 px
    :width: 640 px
+
+.. |IMG5| image:: static/index_5.png
+   :height: 401 px
+   :width: 641 px
 
 .. |IMG6| image:: static/index_6.png
    :height: 401 px
@@ -329,7 +329,7 @@ AR透明防鏽劑防護中
    :width: 641 px
 
 .. |IMG9| image:: static/index_9.png
-   :height: 401 px
+   :height: 400 px
    :width: 641 px
 
 .. |IMG10| image:: static/index_10.png
@@ -337,21 +337,17 @@ AR透明防鏽劑防護中
    :width: 641 px
 
 .. |IMG11| image:: static/index_11.png
-   :height: 400 px
-   :width: 641 px
-
-.. |IMG12| image:: static/index_12.png
    :height: 482 px
    :width: 641 px
 
-.. |IMG13| image:: static/index_13.png
+.. |IMG12| image:: static/index_12.png
    :height: 400 px
    :width: 641 px
 
-.. |IMG14| image:: static/index_14.png
+.. |IMG13| image:: static/index_13.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG15| image:: static/index_15.png
+.. |IMG14| image:: static/index_14.png
    :height: 197 px
    :width: 197 px
