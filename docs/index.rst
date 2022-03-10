@@ -55,16 +55,30 @@ AR透明防鏽劑
 
 \ |STYLE5|\ 
 
-.. admonition:: 獨家IDS技術解決現行防鏽難題
+.. admonition:: 獨家IDS技術控制腐蝕
 
     \ |IMG1|\ \ |IMG2|\ 
 
 
-.. admonition:: “凍鏽”與強化“塗料密著”效果
+.. admonition:: 獨家IDS技術控制腐蝕
 
-    \ |IMG4|\ \ |IMG5|\ 
+    \ |IMG3|\ 
+
+
+.. admonition:: 知鏽治鏽
+
+    \ |IMG4|\ 
 
 \ |STYLE6|\ 。
+
+.. admonition:: 整新、新建需求
+
+    \ |IMG5|\ 
+
+
+.. admonition:: 強化易鏽熱區與維運需求
+
+    \ |IMG6|\ \ |IMG7|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -79,7 +93,7 @@ AR透明防鏽劑
 
 .. admonition:: 產品列表
 
-    \ |IMG6|\ \ |IMG7|\ 
+    \ |IMG8|\ \ |IMG9|\ 
 
 \ |STYLE7|\ 
 
@@ -87,7 +101,7 @@ AR透明防鏽劑
 
 .. admonition:: ARPrimer
 
-    \ |IMG8|\ \ |IMG9|\ 
+    \ |IMG10|\ \ |IMG11|\ 
 
 \ |STYLE8|\ 
 
@@ -95,7 +109,7 @@ AR透明防鏽劑
 
 .. admonition:: ARSealing
 
-    \ |IMG10|\ \ |IMG11|\ 
+    \ |IMG12|\ \ |IMG13|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -105,7 +119,7 @@ AR透明防鏽劑
 
 .. admonition:: 使用方式
 
-    \ |IMG12|\ \ |IMG13|\ 
+    \ |IMG14|\ \ |IMG15|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -116,7 +130,7 @@ AR透明防鏽劑
 
 .. admonition:: 可依需求選擇對應防鏽工法
 
-    \ |IMG14|\ 
+    \ |IMG16|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -128,7 +142,7 @@ AR透明防鏽劑
 
 .. admonition:: 高速公路工程案例
 
-    \ |IMG15|\ 
+    \ |IMG17|\ 
 
 .. _h365425373c54557813239715c73338:
 
@@ -136,16 +150,16 @@ AR透明防鏽劑防護中
 ==================
 
 
-.. admonition:: 知名案例
+.. admonition:: 實績摘要
 
-    \ |IMG16|\ 
+    \ |IMG18|\ 
 
 
 .. admonition:: 諮詢聯絡資訊
 
     AR透明防鏽劑
     
-    使用諮詢，工作日週一～週五 09:00~17:30
+    使用諮詢、購買，工作日週一～週五 09:00~17:30
     
     請聯絡
     
@@ -155,7 +169,7 @@ AR透明防鏽劑防護中
     
     Line ID:@345rxpyp
     
-    \ |IMG17|\ 
+    \ |IMG19|\ 
     
     (Line ID QR code)
     
@@ -235,7 +249,7 @@ AR透明防鏽劑防護中
 
 .. |STYLE5| replace:: **橋樑、建築、動力車輛/底盤、機械設備、太陽能、風力發電、化學管線/槽/架、室內物品、食品設備、自行車等防鏽，所有室內、室外、高鹽害、高磺害之金屬設施或設備都適用，無法除鏽、除鏽困難區域更合適。鐵材、鋼材、鋼纜、銅製、鋁製、鎳鍍層、鋅鍍層、油漆層皆可用。**
 
-.. |STYLE6| replace:: **經AR之IDS技術處理後不僅無需除鏽，且防鏽能力至少提高兩倍以上**
+.. |STYLE6| replace:: **經AR之IDS技術處理後不僅無需除鏽，且防鏽能力至少比過去工法提高兩倍以上**
 
 .. |STYLE7| replace:: **ARPrimer底塗型透明防鏽劑**
 
@@ -278,7 +292,7 @@ AR透明防鏽劑防護中
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/file/d/1NqFcuHfcpmsMYJUP2suj6VKX-zW2Cmah/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
+    <a href="https://drive.google.com/file/d/10XlfhCI_s_jj07mI6oP9zaU6ymDZH9U0/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
 
 .. |LINK2| raw:: html
 
@@ -294,7 +308,7 @@ AR透明防鏽劑防護中
 
 .. |LINK5| raw:: html
 
-    <a href="https://drive.google.com/file/d/1NqFcuHfcpmsMYJUP2suj6VKX-zW2Cmah/view?usp=sharing" target="_blank">AR透明防鏽劑簡報下載</a>
+    <a href="https://drive.google.com/file/d/10XlfhCI_s_jj07mI6oP9zaU6ymDZH9U0/view?usp=sharing" target="_blank">AR透明防鏽劑簡報下載</a>
 
 
 .. |IMG1| image:: static/index_1.png
@@ -310,28 +324,28 @@ AR透明防鏽劑防護中
    :width: 682 px
 
 .. |IMG4| image:: static/index_4.png
-   :height: 480 px
-   :width: 640 px
+   :height: 426 px
+   :width: 682 px
 
-.. |IMG5| image:: static/index_5.png
-   :height: 480 px
-   :width: 640 px
+.. |IMG5| image:: static/index_5.jpeg
+   :height: 509 px
+   :width: 682 px
 
 .. |IMG6| image:: static/index_6.png
-   :height: 400 px
-   :width: 638 px
+   :height: 426 px
+   :width: 682 px
 
 .. |IMG7| image:: static/index_7.png
-   :height: 480 px
-   :width: 640 px
+   :height: 426 px
+   :width: 682 px
 
 .. |IMG8| image:: static/index_8.png
-   :height: 401 px
-   :width: 641 px
+   :height: 426 px
+   :width: 682 px
 
 .. |IMG9| image:: static/index_9.png
-   :height: 401 px
-   :width: 641 px
+   :height: 480 px
+   :width: 640 px
 
 .. |IMG10| image:: static/index_10.png
    :height: 401 px
@@ -342,15 +356,15 @@ AR透明防鏽劑防護中
    :width: 641 px
 
 .. |IMG12| image:: static/index_12.png
-   :height: 400 px
+   :height: 401 px
    :width: 641 px
 
 .. |IMG13| image:: static/index_13.png
-   :height: 400 px
+   :height: 401 px
    :width: 641 px
 
 .. |IMG14| image:: static/index_14.png
-   :height: 482 px
+   :height: 400 px
    :width: 641 px
 
 .. |IMG15| image:: static/index_15.png
@@ -358,9 +372,17 @@ AR透明防鏽劑防護中
    :width: 641 px
 
 .. |IMG16| image:: static/index_16.png
-   :height: 478 px
-   :width: 638 px
+   :height: 482 px
+   :width: 641 px
 
 .. |IMG17| image:: static/index_17.png
+   :height: 400 px
+   :width: 641 px
+
+.. |IMG18| image:: static/index_18.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG19| image:: static/index_19.png
    :height: 197 px
    :width: 197 px
