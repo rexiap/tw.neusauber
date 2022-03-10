@@ -59,11 +59,6 @@ AR透明防鏽劑
 
     \ |IMG1|\ \ |IMG2|\ 
 
-
-..  Note:: 
-
-    (content of Note)
-
 \ |STYLE6|\ 。
 
 .. admonition:: 整新、新建需求
