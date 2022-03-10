@@ -270,7 +270,7 @@ AR透明防鏽劑防護中
       const h = document.querySelector('.wy-nav-content')
        let bottom = -200
        if (h && t) bottom = t.getBoundingClientRect().top - h.getBoundingClientRect().height;
-      ad.style.bottom = `${bottom}px`;
+      ad.style.bottom = `${Math.min(0,bottom)}px`;
       ad.style.transform='scale(0.75)';
     }
     setTimeout(a,100)
@@ -297,13 +297,13 @@ AR透明防鏽劑防護中
     <a href="https://drive.google.com/file/d/1NqFcuHfcpmsMYJUP2suj6VKX-zW2Cmah/view?usp=sharing" target="_blank">AR透明防鏽劑簡報下載</a>
 
 
-.. |IMG1| image:: static/index_1.png
-   :height: 480 px
-   :width: 641 px
+.. |IMG1| image:: static/index_1.jpeg
+   :height: 1505 px
+   :width: 682 px
 
-.. |IMG2| image:: static/index_2.png
-   :height: 480 px
-   :width: 641 px
+.. |IMG2| image:: static/index_2.jpeg
+   :height: 510 px
+   :width: 682 px
 
 .. |IMG3| image:: static/index_3.png
    :height: 480 px
