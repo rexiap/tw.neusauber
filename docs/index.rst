@@ -60,9 +60,9 @@ AR透明防鏽劑
     \ |IMG1|\ \ |IMG2|\ 
 
 
-.. admonition:: 獨家IDS技術控制腐蝕2
+..  Note:: 
 
-    
+    (content of Note)
 
 \ |STYLE6|\ 。
 
