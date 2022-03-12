@@ -71,17 +71,13 @@ AR透明防鏽劑
 
 具有凍鏽、密著底漆功能之透明防鏽劑，可取代傳統所有底漆，如紅丹、合金底漆、鋅粉底漆、鏽轉化劑等，及提高面漆附著的功能。使用ARPrimer後不必等待固化，可直接施作所有種類面漆，達到凍鏽與防鏽功能。
 
-.. admonition:: ARPrimer
-
-    \ |IMG1|\ \ |IMG2|\ 
-
 \ |STYLE8|\ 
 
 同時具有凍鏽又防鏽雙效功能，只要施作一道，不必搭配ARPrimer底塗使用，即可保留鏽蝕外觀又兼具防鏽效果。
 
 .. admonition:: ARSealing
 
-    \ |IMG3|\ \ |IMG4|\ 
+    \ |IMG1|\ \ |IMG2|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -91,7 +87,7 @@ AR透明防鏽劑
 
 .. admonition:: 使用方式
 
-    \ |IMG5|\ \ |IMG6|\ 
+    \ |IMG3|\ \ |IMG4|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -102,7 +98,7 @@ AR透明防鏽劑
 
 .. admonition:: 可依需求選擇對應防鏽工法
 
-    \ |IMG7|\ 
+    \ |IMG5|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -114,7 +110,7 @@ AR透明防鏽劑
 
 .. admonition:: 高速公路工程案例
 
-    \ |IMG8|\ 
+    \ |IMG6|\ 
 
 .. _h365425373c54557813239715c73338:
 
@@ -124,7 +120,7 @@ AR透明防鏽劑防護中
 
 .. admonition:: 實績摘要
 
-    \ |IMG9|\ 
+    \ |IMG7|\ 
 
 
 .. admonition:: 諮詢聯絡資訊
@@ -141,7 +137,7 @@ AR透明防鏽劑防護中
     
     Line ID:@345rxpyp
     
-    \ |IMG10|\ 
+    \ |IMG8|\ 
     
     (Line ID QR code)
     
@@ -292,15 +288,15 @@ AR透明防鏽劑防護中
    :width: 641 px
 
 .. |IMG3| image:: static/index_3.png
-   :height: 401 px
+   :height: 400 px
    :width: 641 px
 
 .. |IMG4| image:: static/index_4.png
-   :height: 401 px
+   :height: 400 px
    :width: 641 px
 
 .. |IMG5| image:: static/index_5.png
-   :height: 400 px
+   :height: 482 px
    :width: 641 px
 
 .. |IMG6| image:: static/index_6.png
@@ -308,17 +304,9 @@ AR透明防鏽劑防護中
    :width: 641 px
 
 .. |IMG7| image:: static/index_7.png
-   :height: 482 px
-   :width: 641 px
-
-.. |IMG8| image:: static/index_8.png
-   :height: 400 px
-   :width: 641 px
-
-.. |IMG9| image:: static/index_9.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG10| image:: static/index_10.png
+.. |IMG8| image:: static/index_8.png
    :height: 197 px
    :width: 197 px
