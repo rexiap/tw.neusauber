@@ -55,21 +55,33 @@ AR透明防鏽劑
 
 \ |STYLE5|\ 
 
+.. admonition:: 獨家IDS技術控制腐蝕
+
+    \ |IMG1|\ \ |IMG2|\ 
+
 \ |STYLE6|\ 。
 
-.. _h2c1d74277104e41780968148427e:
+.. admonition:: 整新、新建需求
 
-
-
+    \ |IMG3|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
 系列產品
 ========
 
+
+.. admonition:: 產品列表
+
+    \ |IMG4|\ \ |IMG5|\ 
+
 \ |STYLE7|\ 
 
 具有凍鏽、密著底漆功能之透明防鏽劑，可取代傳統所有底漆，如紅丹、合金底漆、鋅粉底漆、鏽轉化劑等，及提高面漆附著的功能。使用ARPrimer後不必等待固化，可直接施作所有種類面漆，達到凍鏽與防鏽功能。
+
+.. admonition:: ARPrimer
+
+    \ |IMG6|\ \ |IMG7|\ 
 
 \ |STYLE8|\ 
 
@@ -77,7 +89,7 @@ AR透明防鏽劑
 
 .. admonition:: ARSealing
 
-    \ |IMG1|\ \ |IMG2|\ 
+    \ |IMG8|\ \ |IMG9|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -87,7 +99,7 @@ AR透明防鏽劑
 
 .. admonition:: 使用方式
 
-    \ |IMG3|\ \ |IMG4|\ 
+    \ |IMG10|\ \ |IMG11|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -98,7 +110,7 @@ AR透明防鏽劑
 
 .. admonition:: 可依需求選擇對應防鏽工法
 
-    \ |IMG5|\ 
+    \ |IMG12|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -110,7 +122,7 @@ AR透明防鏽劑
 
 .. admonition:: 高速公路工程案例
 
-    \ |IMG6|\ 
+    \ |IMG13|\ 
 
 .. _h365425373c54557813239715c73338:
 
@@ -120,7 +132,7 @@ AR透明防鏽劑防護中
 
 .. admonition:: 實績摘要
 
-    \ |IMG7|\ 
+    \ |IMG14|\ 
 
 
 .. admonition:: 諮詢聯絡資訊
@@ -137,7 +149,7 @@ AR透明防鏽劑防護中
     
     Line ID:@345rxpyp
     
-    \ |IMG8|\ 
+    \ |IMG15|\ 
     
     (Line ID QR code)
     
@@ -280,33 +292,61 @@ AR透明防鏽劑防護中
 
 
 .. |IMG1| image:: static/index_1.png
-   :height: 401 px
-   :width: 641 px
-
-.. |IMG2| image:: static/index_2.png
-   :height: 401 px
-   :width: 641 px
-
-.. |IMG3| image:: static/index_3.png
-   :height: 400 px
-   :width: 641 px
-
-.. |IMG4| image:: static/index_4.png
-   :height: 400 px
-   :width: 641 px
-
-.. |IMG5| image:: static/index_5.png
-   :height: 482 px
-   :width: 641 px
-
-.. |IMG6| image:: static/index_6.png
-   :height: 400 px
-   :width: 641 px
-
-.. |IMG7| image:: static/index_7.png
    :height: 426 px
    :width: 682 px
 
+.. |IMG2| image:: static/index_2.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG3| image:: static/index_3.jpeg
+   :height: 506 px
+   :width: 680 px
+
+.. |IMG4| image:: static/index_4.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG5| image:: static/index_5.png
+   :height: 480 px
+   :width: 640 px
+
+.. |IMG6| image:: static/index_6.png
+   :height: 401 px
+   :width: 641 px
+
+.. |IMG7| image:: static/index_7.png
+   :height: 401 px
+   :width: 641 px
+
 .. |IMG8| image:: static/index_8.png
+   :height: 401 px
+   :width: 641 px
+
+.. |IMG9| image:: static/index_9.png
+   :height: 401 px
+   :width: 641 px
+
+.. |IMG10| image:: static/index_10.png
+   :height: 400 px
+   :width: 641 px
+
+.. |IMG11| image:: static/index_11.png
+   :height: 400 px
+   :width: 641 px
+
+.. |IMG12| image:: static/index_12.png
+   :height: 482 px
+   :width: 641 px
+
+.. |IMG13| image:: static/index_13.png
+   :height: 400 px
+   :width: 641 px
+
+.. |IMG14| image:: static/index_14.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG15| image:: static/index_15.png
    :height: 197 px
    :width: 197 px
