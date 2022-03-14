@@ -55,15 +55,31 @@ AR透明防鏽劑
 
 \ |STYLE5|\ 
 
-.. admonition:: 獨家IDS技術控制腐蝕
+.. admonition:: 獨家IDS控制腐蝕技術
 
     \ |IMG1|\ \ |IMG2|\ 
 
+
+.. admonition:: 控制腐蝕方能知鏽治鏽
+
+    \ |IMG3|\ \ |IMG4|\ 
+
 \ |STYLE6|\ 。
+
 
 .. admonition:: 整新、新建需求
 
-    \ |IMG3|\ 
+    \ |IMG5|\ 
+
+
+.. admonition:: 強化、維運需求
+
+    \ |IMG6|\ \ |IMG7|\ 
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -73,7 +89,7 @@ AR透明防鏽劑
 
 .. admonition:: 產品列表
 
-    \ |IMG4|\ \ |IMG5|\ 
+    \ |IMG8|\ \ |IMG9|\ 
 
 \ |STYLE7|\ 
 
@@ -81,7 +97,7 @@ AR透明防鏽劑
 
 .. admonition:: ARPrimer
 
-    \ |IMG6|\ \ |IMG7|\ 
+    \ |IMG10|\ \ |IMG11|\ 
 
 \ |STYLE8|\ 
 
@@ -89,7 +105,7 @@ AR透明防鏽劑
 
 .. admonition:: ARSealing
 
-    \ |IMG8|\ \ |IMG9|\ 
+    \ |IMG12|\ \ |IMG13|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -99,7 +115,7 @@ AR透明防鏽劑
 
 .. admonition:: 使用方式
 
-    \ |IMG10|\ \ |IMG11|\ 
+    \ |IMG14|\ \ |IMG15|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -110,7 +126,7 @@ AR透明防鏽劑
 
 .. admonition:: 可依需求選擇對應防鏽工法
 
-    \ |IMG12|\ 
+    \ |IMG16|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -122,7 +138,7 @@ AR透明防鏽劑
 
 .. admonition:: 高速公路工程案例
 
-    \ |IMG13|\ 
+    \ |IMG17|\ 
 
 .. _h365425373c54557813239715c73338:
 
@@ -132,7 +148,7 @@ AR透明防鏽劑防護中
 
 .. admonition:: 實績摘要
 
-    \ |IMG14|\ 
+    \ |IMG18|\ 
 
 
 .. admonition:: 諮詢聯絡資訊
@@ -149,7 +165,7 @@ AR透明防鏽劑防護中
     
     Line ID:@345rxpyp
     
-    \ |IMG15|\ 
+    \ |IMG19|\ 
     
     (Line ID QR code)
     
@@ -217,9 +233,9 @@ AR透明防鏽劑防護中
 .. bottom of content
 
 
-.. |STYLE0| replace:: **為溶劑型淡黃色無黏度透明化學溶液，滲透性、擴展性極佳，專門針對室內外既有金屬設施之前處理或表面處理劑。不需要除鏽即可終止鏽蝕活性、或提供長效防鏽、增加各式塗層密著與其壽命之功能。非油漆、油脂或鏽轉化劑系統。**
+.. |STYLE0| replace:: **為溶劑型淡黃色無黏度透明化學溶液，滲透性、擴展性極佳，專門針對室內外既有金屬設施之前處理或表面處理劑。不需要除鏽即可終止鏽蝕活性、或提供長效防鏽、增加各式塗層密著與其壽命之功能。非油漆、油脂或鏽轉化劑系統，每單位可施作面積為油漆5至10倍。**
 
-.. |STYLE1| replace:: **以獨家IDS技術，滲入鏽蝕最底部主動凍結鏽蝕(Inhibition)反應，建構阻水阻氧層(Defense)，進化原鏽層為保護性絕佳的鈍化表面，達到優秀自我防鏽效果。經IDS技術處理過後金屬，鏽不再惡化至大面積孔蝕、片鏽等嚴重影響結構強度之鏽蝕重症。也可先除鏽再使用AR透明防鏽劑後上漆，一但漆料受損或劣化，暴露之金屬自動形成優秀自我防鏽之鈍化表面，作為防鏽二次防禦的保護機制，或可視為金屬的防鏽疫苗，避免鏽蝕重症發生。**
+.. |STYLE1| replace:: **以獨家IDS技術，滲入鏽蝕最底部主動凍結鏽蝕(Inhibition)反應，建構阻水阻氧層(Defense)，進化原生鏽層為保護性絕佳的鈍化表面，達到優秀防鏽效果。經IDS技術處理過後金屬，鏽不再惡化至大面積孔蝕、片鏽等嚴重影響結構強度之鏽蝕重症。也可先除鏽再使用AR透明防鏽劑後上漆，一但漆料受損或劣化，暴露之金屬自動形成優秀自我防鏽之鈍化表面，作為防鏽第二重防禦的保護機制，或可視為金屬的防鏽疫苗，避免鏽蝕重症發生。**
 
 .. |STYLE2| replace:: **施作簡單、快速，防鏽效果佳、壽命長。工研院與SGS檢測，材料安全環保，同時符合 CNS4908 、與 CNS4160 標準，膜層具美國FDA食品級塗層認證，更通過國際 ASTM B117 及 Norsok M501 防鏽能力測試。**
 
@@ -229,7 +245,7 @@ AR透明防鏽劑防護中
 
 .. |STYLE5| replace:: **橋樑、建築、動力車輛/底盤、機械設備、太陽能、風力發電、化學管線/槽/架、室內物品、食品設備、自行車等防鏽，所有室內、室外、高鹽害、高磺害之金屬設施或設備都適用，無法除鏽、除鏽困難區域更合適。鐵材、鋼材、鋼纜、銅製、鋁製、鎳鍍層、鋅鍍層、油漆層皆可用。**
 
-.. |STYLE6| replace:: **經AR之IDS技術處理後不僅無需除鏽，且防鏽能力至少比過去工法提高兩倍以上**
+.. |STYLE6| replace:: **不管有無先除鏽，經AR凍鏽表面處理後，原生鏽或新生鏽皆成為具保護底材能力的鏽，且防鏽能力比過去工法提高2~5倍**
 
 .. |STYLE7| replace:: **ARPrimer底塗型透明防鏽劑**
 
@@ -299,54 +315,70 @@ AR透明防鏽劑防護中
    :height: 426 px
    :width: 682 px
 
-.. |IMG3| image:: static/index_3.jpeg
-   :height: 506 px
-   :width: 680 px
+.. |IMG3| image:: static/index_3.png
+   :height: 426 px
+   :width: 682 px
 
 .. |IMG4| image:: static/index_4.png
    :height: 426 px
    :width: 682 px
 
 .. |IMG5| image:: static/index_5.png
-   :height: 480 px
-   :width: 640 px
-
-.. |IMG6| image:: static/index_6.png
-   :height: 401 px
-   :width: 641 px
-
-.. |IMG7| image:: static/index_7.png
-   :height: 401 px
-   :width: 641 px
-
-.. |IMG8| image:: static/index_8.png
-   :height: 401 px
-   :width: 641 px
-
-.. |IMG9| image:: static/index_9.png
-   :height: 401 px
-   :width: 641 px
-
-.. |IMG10| image:: static/index_10.png
-   :height: 400 px
-   :width: 641 px
-
-.. |IMG11| image:: static/index_11.png
-   :height: 400 px
-   :width: 641 px
-
-.. |IMG12| image:: static/index_12.png
-   :height: 482 px
-   :width: 641 px
-
-.. |IMG13| image:: static/index_13.png
-   :height: 400 px
-   :width: 641 px
-
-.. |IMG14| image:: static/index_14.png
    :height: 426 px
    :width: 682 px
 
+.. |IMG6| image:: static/index_6.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG7| image:: static/index_7.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG8| image:: static/index_8.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG9| image:: static/index_9.png
+   :height: 513 px
+   :width: 684 px
+
+.. |IMG10| image:: static/index_10.png
+   :height: 426 px
+   :width: 680 px
+
+.. |IMG11| image:: static/index_11.png
+   :height: 426 px
+   :width: 680 px
+
+.. |IMG12| image:: static/index_12.png
+   :height: 426 px
+   :width: 681 px
+
+.. |IMG13| image:: static/index_13.png
+   :height: 426 px
+   :width: 680 px
+
+.. |IMG14| image:: static/index_14.png
+   :height: 425 px
+   :width: 681 px
+
 .. |IMG15| image:: static/index_15.png
+   :height: 425 px
+   :width: 681 px
+
+.. |IMG16| image:: static/index_16.png
+   :height: 513 px
+   :width: 682 px
+
+.. |IMG17| image:: static/index_17.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG18| image:: static/index_18.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG19| image:: static/index_19.png
    :height: 197 px
    :width: 197 px
