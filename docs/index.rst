@@ -288,7 +288,7 @@ AR透明防鏽劑防護中
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/file/d/10XlfhCI_s_jj07mI6oP9zaU6ymDZH9U0/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
+    <a href="https://drive.google.com/file/d/1QrdKRPbY_hovq1MD1y3yzWmVMCZwk22C/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
 
 .. |LINK2| raw:: html
 
@@ -304,7 +304,7 @@ AR透明防鏽劑防護中
 
 .. |LINK5| raw:: html
 
-    <a href="https://drive.google.com/file/d/10XlfhCI_s_jj07mI6oP9zaU6ymDZH9U0/view?usp=sharing" target="_blank">AR透明防鏽劑簡報下載</a>
+    <a href="https://drive.google.com/file/d/1QrdKRPbY_hovq1MD1y3yzWmVMCZwk22C/view?usp=sharing" target="_blank">AR透明防鏽劑簡報下載</a>
 
 
 .. |IMG1| image:: static/index_1.png
