@@ -64,7 +64,7 @@ AR透明防鏽劑
 
     \ |IMG3|\ \ |IMG4|\ 
 
-\ |STYLE6|\ 。
+\ |STYLE6|\ \ |STYLE7|\ \ |STYLE8|\ \ |STYLE9|\ \ |STYLE10|\ \ |STYLE11|\ \ |STYLE12|\ \ |STYLE13|\ \ |STYLE14|\ 。
 
 
 .. admonition:: 整新、新建需求
@@ -91,7 +91,7 @@ AR透明防鏽劑
 
     \ |IMG8|\ \ |IMG9|\ 
 
-\ |STYLE7|\ 
+\ |STYLE15|\ 
 
 具有凍鏽、密著底漆功能之透明防鏽劑，可取代傳統所有底漆，如紅丹、合金底漆、鋅粉底漆、鏽轉化劑等，及提高面漆附著的功能。使用ARPrimer後不必等待固化，可直接施作所有種類面漆，達到凍鏽與防鏽功能。
 
@@ -99,7 +99,7 @@ AR透明防鏽劑
 
     \ |IMG10|\ \ |IMG11|\ 
 
-\ |STYLE8|\ 
+\ |STYLE16|\ 
 
 同時具有凍鏽又防鏽雙效功能，只要施作一道，不必搭配ARPrimer底塗使用，即可保留鏽蝕外觀又兼具防鏽效果。
 
@@ -245,11 +245,27 @@ AR透明防鏽劑防護中
 
 .. |STYLE5| replace:: **橋樑、建築、動力車輛/底盤、機械設備、太陽能、風力發電、化學管線/槽/架、室內物品、食品設備、自行車等防鏽，所有室內、室外、高鹽害、高磺害之金屬設施或設備都適用，無法除鏽、除鏽困難區域更合適。鐵材、鋼材、鋼纜、銅製、鋁製、鎳鍍層、鋅鍍層、油漆層皆可用。**
 
-.. |STYLE6| replace:: **不管有無先除鏽，經AR凍鏽表面處理後，原生鏽或新生鏽皆成為具保護底材能力的鏽，且防鏽能力比過去工法提高2~5倍**
+.. |STYLE6| replace:: **不管有無先除鏽，經AR凍鏽表面處理後，原生鏽或新生鏽皆成為具防護且包覆底材的網狀結構𝛃-FeO(OH)與Fe**
 
-.. |STYLE7| replace:: **ARPrimer底塗型透明防鏽劑**
+.. |STYLE7| replace:: :sub:`2`
 
-.. |STYLE8| replace:: **ARSealing密封型透明防鏽劑**
+.. |STYLE8| replace:: **O**
+
+.. |STYLE9| replace:: :sub:`3`
+
+.. |STYLE10| replace:: **、Fe**
+
+.. |STYLE11| replace:: :sub:`3`
+
+.. |STYLE12| replace:: **O**
+
+.. |STYLE13| replace:: :sub:`4`
+
+.. |STYLE14| replace:: **的鏽，防鏽能力比過去工法提高2~5倍**
+
+.. |STYLE15| replace:: **ARPrimer底塗型透明防鏽劑**
+
+.. |STYLE16| replace:: **ARSealing密封型透明防鏽劑**
 
 
 .. |REPLACE1| raw:: html
@@ -288,7 +304,7 @@ AR透明防鏽劑防護中
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/file/d/1QrdKRPbY_hovq1MD1y3yzWmVMCZwk22C/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
+    <a href="https://drive.google.com/file/d/1hc-zgS3CsabqoJf8KpbfVsWcdQ9no6YU/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
 
 .. |LINK2| raw:: html
 
@@ -300,11 +316,11 @@ AR透明防鏽劑防護中
 
 .. |LINK4| raw:: html
 
-    <a href="https://drive.google.com/file/d/1coUftMdMeSQzrqqtFDNID4MvLiWsBYsP/view?usp=sharing" target="_blank">AR透明防鏽劑DM下載</a>
+    <a href="https://drive.google.com/file/d/1coUftMdMeSQzrqqtFDNID4MvLiWsBYsP/view?usp=sharing" target="_blank">AR透明防鏽劑“DM下載”</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://drive.google.com/file/d/1QrdKRPbY_hovq1MD1y3yzWmVMCZwk22C/view?usp=sharing" target="_blank">AR透明防鏽劑簡報下載</a>
+    <a href="https://drive.google.com/file/d/1hc-zgS3CsabqoJf8KpbfVsWcdQ9no6YU/view?usp=sharing" target="_blank">AR透明防鏽劑“最新簡報下載”(不定期更新)</a>
 
 
 .. |IMG1| image:: static/index_1.png
