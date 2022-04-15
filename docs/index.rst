@@ -171,7 +171,8 @@ AR透明防鏽劑防護中
     
     注意事項：
     
-    請使用上列電子郵件或加入Line官方帳號詢價訂購，無店頭或門市銷售；訂購價格『已含運費』並以郵局或大榮貨運遞送；一般狀況下依訂購數量約3~7工作日內可收到貨。
+    請使用上列電子郵件或加入Line官方帳號詢價訂購，無店頭或門市銷售；訂購價格『已含運費』並以郵局或大榮貨運遞送；一般狀況下依訂購數量約3~7工作日內可收到貨，且僅開立三聯式發票。
+    ＊艾杰旭集團、欣興電子集團、中鋼集團相關案件與施作廠商請直接來電03-3659119。
 
 
 .. admonition:: 詢價與使用建議、訂購流程：
@@ -180,7 +181,7 @@ AR透明防鏽劑防護中
     
     請於電子郵件或Line官方帳號提供下列資訊
     
-    公司名(個人)： 
+    公司名： 
     
     聯絡人： 
     
@@ -196,7 +197,7 @@ AR透明防鏽劑防護中
     
     請於電子郵件或Line官方帳號提供下列資訊
     
-    公司名(個人)： 
+    公司名： 
     
     統編： 
     
@@ -304,7 +305,7 @@ AR透明防鏽劑防護中
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/file/d/1hc-zgS3CsabqoJf8KpbfVsWcdQ9no6YU/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
+    <a href="https://drive.google.com/file/d/15PysU89d8ZDzB4KuXoTgdfw6fojL_oRD/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
 
 .. |LINK2| raw:: html
 
@@ -320,7 +321,7 @@ AR透明防鏽劑防護中
 
 .. |LINK5| raw:: html
 
-    <a href="https://drive.google.com/file/d/1hc-zgS3CsabqoJf8KpbfVsWcdQ9no6YU/view?usp=sharing" target="_blank">AR透明防鏽劑“最新簡報下載”(不定期更新)</a>
+    <a href="https://drive.google.com/file/d/15PysU89d8ZDzB4KuXoTgdfw6fojL_oRD/view?usp=sharing" target="_blank">AR透明防鏽劑“最新簡報下載”(不定期更新)</a>
 
 
 .. |IMG1| image:: static/index_1.png
