@@ -1,8 +1,8 @@
 
-.. _h6d226b6080575179171220c73657b3e:
+.. _h928462123c7b39595727745072844:
 
-\ |LINK1|\  - 鏽蝕終結者
-########################
+\ |LINK1|\  - 凍結鏽蝕
+######################
 
 
 .. toctree:: 
@@ -21,6 +21,13 @@
 最新消息 
 =========
 
+.. _h56691014623d4b61172d1a3d441147:
+
+2022年4月工研院報告確認“耐蝕鈍化膜”成分由網狀緻密包覆的氧化鐵組成
+=================================================================
+
+某市政府與意杰國際合作戶外長期測試AR透明防鏽劑，經四年追蹤研究由工研院材化所報告證實，AR透明防鏽劑促進金屬表面生成網狀結構緻密包覆之𝛃-FeO(OH)、Fe\ |STYLE0|\ O\ |STYLE1|\ 、Fe\ |STYLE2|\ O\ |STYLE3|\ “耐蝕鈍化膜”。且海邊惱人的氯離子也能被鎖進結構內而形成𝛃-FeO(OH)，展現AR透明防鏽劑優良的防鏽效果。
+
 .. _h691b354056506d1415553645c657a58:
 
 2021年3月5日出刊 台灣省土木技師公會技師報1264期文章
@@ -38,43 +45,68 @@
 
 |REPLACE1|
 
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+經常性缺工及世界性通膨快速增長趨勢中
+
+關於防鏽我們期待
+
+鏽蝕能否停止惡化？
+
+防鏽工序能否簡單或快一點？
+
+維護週期能否長一點？
+
+總體成本能否降低？
+
+防鏽效果能否持續久一點？
+
+答案是可以的！
+
+只要使用
+
 .. _h6b417c78253075e44347e587a5f7f:
 
 AR透明防鏽劑
 ============
 
-\ |STYLE0|\ 
+處理您的金屬設施或設備，無論鏽蝕多嚴重，除鏽乾不乾淨都不再重要，甚至不除鏽效果更好、更快速、更省錢！
 
-\ |STYLE1|\ 
+無論位在海上、海邊、溫泉區、工業區、高山多雨等鏽蝕嚴重區域，不用再擔心鹽分、硫氣、酸氣、水氣的影響，都可快速達到專業耐久的防鏽效果！
 
-\ |STYLE2|\ 
+AR透明防鏽劑透過獨家凍鏽機制終止鏽蝕活性避免惡化，並促進表面形成具保護底材金屬且細緻又穩定牢固的”耐蝕鈍化膜“，成份為自身氧化物的網狀結晶態氧化鐵，即便位處海邊，原始表面或鏽蝕裡含氯離子，使用AR透明防鏽劑後也能被吸納成耐蝕鈍化膜層的一部分。
 
-\ |STYLE3|\ 
+經工研院測試研究”耐蝕鈍化膜“防鏽能力為一底一度(底塗＋面塗)的50倍以上。
 
-\ |STYLE4|\ 
+系列產品成分符合歐盟 RoHS不含重金屬，溶劑符合美國無VOCs標準，透明薄膜符合美國FDA可接觸食品塗層，具備環境友善、施作安全、使用安心。
 
-\ |STYLE5|\ 
+防鏽效果通過台灣CNS 4160防鏽能力標準、美國材料試驗協會ASTM B117防蝕標準、挪威鑽油平台Norsok M501防蝕標準。產品內容物符合台灣CNS4908標準。
 
-.. admonition:: 獨家IDS控制腐蝕技術
+AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需要建立厚度或要求遮蓋率，只需讓藥液濕潤表面，光滑無鏽表面用量低，如使用水彩筆宣染之技巧即可，越粗糙或鏽面用量則酌予增加。
+
+適用於海上、海邊、工業區、溫泉區等符合ISO12944之C5級以上重腐蝕地區設施。橋樑、建築、動力車輛/底盤、機械設備、太陽能、風力發電、化學管線/槽/架、室內物品、食品設備、自行車等防鏽，所有室內、室外、高鹽害、高磺害之金屬設施或設備都適用，無法除鏽、除鏽困難區域更合適。鐵材、鋼材、鋼纜、銅製、鋁製、鎳鍍層、鋅鍍層、油漆層皆可用。
+
+.. admonition:: 獨家“凍鏽”功能促進形成“耐蝕鈍化膜”讓金屬自我保護
 
     \ |IMG1|\ \ |IMG2|\ 
 
 
-.. admonition:: 控制腐蝕方能知鏽治鏽
+.. admonition:: 勤能補洞延長保護層壽命
 
-    \ |IMG3|\ \ |IMG4|\ 
-
-\ |STYLE6|\ \ |STYLE7|\ \ |STYLE8|\ \ |STYLE9|\ \ |STYLE10|\ \ |STYLE11|\ \ |STYLE12|\ \ |STYLE13|\ \ |STYLE14|\ 。
+    \ |IMG3|\ 
 
 
-.. admonition:: 整新、新建需求
+.. admonition:: 使用成效顯著、適用材質廣泛
 
-    \ |IMG5|\ 
+    \ |IMG4|\ 
 
 
-.. admonition:: 強化、維運需求
+.. admonition:: 耐蝕鈍化膜自我保護效果實證
 
-    \ |IMG6|\ \ |IMG7|\ 
+    \ |IMG5|\ \ |IMG6|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -87,25 +119,25 @@ AR透明防鏽劑
 ========
 
 
-.. admonition:: 產品列表
+.. admonition:: 以功能選用AR透明防鏽劑適用型號
 
-    \ |IMG8|\ \ |IMG9|\ 
+    \ |IMG7|\ 
 
-\ |STYLE15|\ 
+\ |STYLE4|\ 
 
 具有凍鏽、密著底漆功能之透明防鏽劑，可取代傳統所有底漆，如紅丹、合金底漆、鋅粉底漆、鏽轉化劑等，及提高面漆附著的功能。使用ARPrimer後不必等待固化，可直接施作所有種類面漆，達到凍鏽與防鏽功能。
 
 .. admonition:: ARPrimer
 
-    \ |IMG10|\ \ |IMG11|\ 
+    \ |IMG8|\ \ |IMG9|\ 
 
-\ |STYLE16|\ 
+\ |STYLE5|\ 
 
 同時具有凍鏽又防鏽雙效功能，只要施作一道，不必搭配ARPrimer底塗使用，即可保留鏽蝕外觀又兼具防鏽效果。
 
 .. admonition:: ARSealing
 
-    \ |IMG12|\ \ |IMG13|\ 
+    \ |IMG10|\ \ |IMG11|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -115,7 +147,7 @@ AR透明防鏽劑
 
 .. admonition:: 使用方式
 
-    \ |IMG14|\ \ |IMG15|\ 
+    \ |IMG12|\ \ |IMG13|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -126,7 +158,7 @@ AR透明防鏽劑
 
 .. admonition:: 可依需求選擇對應防鏽工法
 
-    \ |IMG16|\ 
+    \ |IMG14|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -138,7 +170,7 @@ AR透明防鏽劑
 
 .. admonition:: 高速公路工程案例
 
-    \ |IMG17|\ 
+    \ |IMG15|\ 
 
 .. _h365425373c54557813239715c73338:
 
@@ -148,7 +180,7 @@ AR透明防鏽劑防護中
 
 .. admonition:: 實績摘要
 
-    \ |IMG18|\ 
+    \ |IMG16|\ 
 
 
 .. admonition:: 諮詢聯絡資訊
@@ -165,17 +197,17 @@ AR透明防鏽劑防護中
     
     Line ID:@345rxpyp
     
-    \ |IMG19|\ 
+    \ |IMG17|\ 
     
     (Line ID QR code)
     
     注意事項：
     
-    請使用上列電子郵件或加入Line官方帳號詢價訂購，無店頭或門市銷售；訂購價格『已含運費』並以郵局或大榮貨運遞送；一般狀況下依訂購數量約3~7工作日內可收到貨，且僅開立三聯式發票。
+    請使用上列電子郵件或加入Line官方帳號詢價訂購，“無店頭或門市銷售”；訂購價格『已含運費』並以郵局或大榮貨運遞送；一般狀況下依訂購數量約3~7工作日內可收到貨，且僅開立三聯式發票。
     ＊艾杰旭集團、欣興電子集團、中鋼集團相關案件與施作廠商請直接來電03-3659119。
 
 
-.. admonition:: 詢價與使用建議、訂購流程：
+.. admonition:: 詢價與使用建議、訂購流程：（請直接複製使用）
 
     1.詢價與使用建議
     
@@ -234,39 +266,17 @@ AR透明防鏽劑防護中
 .. bottom of content
 
 
-.. |STYLE0| replace:: **為溶劑型淡黃色無黏度透明化學溶液，滲透性、擴展性極佳，專門針對室內外既有金屬設施之前處理或表面處理劑。不需要除鏽即可終止鏽蝕活性、或提供長效防鏽、增加各式塗層密著與其壽命之功能。非油漆、油脂或鏽轉化劑系統，每單位可施作面積為油漆5至10倍。**
+.. |STYLE0| replace:: :sub:`2`
 
-.. |STYLE1| replace:: **以獨家IDS技術，滲入鏽蝕最底部主動凍結鏽蝕(Inhibition)反應，建構阻水阻氧層(Defense)，進化原生鏽層為保護性絕佳的鈍化表面，達到優秀防鏽效果。經IDS技術處理過後金屬，鏽不再惡化至大面積孔蝕、片鏽等嚴重影響結構強度之鏽蝕重症。也可先除鏽再使用AR透明防鏽劑後上漆，一但漆料受損或劣化，暴露之金屬自動形成優秀自我防鏽之鈍化表面，作為防鏽第二重防禦的保護機制，或可視為金屬的防鏽疫苗，避免鏽蝕重症發生。**
+.. |STYLE1| replace:: :sub:`3`
 
-.. |STYLE2| replace:: **施作簡單、快速，防鏽效果佳、壽命長。工研院與SGS檢測，材料安全環保，同時符合 CNS4908 、與 CNS4160 標準，膜層具美國FDA食品級塗層認證，更通過國際 ASTM B117 及 Norsok M501 防鏽能力測試。**
+.. |STYLE2| replace:: :sub:`3`
 
-.. |STYLE3| replace:: **AR透明防鏽劑有可於塗裝前、塗裝間使用的ARPrimer 底塗型透明防鏽劑。塗裝前使用提供凍鏽及增加金屬與塗料密著功能，塗裝間使用提供塗料與塗料密著功能。建議ARPrimer與塗料噴塗一前一後雙工同時施作，可發揮最大防鏽或塗料密著功效。**
+.. |STYLE3| replace:: :sub:`4`
 
-.. |STYLE4| replace:: **AR透明防鏽劑也有不需後塗裝或塗裝後使用的ARSealing 密封型透明防鏽劑。直接使用不需後塗裝，即可同時提供凍鏽、防鏽雙效功能。塗裝後使用可提供塗層耐UV抗粉化、提高防鏽壽命等功能。.**
+.. |STYLE4| replace:: **ARPrimer底塗型透明防鏽劑**
 
-.. |STYLE5| replace:: **橋樑、建築、動力車輛/底盤、機械設備、太陽能、風力發電、化學管線/槽/架、室內物品、食品設備、自行車等防鏽，所有室內、室外、高鹽害、高磺害之金屬設施或設備都適用，無法除鏽、除鏽困難區域更合適。鐵材、鋼材、鋼纜、銅製、鋁製、鎳鍍層、鋅鍍層、油漆層皆可用。**
-
-.. |STYLE6| replace:: **不管有無先除鏽，經AR凍鏽表面處理後，原生鏽或新生鏽皆成為具防護且包覆底材的網狀結構𝛃-FeO(OH)與Fe**
-
-.. |STYLE7| replace:: :sub:`2`
-
-.. |STYLE8| replace:: **O**
-
-.. |STYLE9| replace:: :sub:`3`
-
-.. |STYLE10| replace:: **、Fe**
-
-.. |STYLE11| replace:: :sub:`3`
-
-.. |STYLE12| replace:: **O**
-
-.. |STYLE13| replace:: :sub:`4`
-
-.. |STYLE14| replace:: **的鏽，防鏽能力比過去工法提高2~5倍**
-
-.. |STYLE15| replace:: **ARPrimer底塗型透明防鏽劑**
-
-.. |STYLE16| replace:: **ARSealing密封型透明防鏽劑**
+.. |STYLE5| replace:: **ARSealing密封型透明防鏽劑**
 
 
 .. |REPLACE1| raw:: html
@@ -305,7 +315,7 @@ AR透明防鏽劑防護中
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/file/d/15PysU89d8ZDzB4KuXoTgdfw6fojL_oRD/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
+    <a href="https://drive.google.com/file/d/18BTp20xONHGtSgT9fVdP3Aw8sRNdGl2p/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
 
 .. |LINK2| raw:: html
 
@@ -321,7 +331,7 @@ AR透明防鏽劑防護中
 
 .. |LINK5| raw:: html
 
-    <a href="https://drive.google.com/file/d/15PysU89d8ZDzB4KuXoTgdfw6fojL_oRD/view?usp=sharing" target="_blank">AR透明防鏽劑“最新簡報下載”(不定期更新)</a>
+    <a href="https://drive.google.com/file/d/18BTp20xONHGtSgT9fVdP3Aw8sRNdGl2p/view?usp=sharing" target="_blank">AR透明防鏽劑“最新簡報下載”(不定期更新)</a>
 
 
 .. |IMG1| image:: static/index_1.png
@@ -354,48 +364,40 @@ AR透明防鏽劑防護中
 
 .. |IMG8| image:: static/index_8.png
    :height: 426 px
-   :width: 682 px
+   :width: 680 px
 
 .. |IMG9| image:: static/index_9.png
-   :height: 513 px
-   :width: 684 px
+   :height: 426 px
+   :width: 680 px
 
 .. |IMG10| image:: static/index_10.png
    :height: 426 px
-   :width: 680 px
+   :width: 681 px
 
 .. |IMG11| image:: static/index_11.png
    :height: 426 px
    :width: 680 px
 
 .. |IMG12| image:: static/index_12.png
-   :height: 426 px
+   :height: 425 px
    :width: 681 px
 
 .. |IMG13| image:: static/index_13.png
-   :height: 426 px
-   :width: 680 px
+   :height: 425 px
+   :width: 681 px
 
 .. |IMG14| image:: static/index_14.png
-   :height: 425 px
-   :width: 681 px
-
-.. |IMG15| image:: static/index_15.png
-   :height: 425 px
-   :width: 681 px
-
-.. |IMG16| image:: static/index_16.png
    :height: 513 px
    :width: 682 px
 
+.. |IMG15| image:: static/index_15.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG16| image:: static/index_16.png
+   :height: 426 px
+   :width: 682 px
+
 .. |IMG17| image:: static/index_17.png
-   :height: 426 px
-   :width: 682 px
-
-.. |IMG18| image:: static/index_18.png
-   :height: 426 px
-   :width: 682 px
-
-.. |IMG19| image:: static/index_19.png
    :height: 197 px
    :width: 197 px
