@@ -30,6 +30,8 @@
 
 即使位於海邊表面的殘留氯離子，也能被耐蝕鈍化膜吸納固定，不再擔心其影響腐蝕速度。
 
+電子工廠酸蝕刻製程周邊金屬零配件，能透過使用AR透明防鏽劑長期保護，形成防酸氣侵蝕的優秀防腐蝕效果。
+
 塗裝老化失效後使用過AR透明防鏽劑的區域也能促進形成耐蝕鈍化膜，在下次維護來臨前避免鐵金屬快速生鏽惡化影響結構安全。
 
 .. _h691b354056506d1415553645c657a58:
@@ -77,7 +79,7 @@ AR透明防鏽劑
 
 處理您的金屬設施或設備，無論鏽蝕多嚴重，除鏽乾不乾淨都不再重要，甚至不除鏽效果更好、更快速、更省錢！
 
-無論位在海上、海邊、溫泉區、工業區、高山多雨等鏽蝕嚴重區域，不用再擔心鹽分、硫氣、酸氣、水氣的影響，都可快速達到專業耐久的防鏽效果！
+無論位在海上、海邊、溫泉區、工業區、高山多雨等鏽蝕嚴重區域，可防鹽分、防硫氣、防酸氣、防水氣的影響，快速達到專業耐久的防鏽效果！
 
 AR透明防鏽劑透過獨家凍鏽機制終止鏽蝕活性避免惡化，並促進表面形成具保護底材金屬且細緻又穩定牢固的”耐蝕鈍化膜“，成份為自身氧化物的網狀結晶態氧化鐵，即便位處海邊，原始表面或鏽蝕裡含氯離子，使用AR透明防鏽劑後也能被吸納成耐蝕鈍化膜層的一部分。
 
@@ -98,19 +100,19 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
     \ |IMG1|\ \ |IMG2|\ 
 
 
-.. admonition:: 勤能補洞延長保護層壽命
+.. admonition:: 密封表面延長保護層壽命
 
-    \ |IMG3|\ 
+    \ |IMG3|\ \ |IMG4|\ 
 
 
 .. admonition:: 使用成效顯著、適用材質廣泛
 
-    \ |IMG4|\ 
+    \ |IMG5|\ 
 
 
 .. admonition:: 耐蝕鈍化膜自我保護效果實證
 
-    \ |IMG5|\ \ |IMG6|\ 
+    \ |IMG6|\ \ |IMG7|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -125,7 +127,7 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
 
 .. admonition:: 以功能選用AR透明防鏽劑適用型號
 
-    \ |IMG7|\ 
+    \ |IMG8|\ 
 
 .. _h77767b62302b382f512f69697c4c6862:
 
@@ -136,7 +138,7 @@ ARPrimer底塗型透明防鏽劑
 
 .. admonition:: ARPrimer
 
-    \ |IMG8|\ \ |IMG9|\ 
+    \ |IMG9|\ \ |IMG10|\ 
 
 .. _h5d4b1e361e135964725df1570fe2d:
 
@@ -147,7 +149,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: ARSealing
 
-    \ |IMG10|\ \ |IMG11|\ 
+    \ |IMG11|\ \ |IMG12|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -157,7 +159,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: 使用方式
 
-    \ |IMG12|\ \ |IMG13|\ 
+    \ |IMG13|\ \ |IMG14|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -168,7 +170,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: 可依需求選擇對應防鏽工法
 
-    \ |IMG14|\ 
+    \ |IMG15|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -180,7 +182,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: 高速公路工程案例
 
-    \ |IMG15|\ 
+    \ |IMG16|\ 
 
 .. _h365425373c54557813239715c73338:
 
@@ -190,7 +192,7 @@ AR透明防鏽劑防護中
 
 .. admonition:: 實績摘要
 
-    \ |IMG16|\ 
+    \ |IMG17|\ 
 
 
 .. admonition:: 諮詢聯絡資訊
@@ -207,7 +209,7 @@ AR透明防鏽劑防護中
     
     Line ID:@345rxpyp
     
-    \ |IMG17|\ 
+    \ |IMG18|\ 
     
     (Line ID QR code)
     
@@ -321,7 +323,7 @@ AR透明防鏽劑防護中
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/file/d/18BTp20xONHGtSgT9fVdP3Aw8sRNdGl2p/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
+    <a href="https://drive.google.com/file/d/1bREF-rvX8hK4heUOHdH-8XC8SRNsZEfD/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
 
 .. |LINK2| raw:: html
 
@@ -337,7 +339,7 @@ AR透明防鏽劑防護中
 
 .. |LINK5| raw:: html
 
-    <a href="https://drive.google.com/file/d/18BTp20xONHGtSgT9fVdP3Aw8sRNdGl2p/view?usp=sharing" target="_blank">AR透明防鏽劑“最新簡報下載”(不定期更新)</a>
+    <a href="https://drive.google.com/file/d/1bREF-rvX8hK4heUOHdH-8XC8SRNsZEfD/view?usp=sharing" target="_blank">AR透明防鏽劑“最新簡報下載”(不定期更新)</a>
 
 
 .. |IMG1| image:: static/index_1.png
@@ -370,7 +372,7 @@ AR透明防鏽劑防護中
 
 .. |IMG8| image:: static/index_8.png
    :height: 426 px
-   :width: 680 px
+   :width: 682 px
 
 .. |IMG9| image:: static/index_9.png
    :height: 426 px
@@ -378,26 +380,26 @@ AR透明防鏽劑防護中
 
 .. |IMG10| image:: static/index_10.png
    :height: 426 px
-   :width: 681 px
+   :width: 680 px
 
 .. |IMG11| image:: static/index_11.png
    :height: 426 px
-   :width: 680 px
+   :width: 681 px
 
 .. |IMG12| image:: static/index_12.png
-   :height: 425 px
-   :width: 681 px
+   :height: 426 px
+   :width: 680 px
 
 .. |IMG13| image:: static/index_13.png
    :height: 425 px
    :width: 681 px
 
 .. |IMG14| image:: static/index_14.png
-   :height: 513 px
-   :width: 682 px
+   :height: 425 px
+   :width: 681 px
 
 .. |IMG15| image:: static/index_15.png
-   :height: 426 px
+   :height: 513 px
    :width: 682 px
 
 .. |IMG16| image:: static/index_16.png
@@ -405,5 +407,9 @@ AR透明防鏽劑防護中
    :width: 682 px
 
 .. |IMG17| image:: static/index_17.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG18| image:: static/index_18.png
    :height: 197 px
    :width: 197 px
