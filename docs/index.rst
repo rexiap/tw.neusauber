@@ -100,19 +100,24 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
     \ |IMG1|\ \ |IMG2|\ 
 
 
+.. admonition:: 凍鏽進化為耐蝕鈍化膜過程與耐蝕鈍化膜防鏽能力
+
+    \ |IMG3|\ 
+
+
 .. admonition:: 密封表面延長保護層壽命
 
-    \ |IMG3|\ \ |IMG4|\ 
+    \ |IMG4|\ \ |IMG5|\ 
 
 
 .. admonition:: 使用成效顯著、適用材質廣泛
 
-    \ |IMG5|\ 
+    \ |IMG6|\ 
 
 
 .. admonition:: 耐蝕鈍化膜自我保護效果實證
 
-    \ |IMG6|\ \ |IMG7|\ 
+    \ |IMG7|\ \ |IMG8|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -127,7 +132,7 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
 
 .. admonition:: 以功能選用AR透明防鏽劑適用型號
 
-    \ |IMG8|\ 
+    \ |IMG9|\ 
 
 .. _h77767b62302b382f512f69697c4c6862:
 
@@ -138,7 +143,7 @@ ARPrimer底塗型透明防鏽劑
 
 .. admonition:: ARPrimer
 
-    \ |IMG9|\ \ |IMG10|\ 
+    \ |IMG10|\ \ |IMG11|\ 
 
 .. _h5d4b1e361e135964725df1570fe2d:
 
@@ -149,7 +154,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: ARSealing
 
-    \ |IMG11|\ \ |IMG12|\ 
+    \ |IMG12|\ \ |IMG13|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -159,7 +164,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: 使用方式
 
-    \ |IMG13|\ \ |IMG14|\ 
+    \ |IMG14|\ \ |IMG15|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -170,7 +175,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: 可依需求選擇對應防鏽工法
 
-    \ |IMG15|\ 
+    \ |IMG16|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -182,7 +187,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: 高速公路工程案例
 
-    \ |IMG16|\ 
+    \ |IMG17|\ 
 
 .. _h365425373c54557813239715c73338:
 
@@ -192,7 +197,7 @@ AR透明防鏽劑防護中
 
 .. admonition:: 實績摘要
 
-    \ |IMG17|\ 
+    \ |IMG18|\ 
 
 
 .. admonition:: 諮詢聯絡資訊
@@ -210,7 +215,7 @@ AR透明防鏽劑防護中
     
     Line ID:@345rxpyp
     
-    \ |IMG18|\ 
+    \ |IMG19|\ 
     
     (Line ID QR code)
     
@@ -377,7 +382,7 @@ AR透明防鏽劑防護中
 
 .. |IMG9| image:: static/index_9.png
    :height: 426 px
-   :width: 680 px
+   :width: 682 px
 
 .. |IMG10| image:: static/index_10.png
    :height: 426 px
@@ -385,26 +390,26 @@ AR透明防鏽劑防護中
 
 .. |IMG11| image:: static/index_11.png
    :height: 426 px
-   :width: 681 px
+   :width: 680 px
 
 .. |IMG12| image:: static/index_12.png
    :height: 426 px
-   :width: 680 px
+   :width: 681 px
 
 .. |IMG13| image:: static/index_13.png
-   :height: 425 px
-   :width: 681 px
+   :height: 426 px
+   :width: 680 px
 
 .. |IMG14| image:: static/index_14.png
    :height: 425 px
    :width: 681 px
 
 .. |IMG15| image:: static/index_15.png
-   :height: 513 px
-   :width: 682 px
+   :height: 425 px
+   :width: 681 px
 
 .. |IMG16| image:: static/index_16.png
-   :height: 426 px
+   :height: 513 px
    :width: 682 px
 
 .. |IMG17| image:: static/index_17.png
@@ -412,5 +417,9 @@ AR透明防鏽劑防護中
    :width: 682 px
 
 .. |IMG18| image:: static/index_18.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG19| image:: static/index_19.png
    :height: 197 px
    :width: 197 px
