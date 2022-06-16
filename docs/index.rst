@@ -340,7 +340,7 @@ AR透明防鏽劑防護中
 
 .. |LINK5| raw:: html
 
-    <a href="https://drive.google.com/file/d/1bREF-rvX8hK4heUOHdH-8XC8SRNsZEfD/view?usp=sharing" target="_blank">AR透明防鏽劑“最新簡報下載”(不定期更新)</a>
+    <a href="https://drive.google.com/file/d/1bREF-rvX8hK4heUOHdH-8XC8SRNsZEfD/view?usp=sharing" target="_blank">AR透明防鏽劑“最新簡報下載”(220607更新V17.3)</a>
 
 
 .. |IMG1| image:: static/index_1.png
