@@ -1,8 +1,8 @@
 
-.. _h928462123c7b39595727745072844:
+.. _h15331386d6d2f686745170745644:
 
-\ |LINK1|\  - 凍結鏽蝕
-######################
+AR透明防鏽劑 - 凍結鏽蝕
+#######################
 
 
 .. toctree:: 
@@ -21,14 +21,21 @@
 最新消息 
 =========
 
+.. _h705673314f217f313b5f7986a2c202:
+
+2022年9月 新北市三貂嶺自行車道案入圍新北市工程金質獎評選
+========================================================
+
+三貂嶺自行車道使用AR透明防鏽劑為車道全線鋼筋鋪面防鏽，法國設計師特以鏽化外觀融入當地長期潮濕自然生態，AR透明防鏽劑凍結鏽蝕，使鋼筋維持現況並長期維持結構強度，達到長久安全使用、維運容易的目標，此案已獲入圍2022年新北市政府工程金質獎評選。
+
 .. _h4972603049344646b43614b4912256a:
 
 2022年4月 AR透明防鏽劑促進形成“耐蝕鈍化膜”達到令鐵金屬自我防鏽
 ==============================================================
 
-長期追蹤鐵金屬及鏽層經AR透明防鏽劑處理後的表面，並由工研院負責檢測成分與腐蝕速度，實證AR透明防鏽劑可促進鐵金屬表面生成稱為”耐蝕鈍化膜”的氧化鐵(𝛃-FeO(OH)、Fe\ |STYLE0|\ O\ |STYLE1|\ 、Fe\ |STYLE2|\ O\ |STYLE3|\ )，此耐蝕鈍化膜具網狀結晶結構能緻密包覆底部金屬避免繼續快速生鏽。以塗上一底一面漆的鋼筋每年腐蝕速度2.12mm與具有此耐蝕鈍化膜的鋼筋0.04mm相比，每年腐蝕速度僅為其1/53，達成優秀的鐵金屬自我防鏽。
+長期追蹤鐵金屬及鏽層經AR透明防鏽劑處理後的表面，並由工研院負責檢測成分與腐蝕速度，實證AR透明防鏽劑可促進鐵金屬表面生成稱為”耐蝕鈍化膜”的氧化鐵(𝛃-FeOOH、Fe\ |STYLE0|\ O\ |STYLE1|\ 、Fe\ |STYLE2|\ O\ |STYLE3|\ )，此耐蝕鈍化膜具網狀結晶結構能緻密包覆底部金屬避免繼續快速生鏽。以塗上一底一面漆的鋼筋每年腐蝕速度2.12mm與具有此耐蝕鈍化膜的鋼筋0.04mm相比，每年腐蝕速度僅為其1/53，達成優秀的鐵金屬自我防鏽。
 
-即使位於海邊表面的殘留氯離子，也能被耐蝕鈍化膜吸納固定，不再擔心其影響腐蝕速度。
+即使位於海邊表面的殘留氯離子，防鏽施作前不用清洗，也能被耐蝕鈍化膜吸納固定，不再擔心其影響腐蝕速度。
 
 電子工廠酸蝕刻製程周邊金屬零配件，能透過使用AR透明防鏽劑長期保護，形成防酸氣侵蝕的優秀防腐蝕效果。
 
@@ -39,7 +46,7 @@
 2021年3月5日出刊 台灣省土木技師公會技師報1264期文章
 ===================================================
 
-『\ |LINK2|\ 』
+『\ |LINK1|\ 』
 
 海上或濱海嚴苛C5以上環境使用AR透明防鏽劑之ARPrimer，即使表面塗裝因故失效後仍可保護金屬層不會快速鏽蝕與擴散，不但強化防鏽效果更延長保護時間，減少損壞與後續維護產生之高額損失。
 
@@ -211,7 +218,7 @@ AR透明防鏽劑防護中
     
     意杰國際 03-3659119 葉先生
     
-    \ |LINK3|\ 
+    \ |LINK2|\ 
     
     Line ID:@345rxpyp
     
@@ -262,15 +269,21 @@ AR透明防鏽劑防護中
     包裝及數量： 
     
 
-.. _h6f15a413cb3d267b3e4f1c74347521:
+.. _h5e6d61421a7146385259747a2661225:
+
+\ |LINK3|\ 
+===========
+
+.. _h482e7f311669433b585e465677d191:
+
+AR透明防鏽劑“最新簡報下載”(2022.11.15)
+======================================
 
 \ |LINK4|\ 
-===========
-
-.. _h506384e4438e4c26493b8112d2617:
 
 \ |LINK5|\ 
-===========
+
+\ |LINK6|\ 
 
 (權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
 
@@ -329,23 +342,27 @@ AR透明防鏽劑防護中
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/file/d/1bREF-rvX8hK4heUOHdH-8XC8SRNsZEfD/view?usp=sharing" target="_blank">AR透明防鏽劑</a>
+    <a href="http://etimes.twce.org.tw/%E6%96%BD%E5%B7%A5%E6%8A%80%E8%A1%93/3197-%E4%BB%A5%E8%A1%A8%E9%9D%A2%E8%99%95%E7%90%86%E6%94%B9%E5%96%84%E7%86%B1%E6%B5%B8%E9%8D%8D%E9%8B%85%E5%A1%97%E8%A3%9D%E9%98%B2%E9%8F%BD%E8%83%BD%E5%8A%9B%E4%B9%8B%E6%8E%A2%E8%A8%8E.html" target="_blank">以表面處理改善熱浸鍍鋅塗裝防鏽能力之探討</a>
 
 .. |LINK2| raw:: html
 
-    <a href="http://etimes.twce.org.tw/%E6%96%BD%E5%B7%A5%E6%8A%80%E8%A1%93/3197-%E4%BB%A5%E8%A1%A8%E9%9D%A2%E8%99%95%E7%90%86%E6%94%B9%E5%96%84%E7%86%B1%E6%B5%B8%E9%8D%8D%E9%8B%85%E5%A1%97%E8%A3%9D%E9%98%B2%E9%8F%BD%E8%83%BD%E5%8A%9B%E4%B9%8B%E6%8E%A2%E8%A8%8E.html" target="_blank">以表面處理改善熱浸鍍鋅塗裝防鏽能力之探討</a>
+    <a href="mailto:service@neusauber.com">service@neusauber.com</a>
 
 .. |LINK3| raw:: html
 
-    <a href="mailto:service@neusauber.com">service@neusauber.com</a>
+    <a href="https://drive.google.com/file/d/1coUftMdMeSQzrqqtFDNID4MvLiWsBYsP/view?usp=sharing" target="_blank">AR透明防鏽劑“DM下載”</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://drive.google.com/file/d/1coUftMdMeSQzrqqtFDNID4MvLiWsBYsP/view?usp=sharing" target="_blank">AR透明防鏽劑“DM下載”</a>
+    <a href="https://drive.google.com/file/d/1EUvJKW9KzS48DA5Sizr6ZVC_V--sqA2W/view?usp=share_link" target="_blank">原理篇</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://drive.google.com/file/d/1bREF-rvX8hK4heUOHdH-8XC8SRNsZEfD/view?usp=sharing" target="_blank">AR透明防鏽劑“最新簡報下載”(220607更新V17.3)</a>
+    <a href="https://drive.google.com/file/d/1mwhjRMRbpX-Hp9on250QaAg4BOR_x5bp/view?usp=share_link" target="_blank">測試篇</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://drive.google.com/file/d/15W1jJR3TwZUpGDtyqPmd32WvpE3BoDFF/view?usp=share_link" target="_blank">應用篇</a>
 
 
 .. |IMG1| image:: static/index_1.png
