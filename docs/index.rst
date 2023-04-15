@@ -307,7 +307,7 @@ AR透明防鏽劑“最新簡報下載”(2022.11.15)
     " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 .. |REPLACE2| raw:: html
 
-    <iframe width="100" height="480" src="https://www.youtube.com/embed/ykxmIw5lKmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    <iframe width="560" height="315" src="https://www.youtube.com/embed/ykxmIw5lKmQ" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 .. |REPLACE3| raw:: html
 
     <style>
