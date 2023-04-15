@@ -26,7 +26,7 @@ AR透明防鏽劑 - 凍結鏽蝕
 2022年9月 新北市三貂嶺自行車道案入圍新北市工程金質獎評選
 ========================================================
 
-三貂嶺自行車道使用AR透明防鏽劑為車道全線鋼筋鋪面防鏽，法國設計師特以鏽化外觀融入當地長期潮濕自然生態，AR透明防鏽劑凍結鏽蝕，使鋼筋維持現況並長期維持結構強度，達到長久安全使用、維運容易的目標，此案已獲入圍2022年新北市政府工程金質獎評選。
+三貂嶺自行車道使用AR透明防鏽劑為車道全線鋼筋鋪面防鏽，法國設計師特以鏽化外觀融入當地長期潮濕自然生態，AR透明防鏽劑凍結鏽蝕，使鋼筋維持現況並長期維持結構強度，達到長久安全使用、維運容易的目標，此案得到入圍2022年政府工程金質獎評選肯定。
 
 .. _h4972603049344646b43614b4912256a:
 
@@ -88,7 +88,7 @@ AR透明防鏽劑
 
 無論位在海上、海邊、溫泉區、工業區、高山多雨等鏽蝕嚴重區域，可防鹽分、防硫氣、防酸氣、防水氣的影響，快速達到專業耐久的防鏽效果！
 
-AR透明防鏽劑透過獨家凍鏽機制終止鏽蝕活性避免惡化，並促進表面形成具保護底材金屬且細緻又穩定牢固的”耐蝕鈍化膜“，成份為自身氧化物的網狀結晶態氧化鐵，即便位處海邊，原始表面或鏽蝕裡含氯離子，使用AR透明防鏽劑後也能被吸納成耐蝕鈍化膜層的一部分。
+AR透明防鏽劑透過獨家凍鏽鈍化機制終止鏽蝕活性避免惡化，並促進表面形成具保護底材金屬且細緻又穩定牢固的”耐蝕鈍化膜“，成份為自身氧化物的網狀結晶態氧化鐵，即便位處海邊，原始表面或鏽蝕裡含氯離子，使用AR透明防鏽劑後也能被吸納成耐蝕鈍化膜層的一部分。
 
 經工研院測試研究”耐蝕鈍化膜“防鏽能力為一底一度(底塗＋面塗)的50倍以上。
 
@@ -102,29 +102,25 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
 
 橋樑、建築、動力車輛/底盤、機械設備、太陽能、風力發電、化學管線/槽/架、室內物品、食品設備、自行車等防鏽，所有室內、室外、高鹽害、高磺害之金屬設施或設備都適用，無法除鏽、除鏽困難區域更合適。鐵材、鋼材、鋼纜、銅製、鋁製、鎳鍍層、鋅鍍層、油漆層皆可用。
 
-.. admonition:: 獨家“凍鏽”功能促進形成“耐蝕鈍化膜”讓金屬自我保護
+
+.. admonition:: 獨家“凍鏽鈍化”功能在室外也能防鏽前處理
 
     \ |IMG1|\ \ |IMG2|\ 
 
 
-.. admonition:: 凍鏽進化為耐蝕鈍化膜過程與耐蝕鈍化膜防鏽能力
+.. admonition:: 經凍鏽鈍化後之防鏽成效
 
     \ |IMG3|\ 
 
 
-.. admonition:: 密封表面延長保護層壽命
+.. admonition:: 前處理使用AR透明防鏽劑凍鏽鈍化之效益
 
     \ |IMG4|\ \ |IMG5|\ 
 
 
-.. admonition:: 使用成效顯著、適用材質廣泛
+.. admonition:: AR透明防鏽劑凍鏽鈍化實績
 
-    \ |IMG6|\ 
-
-
-.. admonition:: 耐蝕鈍化膜自我保護效果實證
-
-    \ |IMG7|\ \ |IMG8|\ 
+    \ |IMG6|\ \ |IMG7|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -139,72 +135,61 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
 
 .. admonition:: 以功能選用AR透明防鏽劑適用型號
 
-    \ |IMG9|\ 
+    \ |IMG8|\ 
 
-.. _h77767b62302b382f512f69697c4c6862:
+.. _h174fb648377959437b5c1f697c1c40:
+
+產品介紹
+========
 
 ARPrimer底塗型透明防鏽劑
-========================
 
 具有凍鏽、密著底漆功能之透明防鏽劑，可取代傳統所有底漆，如紅丹、合金底漆、鋅粉底漆、鏽轉化劑等，及提高面漆附著的功能。使用ARPrimer後不必等待固化，可直接施作所有種類面漆，達到凍鏽與防鏽功能。
 
 .. admonition:: ARPrimer
 
-    \ |IMG10|\ \ |IMG11|\ 
-
-.. _h5d4b1e361e135964725df1570fe2d:
+    \ |IMG9|\ \ |IMG10|\ 
 
 ARSealing密封型透明防鏽劑
-=========================
 
 同時具有凍鏽又防鏽雙效功能，只要施作一道，不必搭配ARPrimer底塗使用，即可保留鏽蝕外觀又兼具防鏽效果。
 
 .. admonition:: ARSealing
 
-    \ |IMG12|\ \ |IMG13|\ 
+    \ |IMG11|\ \ |IMG12|\ 
 
-.. _h174fb648377959437b5c1f697c1c40:
+.. _h572187820253c7294643631303029:
 
-使用方式
-========
+選用及使用
+==========
 
 
-.. admonition:: 使用方式
+.. admonition:: 選用及使用
 
-    \ |IMG14|\ \ |IMG15|\ 
+    \ |IMG13|\ 
 
-.. _h174fb648377959437b5c1f697c1c40:
+.. _h2164242e4c6048506f23311549231654:
 
-防鏽能力
-========
+防鏽工法選用
+============
 
-通過國際鑽油平台防蝕標準 Norsok M501，適用 C5M 或 Im2 腐蝕環境。
 
-.. admonition:: 可依需求選擇對應防鏽工法
+.. admonition:: 防鏽工法示意
 
-    \ |IMG16|\ 
+    \ |IMG14|\ 
 
 ＊實際年限以各地區環境為準。
 
-.. _h174fb648377959437b5c1f697c1c40:
+.. _h507524361a55b2f195d763e73767f36:
 
-案例分析
-========
+協助淨零轉型目標
+================
 
+面對全球ESG宣告與淨零轉型需求，使用AR透明防鏽劑能協同使用者，於新建、維運、整新、及回收階段，都能減少人力使用、縮短工期、降低廢料產生與處理、延長產品生命週期，主動減碳淨零轉型並善用地球資源，達成ESG使命。
 
-.. admonition:: 高速公路工程案例
+..  Note:: 
 
-    \ |IMG17|\ 
-
-.. _h365425373c54557813239715c73338:
-
-AR透明防鏽劑防護中
-==================
-
-
-.. admonition:: 實績摘要
-
-    \ |IMG18|\ 
+    \ |IMG15|\ 
 
 
 .. admonition:: 諮詢聯絡資訊
@@ -222,9 +207,10 @@ AR透明防鏽劑防護中
     
     Line ID:@345rxpyp
     
-    \ |IMG19|\ 
+    \ |IMG16|\ 
     
     (Line ID QR code)
+    ✽無個人使用銷售，請勿加官方帳號，謝謝！！
     
     注意事項：
     
@@ -280,10 +266,6 @@ AR透明防鏽劑“最新簡報下載”(2022.11.15)
 ======================================
 
 \ |LINK4|\ 
-
-\ |LINK5|\ 
-
-\ |LINK6|\ 
 
 (權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
 
@@ -354,15 +336,7 @@ AR透明防鏽劑“最新簡報下載”(2022.11.15)
 
 .. |LINK4| raw:: html
 
-    <a href="https://drive.google.com/file/d/1EUvJKW9KzS48DA5Sizr6ZVC_V--sqA2W/view?usp=share_link" target="_blank">原理篇</a>
-
-.. |LINK5| raw:: html
-
-    <a href="https://drive.google.com/file/d/1mwhjRMRbpX-Hp9on250QaAg4BOR_x5bp/view?usp=share_link" target="_blank">測試篇</a>
-
-.. |LINK6| raw:: html
-
-    <a href="https://drive.google.com/file/d/15W1jJR3TwZUpGDtyqPmd32WvpE3BoDFF/view?usp=share_link" target="_blank">應用篇</a>
+    <a href="https://drive.google.com/file/d/1tKczu5rplCATbcCva5qOrAeTxQfkKncR/view?usp=share_link" target="_blank">下載V19.1</a>
 
 
 .. |IMG1| image:: static/index_1.png
@@ -399,7 +373,7 @@ AR透明防鏽劑“最新簡報下載”(2022.11.15)
 
 .. |IMG9| image:: static/index_9.png
    :height: 426 px
-   :width: 682 px
+   :width: 680 px
 
 .. |IMG10| image:: static/index_10.png
    :height: 426 px
@@ -407,36 +381,24 @@ AR透明防鏽劑“最新簡報下載”(2022.11.15)
 
 .. |IMG11| image:: static/index_11.png
    :height: 426 px
-   :width: 680 px
+   :width: 681 px
 
 .. |IMG12| image:: static/index_12.png
    :height: 426 px
-   :width: 681 px
+   :width: 680 px
 
 .. |IMG13| image:: static/index_13.png
    :height: 426 px
-   :width: 680 px
+   :width: 682 px
 
 .. |IMG14| image:: static/index_14.png
-   :height: 425 px
-   :width: 681 px
-
-.. |IMG15| image:: static/index_15.png
-   :height: 425 px
-   :width: 681 px
-
-.. |IMG16| image:: static/index_16.png
    :height: 513 px
    :width: 682 px
 
-.. |IMG17| image:: static/index_17.png
+.. |IMG15| image:: static/index_15.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG18| image:: static/index_18.png
-   :height: 426 px
-   :width: 682 px
-
-.. |IMG19| image:: static/index_19.png
+.. |IMG16| image:: static/index_16.png
    :height: 197 px
    :width: 197 px
