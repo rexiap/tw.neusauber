@@ -107,6 +107,19 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
 
     \ |IMG1|\ \ |IMG2|\ 
 
+.. _h106d6a60386b4471802c17574203f54:
+
+凍鏽消除游離鐵離子試驗
+======================
+
+
+|REPLACE2|
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 
 .. admonition:: 經凍鏽鈍化後之防鏽成效
 
@@ -270,10 +283,10 @@ AR透明防鏽劑“最新簡報下載”(2022.11.15)
 (權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
 
 
-|REPLACE2|
-
-
 |REPLACE3|
+
+
+|REPLACE4|
 
 
 .. bottom of content
@@ -294,6 +307,10 @@ AR透明防鏽劑“最新簡報下載”(2022.11.15)
     " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 .. |REPLACE2| raw:: html
 
+    <iframe width="100%" height="480" src="https://youtu.be/ykxmIw5lKmQ
+    " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+.. |REPLACE3| raw:: html
+
     <style>
     div.wy-grid-for-nav li.wy-breadcrumbs-aside {
       display:none;
@@ -303,7 +320,7 @@ AR透明防鏽劑“最新簡報下載”(2022.11.15)
       opacity: 0.5;
     }
     </style>
-.. |REPLACE3| raw:: html
+.. |REPLACE4| raw:: html
 
     <script>
     document.title = "意杰 Neusauber"
