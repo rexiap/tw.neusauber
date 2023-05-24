@@ -21,12 +21,23 @@ AR透明防鏽劑 - 凍結鏽蝕
 最新消息 
 =========
 
-.. _h705673314f217f313b5f7986a2c202:
+.. _h1eb57112fa41a7929353a252c7b42:
 
-2022年9月 新北市三貂嶺自行車道案入圍新北市工程金質獎評選
-========================================================
+2023年5月 新北市三貂嶺生態友善隧道獲法國建築師境外設計大獎
+==========================================================
 
-三貂嶺自行車道使用AR透明防鏽劑為車道全線鋼筋鋪面防鏽，法國設計師特以鏽化外觀融入當地長期潮濕自然生態，AR透明防鏽劑凍結鏽蝕，使鋼筋維持現況並長期維持結構強度，達到長久安全使用、維運容易的目標，此案得到入圍2022年政府工程金質獎評選肯定。
+三貂嶺生態友善隧道是全國首座採鋼筋作為自行車道兼供步道使用的歷史建築，利用過去煤礦運輸產業沒落的廢棄隧道，透過創新方法將工業遺址轉變為多功能公共空間，施工過程小心地保存，展現自然生態及歲月痕跡，是座兼具生態及人文歷史的隧道。
+
+三貂嶺生態友善隧道去年完工，設計團隊為達觀規劃設計顧問有限公司景觀設計師吳忠勳、法國MICHELE & MIQUEL建築與景觀設計事務所及設計師藍傑鴻等，將工程取名「THE DARK LINE」，報名參加法國建築師境外設計大獎（Grand Prix AFEX 2023 Awards）一舉獲獎，是法國海外建築師學會辦賽以來，第一個景觀設計作品，突破傳統的創新作法贏得眾人的讚賞與矚目，設計理念與永續發展特質從眾多參賽作品中脫穎而出，團隊很榮幸能代表台灣參賽，贏得這項殊榮。
+
+法國建築師境外設計大獎於2010年起舉辦，配合威尼斯建築雙年展，2年一期，不分總類僅有一個得獎者。
+
+.. _h166f2532455c14791754618594c29:
+
+2022年9月 新北市三貂嶺生態友善隧道入圍新北市工程金質獎評選
+==========================================================
+
+三貂嶺生態友善隧道使用AR透明防鏽劑為隧道全線鋼筋鋪面防鏽，法國設計師特以鏽化外觀融入當地長期潮濕自然生態，AR透明防鏽劑凍結鏽蝕，使鋼筋維持現況並長期維持結構強度，達到長久安全使用、維運容易的目標，此案得到入圍2022年政府工程金質獎評選肯定。
 
 .. _h4972603049344646b43614b4912256a:
 
@@ -125,15 +136,36 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
 
     \ |IMG3|\ 
 
+防鏽有八大難題，1.嚴重鏽蝕、2.浸泡海水、3.雨季施工、4.除鏽困難、5.不除鏽、6.耐酸氣、耐鹼氣、7.海邊不鏽鋼與非鐵金屬防鏽、8.焊道、斷面、邊緣防鏽，皆可透過使用AR透明防鏽劑獲得明顯改善或解決。
 
-.. admonition:: 前處理使用AR透明防鏽劑凍鏽鈍化之效益
+.. admonition:: 解決防鏽難題之一、二
 
     \ |IMG4|\ \ |IMG5|\ 
 
 
-.. admonition:: AR透明防鏽劑凍鏽鈍化實績
+.. admonition:: 解決防鏽難題之三、四
 
     \ |IMG6|\ \ |IMG7|\ 
+
+
+.. admonition:: 解決防鏽難題之五、六
+
+    \ |IMG8|\ \ |IMG9|\ 
+
+
+.. admonition:: 解決防鏽難題之七、八
+
+    \ |IMG10|\ \ |IMG11|\ 
+
+
+.. admonition:: 前處理使用AR透明防鏽劑凍鏽鈍化之效益
+
+    \ |IMG12|\ \ |IMG13|\ 
+
+
+.. admonition:: AR透明防鏽劑凍鏽鈍化實績
+
+    \ |IMG14|\ \ |IMG15|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -148,7 +180,7 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
 
 .. admonition:: 以功能選用AR透明防鏽劑適用型號
 
-    \ |IMG8|\ 
+    \ |IMG16|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -161,7 +193,7 @@ ARPrimer底塗型透明防鏽劑
 
 .. admonition:: ARPrimer
 
-    \ |IMG9|\ \ |IMG10|\ 
+    \ |IMG17|\ 
 
 ARSealing密封型透明防鏽劑
 
@@ -169,7 +201,8 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: ARSealing
 
-    \ |IMG11|\ \ |IMG12|\ 
+    \ |IMG18|\ 
+    
 
 .. _h572187820253c7294643631303029:
 
@@ -179,7 +212,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: 選用及使用
 
-    \ |IMG13|\ 
+    \ |IMG19|\ 
 
 .. _h2164242e4c6048506f23311549231654:
 
@@ -189,7 +222,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: 防鏽工法示意
 
-    \ |IMG14|\ 
+    \ |IMG20|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -202,7 +235,7 @@ ARSealing密封型透明防鏽劑
 
 ..  Note:: 
 
-    \ |IMG15|\ 
+    \ |IMG21|\ 
 
 
 .. admonition:: 諮詢聯絡資訊
@@ -220,7 +253,7 @@ ARSealing密封型透明防鏽劑
     
     Line ID:@345rxpyp
     
-    \ |IMG16|\ 
+    \ |IMG22|\ 
     
     (Line ID QR code)
     ✽無個人使用銷售，請勿加官方帳號，謝謝！！
@@ -353,7 +386,7 @@ AR透明防鏽劑“最新簡報下載”(2022.11.15)
 
 .. |LINK4| raw:: html
 
-    <a href="https://drive.google.com/file/d/1tKczu5rplCATbcCva5qOrAeTxQfkKncR/view?usp=share_link" target="_blank">下載V19.1</a>
+    <a href="https://drive.google.com/file/d/1g2x_f0hk21-D5h_BkU8ReexCXNYXV4E8/view?usp=sharing" target="_blank">下載V19.2</a>
 
 
 .. |IMG1| image:: static/index_1.png
@@ -390,26 +423,26 @@ AR透明防鏽劑“最新簡報下載”(2022.11.15)
 
 .. |IMG9| image:: static/index_9.png
    :height: 426 px
-   :width: 680 px
+   :width: 682 px
 
 .. |IMG10| image:: static/index_10.png
    :height: 426 px
-   :width: 680 px
+   :width: 682 px
 
 .. |IMG11| image:: static/index_11.png
    :height: 426 px
-   :width: 681 px
+   :width: 682 px
 
 .. |IMG12| image:: static/index_12.png
    :height: 426 px
-   :width: 680 px
+   :width: 682 px
 
 .. |IMG13| image:: static/index_13.png
    :height: 426 px
    :width: 682 px
 
 .. |IMG14| image:: static/index_14.png
-   :height: 513 px
+   :height: 426 px
    :width: 682 px
 
 .. |IMG15| image:: static/index_15.png
@@ -417,5 +450,29 @@ AR透明防鏽劑“最新簡報下載”(2022.11.15)
    :width: 682 px
 
 .. |IMG16| image:: static/index_16.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG17| image:: static/index_17.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG18| image:: static/index_18.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG19| image:: static/index_19.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG20| image:: static/index_20.png
+   :height: 513 px
+   :width: 682 px
+
+.. |IMG21| image:: static/index_21.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG22| image:: static/index_22.png
    :height: 197 px
    :width: 197 px
