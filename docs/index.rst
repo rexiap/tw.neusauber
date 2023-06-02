@@ -386,7 +386,7 @@ AR透明防鏽劑“最新簡報下載”
 
 .. |LINK4| raw:: html
 
-    <a href="https://drive.google.com/file/d/1g2x_f0hk21-D5h_BkU8ReexCXNYXV4E8/view?usp=sharing" target="_blank">下載V19.2</a>
+    <a href="https://drive.google.com/file/d/1pi9qkW3zOz6gappqr4PwI51z_-AJiICZ/view?usp=sharing" target="_blank">下載V19.2</a>
 
 
 .. |IMG1| image:: static/index_1.png
