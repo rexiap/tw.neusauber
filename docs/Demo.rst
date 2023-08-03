@@ -29,6 +29,23 @@
 \ |LINK1|\ 
 ===========
 
+.. _h10b6d4a6a231f15671c2186815241f:
+
+設計CAD圖面下載
+===============
+
+\ |LINK2|\ 
+
+\ |LINK3|\ 
+
+\ |LINK4|\ 
+
+\ |LINK5|\ 
+
+以上CAD圖說僅供設計單位參考使用，並依貴計劃案獨特條件設計與規劃
+
+任何問題與諮詢請聯繫，意杰國際 03-3659119
+
 .. _h2c1d74277104e41780968148427e:
 
 
@@ -103,6 +120,22 @@
 .. |LINK1| raw:: html
 
     <a href="https://drive.google.com/open?id=1Vw6xsi8q1RKEY8BDrIpcjDn9Ssp4Kd0G" target="_blank">施工手冊下載(請點我)</a>
+
+.. |LINK2| raw:: html
+
+    <a href="https://drive.google.com/file/d/1yrRt8S742SHEr791qYHqdYUTVJ-vrWh8/view?usp=drive_link" target="_blank">C5環境完全除鏽使用ARPrimer及塗裝圖說</a>
+
+.. |LINK3| raw:: html
+
+    <a href="https://drive.google.com/file/d/1oYxC9lgCttE9qLgXNTwoLclF-kEKl0bV/view?usp=drive_link" target="_blank">C5環境基本除鏽使用ARPrimer及塗裝圖說</a>
+
+.. |LINK4| raw:: html
+
+    <a href="https://drive.google.com/file/d/1X5UN_KD76wL0v5iV5staK-LLHnnfzmj7/view?usp=drive_link" target="_blank">C5環境基本除鏽使用ARSealing圖說</a>
+
+.. |LINK5| raw:: html
+
+    <a href="https://drive.google.com/file/d/1VTCypjBT8Mo60XFqdhSKnUBPeHOYWxlQ/view?usp=drive_link" target="_blank">常用塗料圖說參考</a>
 
 
 .. |IMG1| image:: static/Demo_1.png
