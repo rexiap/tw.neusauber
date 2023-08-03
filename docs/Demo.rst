@@ -24,10 +24,12 @@
 
     \ |IMG3|\ 
 
-.. _ha552d4339442b4514686d7839564:
+.. _h2164242e4c6048506f23311549231654:
+
+施作手冊下載
+============
 
 \ |LINK1|\ 
-===========
 
 .. _h10b6d4a6a231f15671c2186815241f:
 
@@ -119,7 +121,7 @@
 
 .. |LINK1| raw:: html
 
-    <a href="https://drive.google.com/open?id=1Vw6xsi8q1RKEY8BDrIpcjDn9Ssp4Kd0G" target="_blank">施工手冊下載(請點我)</a>
+    <a href="https://drive.google.com/open?id=1Vw6xsi8q1RKEY8BDrIpcjDn9Ssp4Kd0G" target="_blank">施作手冊 V1.0</a>
 
 .. |LINK2| raw:: html
 
