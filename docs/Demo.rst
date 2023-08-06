@@ -36,13 +36,13 @@
 設計CAD圖面下載
 ===============
 
-\ |LINK2|\ 
+C5環境完全除鏽使用ARPrimer及塗裝圖說(\ |LINK2|\ )(\ |LINK3|\ )
 
-\ |LINK3|\ 
+C5環境基本除鏽使用ARPrimer及塗裝圖說(\ |LINK4|\ )(\ |LINK5|\ )
 
-\ |LINK4|\ 
+C5環境基本除鏽使用ARSealing圖說(\ |LINK6|\ )(\ |LINK7|\ )
 
-\ |LINK5|\ 
+常用塗料圖說參考(\ |LINK8|\ )(\ |LINK9|\ )
 
 以上CAD圖說僅供設計單位參考使用，並依貴計劃案獨特條件設計與規劃
 
@@ -125,19 +125,35 @@
 
 .. |LINK2| raw:: html
 
-    <a href="https://drive.google.com/file/d/1yrRt8S742SHEr791qYHqdYUTVJ-vrWh8/view?usp=drive_link" target="_blank">C5環境完全除鏽使用ARPrimer及塗裝圖說</a>
+    <a href="https://drive.google.com/file/d/1OHxxb2Da8dkv0uw6CWUgyTBzri393DXZ/view?usp=drive_link" target="_blank">PDF</a>
 
 .. |LINK3| raw:: html
 
-    <a href="https://drive.google.com/file/d/1oYxC9lgCttE9qLgXNTwoLclF-kEKl0bV/view?usp=drive_link" target="_blank">C5環境基本除鏽使用ARPrimer及塗裝圖說</a>
+    <a href="https://drive.google.com/file/d/1yrRt8S742SHEr791qYHqdYUTVJ-vrWh8/view?usp=drive_link" target="_blank">DWG</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://drive.google.com/file/d/1X5UN_KD76wL0v5iV5staK-LLHnnfzmj7/view?usp=drive_link" target="_blank">C5環境基本除鏽使用ARSealing圖說</a>
+    <a href="https://drive.google.com/file/d/1GKU8nPqanmeWiQYvG-MEPR9CqEve77FP/view?usp=drive_link" target="_blank">PDF</a>
 
 .. |LINK5| raw:: html
 
-    <a href="https://drive.google.com/file/d/1VTCypjBT8Mo60XFqdhSKnUBPeHOYWxlQ/view?usp=drive_link" target="_blank">常用塗料圖說參考</a>
+    <a href="https://drive.google.com/file/d/1oYxC9lgCttE9qLgXNTwoLclF-kEKl0bV/view?usp=drive_link" target="_blank">DWG</a>
+
+.. |LINK6| raw:: html
+
+    <a href="https://drive.google.com/file/d/1Gp33T43JkEGNdjLLgCnjLkDaajxH6X5s/view?usp=drive_link" target="_blank">PDF</a>
+
+.. |LINK7| raw:: html
+
+    <a href="https://drive.google.com/file/d/1X5UN_KD76wL0v5iV5staK-LLHnnfzmj7/view?usp=drive_link" target="_blank">DWG</a>
+
+.. |LINK8| raw:: html
+
+    <a href="https://drive.google.com/file/d/1Y3XT2lw50Dy0jQU7gxMGBp9nCBegV2As/view?usp=drive_link" target="_blank">PDF</a>
+
+.. |LINK9| raw:: html
+
+    <a href="https://drive.google.com/file/d/1VTCypjBT8Mo60XFqdhSKnUBPeHOYWxlQ/view?usp=drive_link" target="_blank">DWG</a>
 
 
 .. |IMG1| image:: static/Demo_1.png
