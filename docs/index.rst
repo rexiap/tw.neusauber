@@ -275,8 +275,6 @@ ARSealing密封型透明防鏽劑
 
     AR透明防鏽劑
     
-    ✽23.8.14~23.8.18為員工旅遊期間，請加入官網或以email聯繫✽
-    
     使用諮詢、購買，工作日週一～週五 09:00~17:30
     (僅對事業單位銷售，不對個人使用銷售)
     
@@ -336,10 +334,12 @@ ARSealing密封型透明防鏽劑
     包裝及數量： 
     
 
-.. _h5e6d61421a7146385259747a2661225:
+.. _h3f4a493a3855394f1d34466011394ee:
+
+AR透明防鏽劑“DM下載”
+====================
 
 \ |LINK3|\ 
-===========
 
 .. _h204e3e5f6946a384e565b96212613:
 
@@ -421,11 +421,11 @@ AR透明防鏽劑“最新簡報下載”
 
 .. |LINK3| raw:: html
 
-    <a href="https://drive.google.com/file/d/1RfcV_udNhXi_vlOJz6sMG8yAWCJElH63/view?usp=sharing" target="_blank">AR透明防鏽劑“DM下載”</a>
+    <a href="https://drive.google.com/file/d/1RfcV_udNhXi_vlOJz6sMG8yAWCJElH63/view?usp=sharing" target="_blank">DM(PDF)</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://drive.google.com/file/d/1pi9qkW3zOz6gappqr4PwI51z_-AJiICZ/view?usp=sharing" target="_blank">下載V19.2</a>
+    <a href="https://drive.google.com/file/d/1pi9qkW3zOz6gappqr4PwI51z_-AJiICZ/view?usp=sharing" target="_blank">簡報檔V19.2(PDF)</a>
 
 
 .. |IMG1| image:: static/index_1.png
