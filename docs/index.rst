@@ -324,7 +324,7 @@ AR透明防鏽劑“DM下載”
 AR透明防鏽劑“最新簡報下載”
 ==========================
 
-\ |LINK4|\  (2023.05.20)
+\ |LINK4|\  (2024.09.26)
 
 (權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
 
@@ -399,7 +399,7 @@ AR透明防鏽劑“最新簡報下載”
 
 .. |LINK4| raw:: html
 
-    <a href="https://drive.google.com/file/d/1pi9qkW3zOz6gappqr4PwI51z_-AJiICZ/view?usp=sharing" target="_blank">簡報檔V19.2(PDF)</a>
+    <a href="https://drive.google.com/file/d/1p98M0m3xQYC1ntQpD_vFJk8j5hjCfHiL/view?usp=sharing" target="_blank">簡報檔V20.1(PDF)</a>
 
 
 .. |IMG1| image:: static/index_1.png
