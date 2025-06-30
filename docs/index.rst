@@ -317,14 +317,14 @@ ARSealing密封型透明防鏽劑
 AR透明防鏽劑“DM下載”
 ====================
 
-\ |LINK3|\ 
+\ |LINK3|\ (2025.06.30)
 
 .. _h204e3e5f6946a384e565b96212613:
 
 AR透明防鏽劑“最新簡報下載”
 ==========================
 
-\ |LINK4|\  (2024.09.26)
+\ |LINK4|\  (2025.06.30)
 
 (權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
 
@@ -395,11 +395,11 @@ AR透明防鏽劑“最新簡報下載”
 
 .. |LINK3| raw:: html
 
-    <a href="https://drive.google.com/file/d/1RfcV_udNhXi_vlOJz6sMG8yAWCJElH63/view?usp=sharing" target="_blank">DM(PDF)</a>
+    <a href="https://drive.google.com/file/d/1bQeernJCmGoIOmpWU6pXX0z-qU29QVNk/view?usp=sharing" target="_blank">DM(PDF)</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://drive.google.com/file/d/1p98M0m3xQYC1ntQpD_vFJk8j5hjCfHiL/view?usp=sharing" target="_blank">簡報檔V20.1(PDF)</a>
+    <a href="https://drive.google.com/file/d/1TYgLDNZmw9-TJTh7PbSzuOUjiJ7SlgSP/view?usp=drive_link" target="_blank">簡報檔V20.1(PDF)</a>
 
 
 .. |IMG1| image:: static/index_1.png
