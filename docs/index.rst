@@ -21,6 +21,41 @@ AR透明防鏽劑 - 凍結鏽蝕
 最新消息 
 =========
 
+.. _h4d26539543019192c6a433a7e7e5945:
+
+2025年7月 AR透明防鏽劑讓"壞鏽"變"好鏽"保護金屬
+==============================================
+
+鏽有分"好鏽"可以保護金屬，也有"壞鏽"只會讓金屬鏽蝕分離！
+
+好鏽(日文:黒サビ)，簡單說就是緻密的鈍化層，能阻隔水氣、氧氣，避免金屬持續生鏽
+
+壞鏽(日文:赤サビ)，疏鬆的活性腐蝕層，極易吸水擴散，形成全面性鏽蝕侵蝕金屬
+
+好鏽不易自然或人造形成，需要高溫，例如日本知名南部鐵器製造，或經常性的壓力作用，例如戶外多人觸摸的扶手欄杆及經常踩踏金屬底板，不是耗時就是耗能，無法成為大量商業化的防鏽解決方案，所以絕大多數領域都受到壞鏽的侵蝕，不斷造成大量資產、財務甚至生命的損失。
+
+AR透明防鏽劑可在不需倚靠特別外力協助下，引導"壞鏽"縮合成"好鏽"鈍化層，由主要組成"壞鏽"的片狀𝛄-FeOOH成分先反應成網狀𝛃-FeOOH，再逐漸縮合為緻密的Fe\ |STYLE0|\ O\ |STYLE1|\ , Fe\ |STYLE2|\ O\ |STYLE3|\ 鈍化層"好鏽"，達到長期保護金屬最佳防鏽效果，我們稱為凍鏽鈍化。因凍鏽鈍化層是由自身的鏽層縮合而來，所以具有高硬度、不脫落、不受UV/IR影響老化、隨金屬體積變化等優點，更適合各種嚴苛環境，有可單獨使用AR透明防鏽劑防鏽，也有可當前處理並搭配現行多道塗層使用的產品。
+
+為展現"壞鏽"經由AR透明防鏽劑凍鏽鈍化為"好鏽"的防鏽過程，意杰國際設計以噴火槍提高表面溫度加速反應，縮短凍鏽鈍化時間，可快速看到成為"好鏽"鈍化層的優秀特性，也僅有透過使用AR透明防鏽劑才能簡易、快速達到壞鏽變好鏽的防鏽成果。
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+
+|REPLACE1|
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
+.. _h2c1d74277104e41780968148427e:
+
+
+
+
 .. _h504352586c195f796419761380302241:
 
 2023年8月 AR透明防鏽劑防鏽效果比較
@@ -55,7 +90,7 @@ AR透明防鏽劑 - 凍結鏽蝕
 2022年4月 AR透明防鏽劑促進形成“耐蝕鈍化膜”達到令鐵金屬自我防鏽
 ==============================================================
 
-長期追蹤鐵金屬及鏽層經AR透明防鏽劑處理後的表面，並由工研院負責檢測成分與腐蝕速度，實證AR透明防鏽劑可促進鐵金屬表面生成稱為”耐蝕鈍化膜”的氧化鐵(𝛃-FeOOH、Fe\ |STYLE0|\ O\ |STYLE1|\ 、Fe\ |STYLE2|\ O\ |STYLE3|\ )，此耐蝕鈍化膜具網狀結晶結構能緻密包覆底部金屬避免繼續快速生鏽。以塗上一底一面漆的鋼筋每年腐蝕速度2.12mm與具有此耐蝕鈍化膜的鋼筋0.04mm相比，每年腐蝕速度僅為其1/53，達成優秀的鐵金屬自我防鏽。
+長期追蹤鐵金屬及鏽層經AR透明防鏽劑處理後的表面，並由工研院負責檢測成分與腐蝕速度，實證AR透明防鏽劑可促進鐵金屬表面生成稱為”耐蝕鈍化膜”的氧化鐵(𝛃-FeOOH、Fe\ |STYLE4|\ O\ |STYLE5|\ 、Fe\ |STYLE6|\ O\ |STYLE7|\ )，此耐蝕鈍化膜具網狀結晶結構能緻密包覆底部金屬避免繼續快速生鏽。以塗上一底一面漆的鋼筋每年腐蝕速度2.12mm與具有此耐蝕鈍化膜的鋼筋0.04mm相比，每年腐蝕速度僅為其1/53，達成優秀的鐵金屬自我防鏽。
 
 即使位於海邊表面的殘留氯離子，防鏽施作前不用清洗，也能被耐蝕鈍化膜吸納固定，不再擔心其影響腐蝕速度。
 
@@ -78,7 +113,7 @@ AR透明防鏽劑 - 凍結鏽蝕
 ====================================================
 
 
-|REPLACE1|
+|REPLACE2|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -135,7 +170,7 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
 ======================
 
 
-|REPLACE2|
+|REPLACE3|
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -329,10 +364,10 @@ AR透明防鏽劑“最新簡報下載”
 (權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
 
 
-|REPLACE3|
-
-
 |REPLACE4|
+
+
+|REPLACE5|
 
 
 .. bottom of content
@@ -346,16 +381,28 @@ AR透明防鏽劑“最新簡報下載”
 
 .. |STYLE3| replace:: :sub:`4`
 
+.. |STYLE4| replace:: :sub:`2`
+
+.. |STYLE5| replace:: :sub:`3`
+
+.. |STYLE6| replace:: :sub:`3`
+
+.. |STYLE7| replace:: :sub:`4`
+
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="480" src="https://www.youtube.com/embed/sjp9d_hZdBQ
+    <iframe width="100%" height="480" src="https://youtu.be/mS1kQmMB6u4
     " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 .. |REPLACE2| raw:: html
 
-    <iframe width="100%" height="480" src="https://www.youtube.com/embed/ykxmIw5lKmQ
+    <iframe width="100%" height="480" src="https://www.youtube.com/embed/sjp9d_hZdBQ
     " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 .. |REPLACE3| raw:: html
+
+    <iframe width="100%" height="480" src="https://www.youtube.com/embed/ykxmIw5lKmQ
+    " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+.. |REPLACE4| raw:: html
 
     <style>
     div.wy-grid-for-nav li.wy-breadcrumbs-aside {
@@ -366,7 +413,7 @@ AR透明防鏽劑“最新簡報下載”
       opacity: 0.5;
     }
     </style>
-.. |REPLACE4| raw:: html
+.. |REPLACE5| raw:: html
 
     <script>
     document.title = "意杰 Neusauber"
@@ -395,11 +442,11 @@ AR透明防鏽劑“最新簡報下載”
 
 .. |LINK3| raw:: html
 
-    <a href="https://drive.google.com/file/d/1bQeernJCmGoIOmpWU6pXX0z-qU29QVNk/view?usp=sharing" target="_blank">DM(PDF)</a>
+    <a href="https://drive.google.com/file/d/1bQeernJCmGoIOmpWU6pXX0z-qU29QVNk/view?usp=sharing" target="_blank">DM (PDF)</a>
 
 .. |LINK4| raw:: html
 
-    <a href="https://drive.google.com/file/d/1TYgLDNZmw9-TJTh7PbSzuOUjiJ7SlgSP/view?usp=drive_link" target="_blank">簡報檔V20.1(PDF)</a>
+    <a href="https://drive.google.com/file/d/1TYgLDNZmw9-TJTh7PbSzuOUjiJ7SlgSP/view?usp=drive_link" target="_blank">簡報檔V20.1 (PDF)</a>
 
 
 .. |IMG1| image:: static/index_1.png
