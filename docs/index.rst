@@ -361,7 +361,7 @@ AR透明防鏽劑“最新簡報下載”
 
 \ |LINK4|\  (2025.06.30)
 
-(權利聲明：Neusauber、AR透明防鏽劑 為意杰國際註冊商標)
+(權利聲明：Neusauber、AR透明防鏽劑、ARSealing、ARPrimer 為意杰國際註冊商標)
 
 
 |REPLACE4|
@@ -392,7 +392,7 @@ AR透明防鏽劑“最新簡報下載”
 
 .. |REPLACE1| raw:: html
 
-    <iframe width="100%" height="480" src="https://youtu.be/mS1kQmMB6u4
+    <iframe width="100%" height="480" src="https://www.youtube.com/embed/mS1kQmMB6u4
     " frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 .. |REPLACE2| raw:: html
 
