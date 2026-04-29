@@ -16,10 +16,41 @@ AR透明防鏽劑 - 凍結鏽蝕
     Contact
     About
 
-.. _h761c451d126f4e1d335c376911446c4:
+.. _h174fb648377959437b5c1f697c1c40:
 
-最新消息 
-=========
+最新消息
+========
+
+.. _h6711d11397f5296d723f5251b5211:
+
+2026年4月 AR透明防鏽劑推出噴霧罐包裝～～
+========================================
+
+保存簡單、攜帶容易、施作更方便
+
+即日起至115年8月底特價優惠
+
+標準級ARPrimer M3120& ARSealing M3320
+
+原價1,400元(含稅)/瓶
+
+優惠價 999元(含稅)/瓶，可貨到付款，現免收代收費
+
+專業級 ARPrimer M3100& ARSealing M3300
+
+原價2,730元(含稅)/瓶
+
+優惠價 1,899元(含稅)/瓶，可貨到付款，現免收代收費
+
+
+.. admonition:: AR透明防鏽劑 噴霧罐
+
+    \ |IMG1|\ 
+
+.. _h721512647d633e292e6e1a401867145f:
+
+ 
+=
 
 .. _h4d26539543019192c6a433a7e7e5945:
 
@@ -162,7 +193,7 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
 
 .. admonition:: 獨家“凍鏽鈍化”功能在室外也能防鏽前處理
 
-    \ |IMG1|\ \ |IMG2|\ 
+    \ |IMG2|\ \ |IMG3|\ 
 
 .. _h106d6a60386b4471802c17574203f54:
 
@@ -180,38 +211,38 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
 
 .. admonition:: 經凍鏽鈍化後之防鏽成效
 
-    \ |IMG3|\ 
+    \ |IMG4|\ 
 
 防鏽有八大難題，1.嚴重鏽蝕、2.浸泡海水、3.雨季施工、4.除鏽困難、5.不除鏽、6.耐酸氣、耐鹼氣、7.海邊不鏽鋼與非鐵金屬防鏽、8.焊道、斷面、邊緣防鏽，皆可透過使用AR透明防鏽劑獲得明顯改善或解決。
 
 .. admonition:: 解決防鏽難題之一、二
 
-    \ |IMG4|\ \ |IMG5|\ 
+    \ |IMG5|\ \ |IMG6|\ 
 
 
 .. admonition:: 解決防鏽難題之三、四
 
-    \ |IMG6|\ \ |IMG7|\ 
+    \ |IMG7|\ \ |IMG8|\ 
 
 
 .. admonition:: 解決防鏽難題之五、六
 
-    \ |IMG8|\ \ |IMG9|\ 
+    \ |IMG9|\ \ |IMG10|\ 
 
 
 .. admonition:: 解決防鏽難題之七、八
 
-    \ |IMG10|\ \ |IMG11|\ 
+    \ |IMG11|\ \ |IMG12|\ 
 
 
 .. admonition:: 前處理使用AR透明防鏽劑凍鏽鈍化之效益
 
-    \ |IMG12|\ \ |IMG13|\ 
+    \ |IMG13|\ \ |IMG14|\ 
 
 
 .. admonition:: AR透明防鏽劑凍鏽鈍化實績
 
-    \ |IMG14|\ \ |IMG15|\ 
+    \ |IMG15|\ \ |IMG16|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -226,7 +257,7 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
 
 .. admonition:: 以功能選用AR透明防鏽劑適用型號
 
-    \ |IMG16|\ 
+    \ |IMG17|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -239,7 +270,7 @@ ARPrimer底塗型透明防鏽劑
 
 .. admonition:: ARPrimer
 
-    \ |IMG17|\ 
+    \ |IMG18|\ 
 
 ARSealing密封型透明防鏽劑
 
@@ -247,7 +278,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: ARSealing
 
-    \ |IMG18|\ 
+    \ |IMG19|\ 
     
 
 .. _h572187820253c7294643631303029:
@@ -258,7 +289,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: 選用及使用
 
-    \ |IMG19|\ 
+    \ |IMG20|\ 
 
 .. _h2164242e4c6048506f23311549231654:
 
@@ -268,7 +299,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: 防鏽工法示意
 
-    \ |IMG20|\ 
+    \ |IMG21|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -281,7 +312,7 @@ ARSealing密封型透明防鏽劑
 
 ..  Note:: 
 
-    \ |IMG21|\ 
+    \ |IMG22|\ 
 
 
 .. admonition:: 諮詢聯絡資訊
@@ -299,7 +330,7 @@ ARSealing密封型透明防鏽劑
     
     Line ID:@345rxpyp
     
-    \ |IMG22|\ 
+    \ |IMG23|\ 
     
     (Line ID QR code)
     ✽無個人使用銷售，請勿加官方帳號，謝謝！！
@@ -448,8 +479,8 @@ AR透明防鏽劑“最新簡報下載”
     <a href="https://drive.google.com/file/d/1TYgLDNZmw9-TJTh7PbSzuOUjiJ7SlgSP/view?usp=drive_link" target="_blank">簡報檔V20.1 (PDF)</a>
 
 
-.. |IMG1| image:: static/index_1.png
-   :height: 426 px
+.. |IMG1| image:: static/index_1.jpeg
+   :height: 965 px
    :width: 682 px
 
 .. |IMG2| image:: static/index_2.png
@@ -525,13 +556,17 @@ AR透明防鏽劑“最新簡報下載”
    :width: 682 px
 
 .. |IMG20| image:: static/index_20.png
-   :height: 513 px
-   :width: 682 px
-
-.. |IMG21| image:: static/index_21.png
    :height: 426 px
    :width: 682 px
 
+.. |IMG21| image:: static/index_21.png
+   :height: 513 px
+   :width: 682 px
+
 .. |IMG22| image:: static/index_22.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG23| image:: static/index_23.png
    :height: 197 px
    :width: 197 px
