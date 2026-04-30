@@ -45,12 +45,12 @@ AR透明防鏽劑 - 凍結鏽蝕
 
 .. admonition:: AR透明防鏽劑 噴霧罐
 
-    
+    \ |IMG1|\ 
 
-.. _h1694d475e486f6727326e7e621779:
+.. _h721512647d633e292e6e1a401867145f:
 
- \ |IMG1|\ 
-===========
+ 
+=
 
 .. _h4d26539543019192c6a433a7e7e5945:
 
@@ -480,8 +480,8 @@ AR透明防鏽劑“最新簡報下載”
 
 
 .. |IMG1| image:: static/index_1.jpeg
-   :height: 986 px
-   :width: 697 px
+   :height: 968 px
+   :width: 682 px
 
 .. |IMG2| image:: static/index_2.png
    :height: 426 px
