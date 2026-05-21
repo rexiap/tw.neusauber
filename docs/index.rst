@@ -6,8 +6,7 @@ AR透明防鏽劑 - 凍結鏽蝕
 
 
 .. toctree:: 
-    :maxdepth: 2
-    :hidden:
+    :maxdepth: 1
 
     Products
     Demo
