@@ -9,7 +9,6 @@ AR透明防鏽劑 - 凍結鏽蝕
     :maxdepth: 2
     :hidden:
 
-    Home
     Products
     Demo
     Veri-test
