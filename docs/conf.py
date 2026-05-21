@@ -47,3 +47,10 @@ html_theme_options = {
     'includehidden': True,        # 關鍵：即使 toctree 設定了 :hidden:，也強制在左側欄顯示
     'titles_only': True          # 關鍵：只顯示網頁標題（Products、Demo），而不顯示網頁內部的次標題
 }
+
+html_sidebars = {
+    '**': [
+        'globaltoc.html',   # 強制所有頁面（包括首頁）都使用全域目錄，顯示所有子網頁連結
+        'searchbox.html'    # 保留搜尋框
+    ]
+}
