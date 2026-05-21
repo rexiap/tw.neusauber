@@ -40,6 +40,7 @@ latex_documents = []
 html_show_sourcelink = False
 html_copy_source = False
 
+## 以下為2026/5/21所加
 html_theme_options = {
     'collapse_navigation': False,  # 關鍵：不要折疊導覽列，這會讓所有子網頁連結直接展開顯示
     'sticky_navigation': True,    # 滾動時導覽列固定
@@ -47,7 +48,7 @@ html_theme_options = {
     'includehidden': True,        # 關鍵：即使 toctree 設定了 :hidden:，也強制在左側欄顯示
     'titles_only': True          # 關鍵：只顯示網頁標題（Products、Demo），而不顯示網頁內部的次標題
 }
-
+## 以下為2026/5/21所加
 html_sidebars = {
     '**': [
         'globaltoc.html',   # 強制所有頁面（包括首頁）都使用全域目錄，顯示所有子網頁連結
