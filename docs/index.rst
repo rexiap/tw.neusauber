@@ -184,10 +184,75 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
 
 橋樑、建築、動力車輛/底盤、機械設備、太陽能、風力發電、化學管線/槽/架、室內物品、食品設備、自行車等防鏽，所有室內、室外、高鹽害、高磺害之金屬設施或設備都適用，無法除鏽、除鏽困難區域更合適。鐵材、鋼材、鋼纜、銅製、鋁製、鎳鍍層、鋅鍍層、油漆層皆可用。
 
+.. _h73743345d14427f1804a424f59c49:
+
+別再做表面工夫！AR透明防鏽劑，一劑「凍」住鐵鏽的三維大絕
+========================================================
+
+傳統防鏽漆只是在表面「蓋斑」，根本擋不住底下的鐵鏽作怪。生鏽最讓人頭痛的，就是它會像癌細胞一樣進行「立體破壞」── 往死裡鑽、往旁邊爛、還把漆面撐爆。
+
+\ |STYLE8|\  採用獨家凍鏽鈍化技術，不玩表面塗鴉，直接從骨子裡瓦解生鏽危機！
+
+.. admonition:: 生鏽三大痛點，AR透明防鏽劑 一次幫你斷根～
+
+    \ |IMG2|\ 
+
+\ |STYLE9|\  
+
+    \ |STYLE10|\ ：表面看起來好好的，其實裡面早就蝕穿了，接下來就是漏水、漏油，甚至整個結構突然啪一聲斷掉 。
+
+    \ |STYLE11|\ ：死死鎖定生鏽區域，\ |STYLE12|\ ，旁邊完好的漆層絕不起泡、不被撐開 。
+
+\ |STYLE13|\  
+
+    \ |STYLE14|\ ：鐵鏽最壞的就是會躲在漆面底下偷偷「吃過去」，等發現時已經整片掉漆，這時候要刮除重弄，維護成本直接翻倍暴增 。
+
+    \ |STYLE15|\ ：死死鎖定生鏽區域，\ |STYLE16|\ ，旁邊完好的漆層不起泡、不被撐開 。 
+
+.. admonition:: 生鏽三大痛點，AR透明防鏽劑 一次幫你斷根～
+
+    \ |IMG3|\ 
+
+\ |STYLE17|\ 
+
+    \ |STYLE18|\ ：鐵鏽生出來後，體積會直接「腫」個 2 到 6 倍 。那個恐怖的膨脹力道連混凝土都能撐裂，精密接合處直接變形報廢 。
+
+    \ |STYLE19|\ ：顛覆常識！塗上去之後，它會原位進行晶型轉換，\ |STYLE20|\ ，變成一層密實的保護層 。
+
+
+.. admonition:: 生鏽三大痛點，AR透明防鏽劑 一次幫你斷根～
+
+    \ |IMG4|\ \ |IMG5|\ 
+
+\ |STYLE21|\ 
+
+   \ |STYLE22|\ 在顯微鏡下長得像「尖銳的米粒」 。這些尖晶就像一堆微小的釘子，生長膨脹時會硬生生扎破、鑽爛你的塗層 。
+
+   \ |STYLE23|\ 塗布 AR 透明防鏽劑之後，會將鐵鏽化學脫水重組，轉化為圓球狀的三氧化二鐵 (Fe2O3) 。當鐵鏽失去了尖銳的「倒刺」，就不會再破壞塗層 。 
+
+原本活性鏽的鏽水擦不掉，但「塗布 AR 凍鏽鈍化後」產生的鏽水，因為失去活性、晶體轉為鬆散的圓球狀，一擦就乾乾淨淨！ 不劣化油漆、壽命守得住～
+
+
+.. admonition:: AR透明防鏽劑是油漆的好夥伴
+
+    \ |IMG6|\ 
+
+.. _h57a384161743f1773c6e6976556675:
+
+別再為生鏽編預算！選擇 AR 透明防鏽劑，一勞永逸
+----------------------------------------------
+
+每次生鏽就是「刮除、補漆、過半年又爆開」的無底洞循環嗎 ？傳統的防鏽工法，只是在跟鐵鏽玩捉迷藏，浪費時間又浪費大筆維護成本 。
+
+\ |STYLE24|\  幫你把生鏽危機直接凍結在原地 ！不管是濱海案場，還是各種惡劣環境 ，或各式合金與生鏽，AR 都能主動出擊，把尖銳鐵鏽變縮水、變聽話 。
+
+\ |STYLE25|\  > 別再做無效的表面工夫，現在就改用 \ |STYLE26|\ ，幫你的鋼構與精密設備穿上最強透明防護罩！
+
+\ |STYLE27|\ 
 
 .. admonition:: 獨家“凍鏽鈍化”功能在室外也能防鏽前處理
 
-    \ |IMG2|\ \ |IMG3|\ 
+    \ |IMG7|\ \ |IMG8|\ 
 
 .. _h106d6a60386b4471802c17574203f54:
 
@@ -205,38 +270,38 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
 
 .. admonition:: 經凍鏽鈍化後之防鏽成效
 
-    \ |IMG4|\ 
+    \ |IMG9|\ 
 
 防鏽有八大難題，1.嚴重鏽蝕、2.浸泡海水、3.雨季施工、4.除鏽困難、5.不除鏽、6.耐酸氣、耐鹼氣、7.海邊不鏽鋼與非鐵金屬防鏽、8.焊道、斷面、邊緣防鏽，皆可透過使用AR透明防鏽劑獲得明顯改善或解決。
 
 .. admonition:: 解決防鏽難題之一、二
 
-    \ |IMG5|\ \ |IMG6|\ 
+    \ |IMG10|\ \ |IMG11|\ 
 
 
 .. admonition:: 解決防鏽難題之三、四
 
-    \ |IMG7|\ \ |IMG8|\ 
+    \ |IMG12|\ \ |IMG13|\ 
 
 
 .. admonition:: 解決防鏽難題之五、六
 
-    \ |IMG9|\ \ |IMG10|\ 
+    \ |IMG14|\ \ |IMG15|\ 
 
 
 .. admonition:: 解決防鏽難題之七、八
 
-    \ |IMG11|\ \ |IMG12|\ 
+    \ |IMG16|\ \ |IMG17|\ 
 
 
 .. admonition:: 前處理使用AR透明防鏽劑凍鏽鈍化之效益
 
-    \ |IMG13|\ \ |IMG14|\ 
+    \ |IMG18|\ \ |IMG19|\ 
 
 
 .. admonition:: AR透明防鏽劑凍鏽鈍化實績
 
-    \ |IMG15|\ \ |IMG16|\ 
+    \ |IMG20|\ \ |IMG21|\ 
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -251,7 +316,7 @@ AR透明防鏽劑為溶劑型化學藥液，液體無黏度滲透性強，不需
 
 .. admonition:: 以功能選用AR透明防鏽劑適用型號
 
-    \ |IMG17|\ 
+    \ |IMG22|\ 
 
 .. _h174fb648377959437b5c1f697c1c40:
 
@@ -264,7 +329,7 @@ ARPrimer底塗型透明防鏽劑
 
 .. admonition:: ARPrimer
 
-    \ |IMG18|\ 
+    \ |IMG23|\ 
 
 ARSealing密封型透明防鏽劑
 
@@ -272,7 +337,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: ARSealing
 
-    \ |IMG19|\ 
+    \ |IMG24|\ 
     
 
 .. _h572187820253c7294643631303029:
@@ -283,7 +348,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: 選用及使用
 
-    \ |IMG20|\ 
+    \ |IMG25|\ 
 
 .. _h2164242e4c6048506f23311549231654:
 
@@ -293,7 +358,7 @@ ARSealing密封型透明防鏽劑
 
 .. admonition:: 防鏽工法示意
 
-    \ |IMG21|\ 
+    \ |IMG26|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -306,7 +371,7 @@ ARSealing密封型透明防鏽劑
 
 ..  Note:: 
 
-    \ |IMG22|\ 
+    \ |IMG27|\ 
 
 
 .. admonition:: 諮詢聯絡資訊
@@ -324,7 +389,7 @@ ARSealing密封型透明防鏽劑
     
     Line ID:@345rxpyp
     
-    \ |IMG23|\ 
+    \ |IMG28|\ 
     
     (Line ID QR code)
     ✽無個人使用銷售，請勿加官方帳號，謝謝！！
@@ -414,6 +479,46 @@ AR透明防鏽劑“最新簡報下載”
 
 .. |STYLE7| replace:: :sub:`4`
 
+.. |STYLE8| replace:: **AR透明防鏽劑**
+
+.. |STYLE9| replace:: **1. 不「往死裡鑽」 ── 終結局部穿孔 (Pitting)**
+
+.. |STYLE10| replace:: **傳統痛點**
+
+.. |STYLE11| replace:: **AR強項**
+
+.. |STYLE12| replace:: **在濱海惡劣環境測試半年，生鏽範圍完全沒變大**
+
+.. |STYLE13| replace:: **2. 不「橫向擴散」 ── 抑制漆膜底下的剝離 (Creep)**
+
+.. |STYLE14| replace:: **傳統痛點**
+
+.. |STYLE15| replace:: **AR強項**
+
+.. |STYLE16| replace:: **在濱海惡劣環境測試數年，生鏽範圍完全沒變大**
+
+.. |STYLE17| replace:: **3. 不「腫脹撐爆」 ── 逼鐵鏽主動「縮水」坍縮**
+
+.. |STYLE18| replace:: **傳統痛點**
+
+.. |STYLE19| replace:: **AR強項**
+
+.. |STYLE20| replace:: **逼鐵鏽向內坍縮成原本的 0.5 倍**
+
+.. |STYLE21| replace:: **為什麼 AR 這麼厲害？微觀科學直接看**
+
+.. |STYLE22| replace:: **傳統活潑鏽（羥基氧化鐵 FeOOH）：**
+
+.. |STYLE23| replace:: **AR 處理後的晶型重組：**
+
+.. |STYLE24| replace:: **AR 透明防鏽劑**
+
+.. |STYLE25| replace:: **「防鏽做得好，資產保到老。」**
+
+.. |STYLE26| replace:: **AR 透明防鏽劑**
+
+.. |STYLE27| replace:: **AR透明防鏽劑凍鏽鈍化與實際成效**
+
 
 .. |REPLACE1| raw:: html
 
@@ -478,23 +583,23 @@ AR透明防鏽劑“最新簡報下載”
    :width: 682 px
 
 .. |IMG2| image:: static/index_2.png
-   :height: 426 px
+   :height: 482 px
    :width: 682 px
 
 .. |IMG3| image:: static/index_3.png
-   :height: 426 px
+   :height: 482 px
    :width: 682 px
 
 .. |IMG4| image:: static/index_4.png
-   :height: 426 px
+   :height: 482 px
    :width: 682 px
 
 .. |IMG5| image:: static/index_5.png
-   :height: 426 px
+   :height: 482 px
    :width: 682 px
 
 .. |IMG6| image:: static/index_6.png
-   :height: 426 px
+   :height: 482 px
    :width: 682 px
 
 .. |IMG7| image:: static/index_7.png
@@ -554,7 +659,7 @@ AR透明防鏽劑“最新簡報下載”
    :width: 682 px
 
 .. |IMG21| image:: static/index_21.png
-   :height: 513 px
+   :height: 426 px
    :width: 682 px
 
 .. |IMG22| image:: static/index_22.png
@@ -562,5 +667,25 @@ AR透明防鏽劑“最新簡報下載”
    :width: 682 px
 
 .. |IMG23| image:: static/index_23.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG24| image:: static/index_24.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG25| image:: static/index_25.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG26| image:: static/index_26.png
+   :height: 513 px
+   :width: 682 px
+
+.. |IMG27| image:: static/index_27.png
+   :height: 426 px
+   :width: 682 px
+
+.. |IMG28| image:: static/index_28.png
    :height: 197 px
    :width: 197 px
