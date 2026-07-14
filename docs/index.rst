@@ -299,7 +299,7 @@ ARCT技術幫你把生鏽危機直接凍結在原地 ！不管是濱海案場，
 
 .. admonition:: .
 
-    \ |IMG10|\ 
+    
 
 .. _h647d574b53a2d5e335c126d1c1a4c45:
 
@@ -312,27 +312,29 @@ ARCT技術解決防鏽八大難題：
 
 .. admonition:: .
 
-    \ |IMG11|\ \ |IMG12|\ 
+    \ |IMG10|\ \ |IMG11|\ 
 
 
 .. admonition:: .
 
-    \ |IMG13|\ \ |IMG14|\ 
+    \ |IMG12|\ \ |IMG13|\ 
 
 
 .. admonition:: .
 
-    \ |IMG15|\ \ |IMG16|\ 
+    \ |IMG14|\ \ |IMG15|\ 
 
 
 .. admonition:: .
 
-    \ |IMG17|\ \ |IMG18|\ 
+    \ |IMG16|\ \ |IMG17|\ 
 
 
 .. admonition:: .
 
-    \ |IMG19|\ \ |IMG20|\ 
+    \ |IMG18|\ \ |IMG19|\ 
+
+    
 
 .. _h2c1d74277104e41780968148427e:
 
@@ -347,7 +349,7 @@ ARCT技術解決防鏽八大難題：
 
 .. admonition:: .
 
-    \ |IMG21|\ 
+    \ |IMG20|\ 
 
 .. _h5823692f2c7a4f4d1c1e52775a1b3015:
 
@@ -357,7 +359,7 @@ ARCT技術解決防鏽八大難題：
 
 .. admonition:: .
 
-    \ |IMG22|\ 
+    \ |IMG21|\ 
 
 ＊實際年限以各地區環境為準。
 
@@ -370,7 +372,7 @@ ARCT技術解決防鏽八大難題：
 
 .. admonition:: .
 
-    \ |IMG23|\ 
+    \ |IMG22|\ 
 
 
 .. admonition:: 諮詢聯絡資訊
@@ -387,7 +389,7 @@ ARCT技術解決防鏽八大難題：
     
     Line ID:@345rxpyp
     
-    \ |IMG24|\ 
+    \ |IMG23|\ 
     
     (Line ID QR code)
     
@@ -563,7 +565,7 @@ AR透明防鏽劑“最新簡報下載”
    :height: 512 px
    :width: 682 px
 
-.. |IMG4| image:: static/index_4.jpeg
+.. |IMG4| image:: static/index_4.png
    :height: 426 px
    :width: 682 px
 
@@ -632,17 +634,13 @@ AR透明防鏽劑“最新簡報下載”
    :width: 682 px
 
 .. |IMG21| image:: static/index_21.png
-   :height: 426 px
+   :height: 514 px
    :width: 682 px
 
 .. |IMG22| image:: static/index_22.png
-   :height: 513 px
-   :width: 682 px
-
-.. |IMG23| image:: static/index_23.png
    :height: 426 px
    :width: 682 px
 
-.. |IMG24| image:: static/index_24.png
+.. |IMG23| image:: static/index_23.png
    :height: 197 px
    :width: 197 px
